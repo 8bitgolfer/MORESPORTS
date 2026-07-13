@@ -1,24 +1,36 @@
 # WNBA Prop Lab
 
-A GitHub Pages-ready WNBA player prop research dashboard. Click any row to open an Outlier-style game-log modal with Last 10, Last 5, and H2H tabs. Bars are green when the result is over the line, red when under, and gold on a push.
+A GitHub Pages-ready WNBA prop research dashboard with game-slate filtering, Last 10, Last 5, and head-to-head results.
 
-## Fastest setup
-1. Create a new GitHub repository.
-2. Upload every file and folder from this project.
-3. Commit to `main`.
-4. Open **Settings → Pages** and choose **GitHub Actions** as the source.
-5. The included workflow deploys the site.
+## How the daily matchup matching works
 
-## Put in today's PrizePicks lines
-Edit `data/props.json`. Each prop needs the player, team, opponent, market, line, projection, last 10 game values, and H2H values. The site recalculates averages and over rates automatically.
+1. `data/lines.json` contains the current prop board: player, market, and line.
+2. The GitHub Action runs `scripts/update_stats.py` each morning.
+3. The script fetches the day's WNBA schedule in Eastern Time.
+4. It identifies each player's current team and matches that team to its scheduled opponent.
+5. Players whose teams do not play that day are removed.
+6. The site shows game buttons such as `ATL @ LVA` and only displays props belonging to selected games.
 
-## Automatic stats updater
-`scripts/update_stats.py` can pull WNBA player game logs from BALLDONTLIE while leaving your manually entered prop lines in place.
+You do **not** need to type the opponent in `lines.json`; the updater matches it automatically.
 
-1. Create a BALLDONTLIE API key.
-2. In GitHub, open **Settings → Secrets and variables → Actions**.
-3. Add a repository secret named `BALLDONTLIE_API_KEY`.
-4. In `data/lines.json`, enter today's player names, lines, opponents, and markets.
-5. Run the **Update WNBA data** workflow manually or wait for its daily run.
+## Required GitHub secret
 
-PrizePicks does not provide a public supported API in this project, so lines are intentionally entered manually rather than scraped.
+Create `BALLDONTLIE_API_KEY` under **Settings → Secrets and variables → Actions**.
+
+## Entering lines
+
+Edit `data/lines.json`:
+
+```json
+{"player":"A'ja Wilson","market":"pts","market_label":"Points","line":26.5}
+```
+
+Supported markets: `pts`, `reb`, `ast`, `pra`, and `3pm`.
+
+## Deploy
+
+Under **Settings → Pages**, choose **GitHub Actions**. The included workflows deploy the site and update the data daily.
+
+## Important
+
+The demo values are examples. Automatic statistics and schedule updates require the API key. PrizePicks does not provide a supported public feed in this project, so its daily lines must be entered into `data/lines.json` or supplied by a data provider you are authorized to use.
