@@ -1,28 +1,27 @@
 {
-  "updated_at": "2026-07-15T04:00-04:00",
+  "updated_at": "2026-07-15T04:11-04:00",
   "slate_date": "2026-07-15",
-  "stats_status": "unavailable",
   "games": [
     {
       "id": "dd23179c4373849ae1da8476ec21def3",
       "date": "2026-07-15",
       "datetime": "2026-07-15T16:10:00Z",
-      "home_team": "CHI",
-      "away_team": "SEA"
+      "away_team": "SEA",
+      "home_team": "CHI"
     },
     {
       "id": "4db11d33553fba68fc607aaf009071aa",
       "date": "2026-07-15",
       "datetime": "2026-07-15T17:10:00Z",
-      "home_team": "MIN",
-      "away_team": "LAS"
+      "away_team": "LAS",
+      "home_team": "MIN"
     },
     {
       "id": "8eace0d4309db9d618e7ba857166324b",
       "date": "2026-07-15",
       "datetime": "2026-07-16T00:10:00Z",
-      "home_team": "IND",
-      "away_team": "GSV"
+      "away_team": "GSV",
+      "home_team": "IND"
     }
   ],
   "props": [
@@ -37,19 +36,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "C",
+      "projection": 9.5,
+      "edge": -3.0,
+      "last5_avg": 8.2,
+      "last10_avg": 11.8,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 4.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 7.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 12.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 18.0,
+          "opponent": "POR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Awa Fam",
@@ -62,19 +117,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "C",
+      "projection": 9.5,
+      "edge": -3.0,
+      "last5_avg": 8.2,
+      "last10_avg": 11.8,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 4.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 7.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 12.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 18.0,
+          "opponent": "POR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Azura Stevens",
@@ -87,19 +198,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "CHI",
+      "opponent": "SEA",
+      "home": true,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 13.6,
+      "edge": 0.1,
+      "last5_avg": 14.4,
+      "last10_avg": 12.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 20,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 10.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 11.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 12.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 11.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 8.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "NY"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Azura Stevens",
@@ -112,19 +279,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "CHI",
+      "opponent": "SEA",
+      "home": true,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 13.6,
+      "edge": 0.1,
+      "last5_avg": 14.4,
+      "last10_avg": 12.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 20,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 10.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 11.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 12.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 11.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 8.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "NY"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Courtney Vandersloot",
@@ -137,19 +360,55 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "CHI",
+      "opponent": "SEA",
+      "home": true,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 7.7,
+      "edge": -0.8,
+      "last5_avg": 7.6,
+      "last10_avg": 8.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 6.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 7.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 11.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 5.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 10.0,
+          "opponent": "POR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Dominique Malonga",
@@ -162,19 +421,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "C",
+      "projection": 12.8,
+      "edge": -4.7,
+      "last5_avg": 10.8,
+      "last10_avg": 16.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 15.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 2.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 22.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 20.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 37.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 10.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 28.0,
+          "opponent": "POR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Dominique Malonga",
@@ -187,19 +502,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "C",
+      "projection": 12.8,
+      "edge": -4.7,
+      "last5_avg": 10.8,
+      "last10_avg": 16.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 15.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 2.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 22.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 20.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 37.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 10.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 28.0,
+          "opponent": "POR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Flau'jae Johnson",
@@ -212,19 +583,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 12.5,
+      "edge": -1.0,
+      "last5_avg": 11.6,
+      "last10_avg": 14.2,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 23.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 1.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 28.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 11.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 8.0,
+          "opponent": "POR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Flau'jae Johnson",
@@ -237,19 +664,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 12.5,
+      "edge": -1.0,
+      "last5_avg": 11.6,
+      "last10_avg": 14.2,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 23.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 1.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 28.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 11.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 8.0,
+          "opponent": "POR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Jade Melbourne",
@@ -262,19 +745,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 8.2,
+      "edge": 0.7,
+      "last5_avg": 8.2,
+      "last10_avg": 8.2,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 5.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 11.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 5.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 10.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 18.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/20",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/13",
+          "value": 5.0,
+          "opponent": "GS"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Jade Melbourne",
@@ -287,19 +826,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 8.2,
+      "edge": 0.7,
+      "last5_avg": 8.2,
+      "last10_avg": 8.2,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 5.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 11.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 5.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 10.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 18.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/20",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/13",
+          "value": 5.0,
+          "opponent": "GS"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Kamilla Cardoso",
@@ -312,19 +907,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "CHI",
+      "opponent": "SEA",
+      "home": true,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "C",
+      "projection": 15.9,
+      "edge": 1.4,
+      "last5_avg": 15.2,
+      "last10_avg": 17.1,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 12.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 16.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 30.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 13.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 16.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 26.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "NY"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Kamilla Cardoso",
@@ -337,19 +988,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "CHI",
+      "opponent": "SEA",
+      "home": true,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "C",
+      "projection": 15.9,
+      "edge": 1.4,
+      "last5_avg": 15.2,
+      "last10_avg": 17.1,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 12.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 16.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 30.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 13.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 16.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 26.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "NY"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Natasha Cloud",
@@ -362,19 +1069,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "CHI",
+      "opponent": "SEA",
+      "home": true,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 10.5,
+      "edge": -1.0,
+      "last5_avg": 11.2,
+      "last10_avg": 9.2,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 20,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 15.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 15.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 2.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 9.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 4.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 10.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 11.0,
+          "opponent": "NY"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Natasha Cloud",
@@ -387,19 +1150,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "CHI",
+      "opponent": "SEA",
+      "home": true,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 10.5,
+      "edge": 0.0,
+      "last5_avg": 11.2,
+      "last10_avg": 9.2,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 15.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 15.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 2.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 9.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 4.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 10.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 11.0,
+          "opponent": "NY"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Natisha Hiedeman",
@@ -412,19 +1231,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 18.7,
+      "edge": 3.2,
+      "last5_avg": 18.8,
+      "last10_avg": 18.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 31.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 15.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 11.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 21.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 20.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 19.0,
+          "opponent": "POR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Natisha Hiedeman",
@@ -437,19 +1312,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "SEA",
+      "opponent": "CHI",
+      "home": false,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 18.7,
+      "edge": 3.2,
+      "last5_avg": 18.8,
+      "last10_avg": 18.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 31.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 15.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 11.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 21.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 20.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 19.0,
+          "opponent": "POR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Sydney Taylor",
@@ -462,19 +1393,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "CHI",
+      "opponent": "SEA",
+      "home": true,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 15.0,
+      "edge": -1.5,
+      "last5_avg": 14.2,
+      "last10_avg": 16.6,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 20.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 16.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 14.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 29.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 14.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 10.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 24.0,
+          "opponent": "NY"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Sydney Taylor",
@@ -487,19 +1474,75 @@
       "commence_time": "2026-07-15T16:10:00Z",
       "home_team_name": "Chicago Sky",
       "away_team_name": "Seattle Storm",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "CHI",
+      "opponent": "SEA",
+      "home": true,
       "game_id": "dd23179c4373849ae1da8476ec21def3",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T16:10:00Z",
-      "matchup": "SEA @ CHI",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 15.0,
+      "edge": -0.5,
+      "last5_avg": 14.2,
+      "last10_avg": 16.6,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 20.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 16.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 14.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 29.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 14.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 10.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 24.0,
+          "opponent": "NY"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Ariel Atkins",
@@ -512,19 +1555,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 10.6,
+      "edge": 1.1,
+      "last5_avg": 11.8,
+      "last10_avg": 8.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 5.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 0.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 10.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 4.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 6.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 6.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Ariel Atkins",
@@ -537,19 +1636,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 10.6,
+      "edge": 0.1,
+      "last5_avg": 11.8,
+      "last10_avg": 8.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 5.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 0.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 10.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 4.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 6.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 6.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Courtney Williams",
@@ -562,19 +1717,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 14.0,
+      "edge": -1.5,
+      "last5_avg": 14.2,
+      "last10_avg": 13.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 8.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 12.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/08",
+          "value": 12.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/07",
+          "value": 23.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/03",
+          "value": 16.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 12.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 13.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 21.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 13.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Courtney Williams",
@@ -587,19 +1798,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 14.0,
+      "edge": -1.5,
+      "last5_avg": 14.2,
+      "last10_avg": 13.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 8.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 12.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/08",
+          "value": 12.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/07",
+          "value": 23.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/03",
+          "value": 16.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 12.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 13.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 21.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 13.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Dearica Hamby",
@@ -612,19 +1879,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 15.6,
+      "edge": 1.1,
+      "last5_avg": 16.4,
+      "last10_avg": 14.1,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 12.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 21.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 17.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 15.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 12.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 6.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 8.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Dearica Hamby",
@@ -637,19 +1960,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 15.6,
+      "edge": 0.1,
+      "last5_avg": 16.4,
+      "last10_avg": 14.1,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 12.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 21.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 17.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 15.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 12.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 6.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 8.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Erica Wheeler",
@@ -662,19 +2041,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 9.8,
+      "edge": 0.3,
+      "last5_avg": 10.4,
+      "last10_avg": 8.7,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 3.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 2.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 0.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 6.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Erica Wheeler",
@@ -687,19 +2122,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 9.8,
+      "edge": 0.3,
+      "last5_avg": 10.4,
+      "last10_avg": 8.7,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 3.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 2.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 0.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 6.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Kayla McBride",
@@ -712,19 +2203,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 24.4,
+      "edge": 5.9,
+      "last5_avg": 26.2,
+      "last10_avg": 21.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 37.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 25.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/08",
+          "value": 23.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/07",
+          "value": 28.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/03",
+          "value": 18.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 19.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 12.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 17.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 14.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Kayla McBride",
@@ -737,19 +2284,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 24.4,
+      "edge": 5.9,
+      "last5_avg": 26.2,
+      "last10_avg": 21.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 37.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 25.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/08",
+          "value": 23.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/07",
+          "value": 28.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/03",
+          "value": 18.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 19.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 12.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 17.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 14.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Natasha Howard",
@@ -762,19 +2365,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 13.9,
+      "edge": -2.6,
+      "last5_avg": 13.2,
+      "last10_avg": 15.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 16.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/08",
+          "value": 12.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/07",
+          "value": 18.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/03",
+          "value": 7.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 21.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 21.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 20.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 10.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 15.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Natasha Howard",
@@ -787,19 +2446,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 13.9,
+      "edge": -2.6,
+      "last5_avg": 13.2,
+      "last10_avg": 15.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 16.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/08",
+          "value": 12.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/07",
+          "value": 18.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/03",
+          "value": 7.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 21.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 21.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 20.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 10.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 15.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Nia Coffey",
@@ -812,19 +2527,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 4.7,
+      "edge": -2.8,
+      "last5_avg": 3.6,
+      "last10_avg": 6.6,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 0,
+      "last10_over_pct": 20,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 3.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/08",
+          "value": 1.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/07",
+          "value": 2.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/03",
+          "value": 7.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 9.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 22.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 7.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Nia Coffey",
@@ -837,19 +2608,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 4.7,
+      "edge": -2.8,
+      "last5_avg": 3.6,
+      "last10_avg": 6.6,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 0,
+      "last10_over_pct": 20,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 3.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/08",
+          "value": 1.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/07",
+          "value": 2.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/03",
+          "value": 7.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 9.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 22.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 7.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Nneka Ogwumike",
@@ -862,19 +2689,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 19.1,
+      "edge": 1.6,
+      "last5_avg": 19.8,
+      "last10_avg": 17.8,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 19.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 25.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 24.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 14.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 24.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 9.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 15.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Nneka Ogwumike",
@@ -887,19 +2770,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 19.1,
+      "edge": 1.6,
+      "last5_avg": 19.8,
+      "last10_avg": 17.8,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 19.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 25.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 24.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 14.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 24.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 9.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 15.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Olivia Miles",
@@ -912,19 +2851,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 22.0,
+      "edge": 1.5,
+      "last5_avg": 22.4,
+      "last10_avg": 21.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 33.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 23.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/03",
+          "value": 14.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 21.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 21.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 22.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 7.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 31.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/16",
+          "value": 12.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/14",
+          "value": 29.0,
+          "opponent": "LV"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Olivia Miles",
@@ -937,19 +2932,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "MIN",
+      "opponent": "LAS",
+      "home": true,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 22.0,
+      "edge": 2.5,
+      "last5_avg": 22.4,
+      "last10_avg": 21.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 33.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/11",
+          "value": 23.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/03",
+          "value": 14.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/28",
+          "value": 21.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/24",
+          "value": 21.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/21",
+          "value": 22.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/20",
+          "value": 7.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/18",
+          "value": 31.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/16",
+          "value": 12.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/14",
+          "value": 29.0,
+          "opponent": "LV"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Rae Burrell",
@@ -962,19 +3013,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 15.3,
+      "edge": 0.8,
+      "last5_avg": 14.6,
+      "last10_avg": 16.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 18.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 22.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 5.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 11.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 17.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 19.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 19.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 13.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 24.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Rae Burrell",
@@ -987,19 +3094,75 @@
       "commence_time": "2026-07-15T17:10:00Z",
       "home_team_name": "Minnesota Lynx",
       "away_team_name": "Los Angeles Sparks",
-      "team": "",
+      "team": "LA",
       "opponent": "",
       "home": null,
       "game_id": "4db11d33553fba68fc607aaf009071aa",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-15T17:10:00Z",
-      "matchup": "LAS @ MIN",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 15.3,
+      "edge": 0.8,
+      "last5_avg": 14.6,
+      "last10_avg": 16.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 18.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 22.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 5.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 11.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 17.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 19.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 19.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 13.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/14",
+          "value": 24.0,
+          "opponent": "PHX"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Aliyah Boston",
@@ -1012,19 +3175,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "IND",
+      "opponent": "GSV",
+      "home": true,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "C",
+      "projection": 18.8,
+      "edge": 3.3,
+      "last5_avg": 19.6,
+      "last10_avg": 17.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 100,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 19.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 21.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/05",
+          "value": 18.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 23.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 8.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 18.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/13",
+          "value": 13.0,
+          "opponent": "CON"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Aliyah Boston",
@@ -1037,19 +3256,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "IND",
+      "opponent": "GSV",
+      "home": true,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "C",
+      "projection": 18.8,
+      "edge": 3.3,
+      "last5_avg": 19.6,
+      "last10_avg": 17.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 100,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 19.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 21.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/05",
+          "value": 18.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 23.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 8.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 18.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/13",
+          "value": 13.0,
+          "opponent": "CON"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Caitlin Clark",
@@ -1062,19 +3337,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "IND",
+      "opponent": "GSV",
+      "home": true,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 19.2,
+      "edge": 3.7,
+      "last5_avg": 18.0,
+      "last10_avg": 21.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 80,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 12.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/09",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 19.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 24.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/13",
+          "value": 25.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/11",
+          "value": 32.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/08",
+          "value": 19.0,
+          "opponent": "WSH"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Caitlin Clark",
@@ -1087,19 +3418,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "IND",
+      "opponent": "GSV",
+      "home": true,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 19.2,
+      "edge": 3.7,
+      "last5_avg": 18.0,
+      "last10_avg": 21.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 80,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 12.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/09",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 19.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 24.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/13",
+          "value": 25.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/11",
+          "value": 32.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/08",
+          "value": 19.0,
+          "opponent": "WSH"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Gabby Williams",
@@ -1112,19 +3499,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
+      "team": "GS",
       "opponent": "",
       "home": null,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 11.5,
+      "edge": -2.0,
+      "last5_avg": 10.2,
+      "last10_avg": 14.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/08",
+          "value": 7.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "07/06",
+          "value": 2.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/04",
+          "value": 19.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/28",
+          "value": 7.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/27",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/25",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/21",
+          "value": 10.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/20",
+          "value": 15.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/18",
+          "value": 25.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/16",
+          "value": 16.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Gabby Williams",
@@ -1137,19 +3580,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
+      "team": "GS",
       "opponent": "",
       "home": null,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 11.5,
+      "edge": -2.0,
+      "last5_avg": 10.2,
+      "last10_avg": 14.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/08",
+          "value": 7.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "07/06",
+          "value": 2.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/04",
+          "value": 19.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/28",
+          "value": 7.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/27",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/25",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/21",
+          "value": 10.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/20",
+          "value": 15.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/18",
+          "value": 25.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/16",
+          "value": 16.0,
+          "opponent": "LA"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Janelle Salaun",
@@ -1162,19 +3661,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
+      "team": "GS",
       "opponent": "",
       "home": null,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 13.8,
+      "edge": 0.3,
+      "last5_avg": 14.8,
+      "last10_avg": 12.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/10",
+          "value": 16.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/08",
+          "value": 26.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "07/06",
+          "value": 8.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/04",
+          "value": 14.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/28",
+          "value": 10.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/27",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/25",
+          "value": 6.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/21",
+          "value": 5.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/20",
+          "value": 15.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "DAL"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Janelle Salaun",
@@ -1187,19 +3742,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
+      "team": "GS",
       "opponent": "",
       "home": null,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 13.8,
+      "edge": 0.3,
+      "last5_avg": 14.8,
+      "last10_avg": 12.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/10",
+          "value": 16.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/08",
+          "value": 26.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "07/06",
+          "value": 8.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/04",
+          "value": 14.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/28",
+          "value": 10.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/27",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/25",
+          "value": 6.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/21",
+          "value": 5.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/20",
+          "value": 15.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "DAL"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Kayla Thornton",
@@ -1212,19 +3823,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
+      "team": "GS",
       "opponent": "",
       "home": null,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 6.3,
+      "edge": -2.2,
+      "last5_avg": 6.4,
+      "last10_avg": 6.2,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/10",
+          "value": 2.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/08",
+          "value": 15.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "07/06",
+          "value": 2.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/04",
+          "value": 2.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/28",
+          "value": 11.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/27",
+          "value": 0.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/25",
+          "value": 17.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/21",
+          "value": 2.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/20",
+          "value": 3.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/18",
+          "value": 8.0,
+          "opponent": "DAL"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Kayla Thornton",
@@ -1237,19 +3904,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
+      "team": "GS",
       "opponent": "",
       "home": null,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 6.3,
+      "edge": -3.2,
+      "last5_avg": 6.4,
+      "last10_avg": 6.2,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/10",
+          "value": 2.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/08",
+          "value": 15.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "07/06",
+          "value": 2.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/04",
+          "value": 2.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/28",
+          "value": 11.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/27",
+          "value": 0.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/25",
+          "value": 17.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/21",
+          "value": 2.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/20",
+          "value": 3.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/18",
+          "value": 8.0,
+          "opponent": "DAL"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Kelsey Mitchell",
@@ -1262,19 +3985,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "IND",
+      "opponent": "GSV",
+      "home": true,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 27.0,
+      "edge": 5.5,
+      "last5_avg": 27.6,
+      "last10_avg": 25.9,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 100,
+      "last10_over_pct": 90,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 27.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 29.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 29.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 27.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 26.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 30.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 22.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 27.0,
+          "opponent": "TOR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Kelsey Mitchell",
@@ -1287,19 +4066,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "IND",
+      "opponent": "GSV",
+      "home": true,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 27.0,
+      "edge": 5.5,
+      "last5_avg": 27.6,
+      "last10_avg": 25.9,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 100,
+      "last10_over_pct": 90,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 27.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 29.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 29.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 27.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 26.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 30.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 22.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 27.0,
+          "opponent": "TOR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Monique Billings",
@@ -1312,19 +4147,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "IND",
+      "opponent": "GSV",
+      "home": true,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "F",
+      "projection": 7.5,
+      "edge": 1.0,
+      "last5_avg": 7.4,
+      "last10_avg": 7.7,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 10.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 4.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 8.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 14.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 7.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 5.0,
+          "opponent": "TOR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Sophie Cunningham",
@@ -1337,19 +4228,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "IND",
+      "opponent": "GSV",
+      "home": true,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 10.0,
+      "edge": 2.5,
+      "last5_avg": 9.8,
+      "last10_avg": 10.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 2.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 9.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 24.0,
+          "opponent": "TOR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Sophie Cunningham",
@@ -1362,19 +4309,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
-      "opponent": "",
-      "home": null,
+      "team": "IND",
+      "opponent": "GSV",
+      "home": true,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 10.0,
+      "edge": 2.5,
+      "last5_avg": 9.8,
+      "last10_avg": 10.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 2.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 9.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 24.0,
+          "opponent": "TOR"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Veronica Burton",
@@ -1387,19 +4390,75 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
+      "team": "GS",
       "opponent": "",
       "home": null,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 11.0,
+      "edge": -0.5,
+      "last5_avg": 11.8,
+      "last10_avg": 9.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 20,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/10",
+          "value": 17.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/08",
+          "value": 6.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "07/06",
+          "value": 7.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/04",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/28",
+          "value": 8.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/27",
+          "value": 10.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/21",
+          "value": 2.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/20",
+          "value": 5.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/18",
+          "value": 11.0,
+          "opponent": "DAL"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     },
     {
       "player": "Veronica Burton",
@@ -1412,19 +4471,79 @@
       "commence_time": "2026-07-16T00:10:00Z",
       "home_team_name": "Indiana Fever",
       "away_team_name": "Golden State Valkyries",
-      "team": "",
+      "team": "GS",
       "opponent": "",
       "home": null,
       "game_id": "8eace0d4309db9d618e7ba857166324b",
       "game_date": "2026-07-15",
       "game_datetime": "2026-07-16T00:10:00Z",
-      "matchup": "GSV @ IND",
-      "position": "",
-      "projection": null,
-      "edge": null,
-      "last10": [],
+      "position": "G",
+      "projection": 11.0,
+      "edge": -0.5,
+      "last5_avg": 11.8,
+      "last10_avg": 9.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 20,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/10",
+          "value": 17.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "07/08",
+          "value": 6.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "07/06",
+          "value": 7.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/04",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/28",
+          "value": 8.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/27",
+          "value": 10.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/21",
+          "value": 2.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/20",
+          "value": 5.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/18",
+          "value": 11.0,
+          "opponent": "DAL"
+        }
+      ],
       "h2h": [],
-      "stats_available": false
+      "stats_available": true
     }
-  ]
+  ],
+  "unmatched_players": [],
+  "stats_status": "available",
+  "stats_source": "ESPN WNBA box scores",
+  "lines_source": "The Odds API"
 }
