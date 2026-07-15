@@ -1,0 +1,72 @@
+name: Update WNBA Sportsbook Points Props
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Optional slate date (YYYY-MM-DD)"
+        required: false
+        type: string
+  schedule:
+    # GitHub schedules run in UTC. These four runs cover the U.S. daytime.
+    - cron: "17 13,16,19,22 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-wnba-sportsbook-props
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Import DraftKings and FanDuel points lines
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/import_sportsbooks.py
+
+      - name: Match players to games and update Last 5, Last 10, and H2H
+        env:
+          BALLDONTLIE_API_KEY: ${{ secrets.BALLDONTLIE_API_KEY }}
+          WNBA_DATE: ${{ inputs.date }}
+        run: python scripts/update_stats.py
+
+      - name: Validate JSON files
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          for name in ("data/lines.json", "data/props.json"):
+              path = Path(name)
+              if not path.exists():
+                  raise SystemExit(f"Missing {name}")
+              json.loads(path.read_text(encoding="utf-8"))
+              print(f"Valid JSON: {name}")
+          PY
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/lines.json data/props.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update WNBA sportsbook points props"
+            git pull --rebase origin main
+            git push origin main
+          fi
