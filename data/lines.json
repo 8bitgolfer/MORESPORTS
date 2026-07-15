@@ -1,0 +1,8 @@
+{
+  "updated_at": null,
+  "slate_date": null,
+  "source": "The Odds API",
+  "sportsbooks": ["draftkings", "fanduel"],
+  "market": "player_points",
+  "props": []
+}
