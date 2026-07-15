@@ -1,7 +1,295 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>WNBA Prop Lab</title><link rel="stylesheet" href="styles.css"></head><body>
-<header class="topbar"><div><span class="eyebrow">WNBA DAILY TRACKER</span><h1>WNBA Prop Lab</h1><p>Compare player lines against recent game logs and head-to-head history.</p></div><div class="updated" id="updatedAt">Loading…</div></header>
-<main><section class="slate"><div class="slateHead"><div><span class="eyebrow">TODAY’S SLATE</span><h2>WNBA games</h2></div><button id="selectAllGames" class="selectGames">Clear all</button></div><div id="games" class="games"></div></section><section class="controls"><input id="search" placeholder="Search player…"><div class="fixedMarket">Points props only</div><input id="market" type="hidden" value="pts"><select id="team"><option value="all">All teams</option></select></section>
-<section class="summary"><div><span>Props loaded</span><strong id="propCount">0</strong></div><div><span>Best L10 over rate</span><strong id="bestRate">—</strong></div><div><span>Average edge</span><strong id="avgEdge">—</strong></div></section>
-<section class="tableWrap"><table><thead><tr><th>Player</th><th>Matchup</th><th>Prop</th><th>Line</th><th>L5 Avg</th><th>L10 Avg</th><th>H2H Avg</th><th>Projection</th><th>Edge</th><th>L10 Over</th></tr></thead><tbody id="rows"></tbody></table></section></main>
-<div class="modalBack" id="modalBack" hidden><article class="modal"><button class="close" id="closeModal">×</button><div class="modalHead"><div><span class="eyebrow" id="modalMarket">PLAYER PROP MODEL</span><h2 id="modalName"></h2><p id="modalMatchup"></p></div><div class="lineBox"><span>Line</span><strong id="modalLine"></strong></div></div><div class="cards"><div><span>Projection</span><strong id="modalProjection"></strong></div><div><span>Edge</span><strong id="modalEdge"></strong></div><div><span id="periodLabel">L10 Over %</span><strong id="modalOver"></strong></div><div><span>H2H Over %</span><strong id="modalH2H"></strong></div></div><div class="tabs"><button data-tab="last10" class="active">Last 10</button><button data-tab="last5">Last 5</button><button data-tab="h2h">H2H</button></div><div id="chart" class="chart"></div><p class="legend"><i class="green"></i> Green = over line &nbsp; <i class="red"></i> Red = under line &nbsp; <i class="push"></i> Gold = push</p></article></div>
-<script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+
+  <title>WNBA Prop Lab</title>
+
+  <link
+    rel="stylesheet"
+    href="styles.css"
+  >
+</head>
+
+<body>
+  <header class="topbar">
+    <div>
+      <span class="eyebrow">WNBA DAILY TRACKER</span>
+
+      <h1>WNBA Prop Lab</h1>
+
+      <p>
+        Compare player lines against recent game logs and
+        head-to-head history.
+      </p>
+    </div>
+
+    <div
+      class="updated"
+      id="updatedAt"
+    >
+      Loading…
+    </div>
+  </header>
+
+  <main>
+    <section class="slate">
+      <div class="slateHead">
+        <div>
+          <span class="eyebrow">TODAY’S SLATE</span>
+          <h2>WNBA games</h2>
+        </div>
+
+        <button
+          id="selectAllGames"
+          class="selectGames"
+          type="button"
+        >
+          Clear all
+        </button>
+      </div>
+
+      <div
+        id="games"
+        class="games"
+      ></div>
+    </section>
+
+    <section class="controls">
+      <input
+        id="search"
+        type="search"
+        placeholder="Search player…"
+        autocomplete="off"
+      >
+
+      <div class="fixedMarket">
+        Points props only
+      </div>
+
+      <input
+        id="market"
+        type="hidden"
+        value="pts"
+      >
+
+      <select id="team">
+        <option value="all">
+          All teams
+        </option>
+      </select>
+    </section>
+
+    <section class="summary">
+      <div>
+        <span>Props loaded</span>
+        <strong id="propCount">0</strong>
+      </div>
+
+      <div>
+        <span>Best L10 over rate</span>
+        <strong id="bestRate">—</strong>
+      </div>
+
+      <div>
+        <span>Average edge</span>
+        <strong id="avgEdge">—</strong>
+      </div>
+    </section>
+
+    <section class="tableWrap">
+      <table>
+        <thead>
+          <tr>
+            <th
+              class="sortable"
+              data-sort="player"
+              scope="col"
+            >
+              Player
+            </th>
+
+            <th scope="col">
+              Matchup
+            </th>
+
+            <th scope="col">
+              Prop
+            </th>
+
+            <th
+              class="sortable"
+              data-sort="line"
+              scope="col"
+            >
+              Line
+            </th>
+
+            <th
+              class="sortable"
+              data-sort="l5Avg"
+              scope="col"
+            >
+              L5 Avg
+            </th>
+
+            <th
+              class="sortable"
+              data-sort="l10Avg"
+              scope="col"
+            >
+              L10 Avg
+            </th>
+
+            <th
+              class="sortable"
+              data-sort="h2hAvg"
+              scope="col"
+            >
+              H2H Avg
+            </th>
+
+            <th
+              class="sortable"
+              data-sort="projection"
+              scope="col"
+            >
+              Projection
+            </th>
+
+            <th
+              class="sortable"
+              data-sort="edge"
+              scope="col"
+            >
+              Edge
+            </th>
+
+            <th
+              class="sortable"
+              data-sort="l10Over"
+              scope="col"
+            >
+              L10 Over
+            </th>
+          </tr>
+        </thead>
+
+        <tbody id="rows"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <div
+    class="modalBack"
+    id="modalBack"
+    hidden
+  >
+    <article class="modal">
+      <button
+        class="close"
+        id="closeModal"
+        type="button"
+        aria-label="Close player details"
+      >
+        ×
+      </button>
+
+      <div class="modalHead">
+        <div>
+          <span
+            class="eyebrow"
+            id="modalMarket"
+          >
+            PLAYER PROP MODEL
+          </span>
+
+          <h2 id="modalName"></h2>
+
+          <p id="modalMatchup"></p>
+        </div>
+
+        <div class="lineBox">
+          <span>Line</span>
+          <strong id="modalLine"></strong>
+        </div>
+      </div>
+
+      <div class="cards">
+        <div>
+          <span>Projection</span>
+          <strong id="modalProjection"></strong>
+        </div>
+
+        <div>
+          <span>Edge</span>
+          <strong id="modalEdge"></strong>
+        </div>
+
+        <div>
+          <span id="periodLabel">
+            L10 Over %
+          </span>
+
+          <strong id="modalOver"></strong>
+        </div>
+
+        <div>
+          <span>H2H Over %</span>
+          <strong id="modalH2H"></strong>
+        </div>
+      </div>
+
+      <div class="tabs">
+        <button
+          data-tab="last10"
+          class="active"
+          type="button"
+        >
+          Last 10
+        </button>
+
+        <button
+          data-tab="last5"
+          type="button"
+        >
+          Last 5
+        </button>
+
+        <button
+          data-tab="h2h"
+          type="button"
+        >
+          H2H
+        </button>
+      </div>
+
+      <div
+        id="chart"
+        class="chart"
+      ></div>
+
+      <p class="legend">
+        <i class="green"></i>
+        Green = over line
+
+        &nbsp;
+
+        <i class="red"></i>
+        Red = under line
+
+        &nbsp;
+
+        <i class="push"></i>
+        Gold = push
+      </p>
+    </article>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
