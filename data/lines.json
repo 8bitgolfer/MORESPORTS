@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T07:47:09+00:00",
+  "updated_at": "2026-07-15T07:57:28+00:00",
   "slate_date": "2026-07-15",
   "source": "The Odds API",
   "sportsbooks": [
@@ -408,7 +408,7 @@
       "player": "Nneka Ogwumike",
       "market": "pts",
       "market_label": "Points",
-      "line": 16.5,
+      "line": 17.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "4db11d33553fba68fc607aaf009071aa",
