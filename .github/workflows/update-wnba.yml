@@ -1,0 +1,152 @@
+name: Update WNBA Sportsbook Points Props
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Optional slate date (YYYY-MM-DD); leave blank for today"
+        required: false
+        type: string
+
+  schedule:
+    # Approximately 11:00 AM and 5:00 PM Eastern during daylight saving time.
+    - cron: "0 15,21 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-wnba-sportsbook-props
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    env:
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      WNBA_DATE: ${{ github.event.inputs.date }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify Odds API secret
+        run: |
+          python - <<'PY'
+          import os
+
+          key = os.environ.get("ODDS_API_KEY", "").strip()
+
+          if not key:
+              raise SystemExit("ODDS_API_KEY is missing from GitHub Secrets.")
+
+          print("ODDS_API_KEY was found.")
+          PY
+
+      - name: Import DraftKings and FanDuel points lines
+        id: sportsbook
+        run: |
+          python scripts/import_sportsbooks.py
+
+      - name: Match players and calculate Last 5, Last 10, and H2H
+        id: stats
+        continue-on-error: true
+        run: |
+          python scripts/update_stats.py
+
+      - name: Build sportsbook-only fallback
+        if: steps.stats.outcome == 'failure'
+        run: |
+          echo "::warning::WNBA game-log stats failed or timed out. Building props.json from the sportsbook lines so players still appear."
+          python scripts/build_props_fallback.py
+
+      - name: Validate JSON files
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          required_files = [
+              Path("data/lines.json"),
+              Path("data/props.json"),
+          ]
+
+          for path in required_files:
+              if not path.exists():
+                  raise SystemExit(f"Missing required file: {path}")
+
+              try:
+                  data = json.loads(path.read_text(encoding="utf-8"))
+              except json.JSONDecodeError as error:
+                  raise SystemExit(f"Invalid JSON in {path}: {error}")
+
+              if not isinstance(data, dict):
+                  raise SystemExit(f"{path} must contain a JSON object")
+
+              props = data.get("props")
+
+              if not isinstance(props, list):
+                  raise SystemExit(f"{path} is missing a valid props list")
+
+              print(f"Valid {path}: {len(props)} props")
+          PY
+
+      - name: Show update results
+        run: |
+          python - <<'PY'
+          import json
+
+          with open("data/lines.json", encoding="utf-8") as file:
+              lines = json.load(file)
+
+          with open("data/props.json", encoding="utf-8") as file:
+              props = json.load(file)
+
+          print("Sportsbook lines:", len(lines.get("props", [])))
+          print("Website props:", len(props.get("props", [])))
+          print("Stats status:", props.get("stats_status", "available"))
+          PY
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/lines.json data/props.json data/espn_boxscore_cache.json
+
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update WNBA sportsbook props"
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+      - name: Write workflow summary
+        if: always()
+        run: |
+          echo "## WNBA Prop Update" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Sportsbook import: **${{ steps.sportsbook.outcome }}**" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Historical statistics: **${{ steps.stats.outcome }}**" >> "$GITHUB_STEP_SUMMARY"
+
+          if [ "${{ steps.stats.outcome }}" = "failure" ]; then
+            echo "- The sportsbook lines were still converted into website props." >> "$GITHUB_STEP_SUMMARY"
+            echo "- Players should appear, but Last 5, Last 10, H2H, projection, and edge may be unavailable." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "- Sportsbook lines and historical statistics were updated successfully." >> "$GITHUB_STEP_SUMMARY"
+          fi
