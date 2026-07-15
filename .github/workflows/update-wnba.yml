@@ -1,0 +1,76 @@
+name: Update WNBA Sportsbook Points Props
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Optional slate date (YYYY-MM-DD); leave blank for today"
+        required: false
+        type: string
+  schedule:
+    # 11:00 AM and 5:00 PM Eastern during daylight saving time.
+    - cron: "0 15,21 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-wnba-sportsbook-props
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      WNBA_DATE: ${{ github.event.inputs.date }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install nba_api pandas requests
+
+      - name: Import DraftKings and FanDuel points lines
+        run: python scripts/import_sportsbooks.py
+
+      - name: Match players and calculate Last 5, Last 10, and H2H
+        run: python scripts/update_stats.py
+
+      - name: Validate JSON files
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          for name in ("data/lines.json", "data/props.json"):
+              path = Path(name)
+              if not path.exists():
+                  raise SystemExit(f"Missing {name}")
+              json.loads(path.read_text(encoding="utf-8"))
+              print(f"Valid JSON: {name}")
+          PY
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update WNBA sportsbook props"
+            git pull --rebase origin main
+            git push origin main
+          fi
