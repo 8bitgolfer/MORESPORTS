@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T16:08:43+00:00",
+  "updated_at": "2026-07-16T21:53:36+00:00",
   "slate_date": "2026-07-16",
   "source": "The Odds API",
   "sportsbooks": [
@@ -72,7 +72,7 @@
       "player": "Emily Engstler",
       "market": "pts",
       "market_label": "Points",
-      "line": 10.5,
+      "line": 9.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "00a997433337939ebda3beb882a1e2db",
@@ -120,7 +120,7 @@
       "player": "Michaela Onyenwere",
       "market": "pts",
       "market_label": "Points",
-      "line": 8.5,
+      "line": 9.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "00a997433337939ebda3beb882a1e2db",
@@ -168,7 +168,7 @@
       "player": "Shakira Austin",
       "market": "pts",
       "market_label": "Points",
-      "line": 15.5,
+      "line": 14.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "00a997433337939ebda3beb882a1e2db",
