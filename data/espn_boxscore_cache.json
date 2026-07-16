@@ -41065,6 +41065,386 @@
           "position": "G"
         }
       ]
+    },
+    "401857068": {
+      "date": "2026-07-15",
+      "rows": [
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Dominique Malonga",
+          "team": "SEA",
+          "opponent": "CHI",
+          "home": false,
+          "points": 16.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Awa Fam",
+          "team": "SEA",
+          "opponent": "CHI",
+          "home": false,
+          "points": 14.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Natisha Hiedeman",
+          "team": "SEA",
+          "opponent": "CHI",
+          "home": false,
+          "points": 6.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Flau'jae Johnson",
+          "team": "SEA",
+          "opponent": "CHI",
+          "home": false,
+          "points": 25.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Jade Melbourne",
+          "team": "SEA",
+          "opponent": "CHI",
+          "home": false,
+          "points": 11.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Katie Lou Samuelson",
+          "team": "SEA",
+          "opponent": "CHI",
+          "home": false,
+          "points": 11.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Jordan Horston",
+          "team": "SEA",
+          "opponent": "CHI",
+          "home": false,
+          "points": 1.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Stefanie Dolson",
+          "team": "SEA",
+          "opponent": "CHI",
+          "home": false,
+          "points": 0.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Zia Cooke",
+          "team": "SEA",
+          "opponent": "CHI",
+          "home": false,
+          "points": 6.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Azura Stevens",
+          "team": "CHI",
+          "opponent": "SEA",
+          "home": true,
+          "points": 20.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Elizabeth Williams",
+          "team": "CHI",
+          "opponent": "SEA",
+          "home": true,
+          "points": 5.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Courtney Vandersloot",
+          "team": "CHI",
+          "opponent": "SEA",
+          "home": true,
+          "points": 8.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Natasha Cloud",
+          "team": "CHI",
+          "opponent": "SEA",
+          "home": true,
+          "points": 13.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Sydney Taylor",
+          "team": "CHI",
+          "opponent": "SEA",
+          "home": true,
+          "points": 17.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Chloe Bibby",
+          "team": "CHI",
+          "opponent": "SEA",
+          "home": true,
+          "points": 14.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Rachel Banham",
+          "team": "CHI",
+          "opponent": "SEA",
+          "home": true,
+          "points": 6.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Jacy Sheldon",
+          "team": "CHI",
+          "opponent": "SEA",
+          "home": true,
+          "points": 2.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857068",
+          "date": "2026-07-15",
+          "player": "Gabriela Jaquez",
+          "team": "CHI",
+          "opponent": "SEA",
+          "home": true,
+          "points": 10.0,
+          "position": "G"
+        }
+      ]
+    },
+    "401857069": {
+      "date": "2026-07-15",
+      "rows": [
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Nneka Ogwumike",
+          "team": "LA",
+          "opponent": "MIN",
+          "home": false,
+          "points": 23.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Dearica Hamby",
+          "team": "LA",
+          "opponent": "MIN",
+          "home": false,
+          "points": 10.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Erica Wheeler",
+          "team": "LA",
+          "opponent": "MIN",
+          "home": false,
+          "points": 10.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Ariel Atkins",
+          "team": "LA",
+          "opponent": "MIN",
+          "home": false,
+          "points": 8.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Rae Burrell",
+          "team": "LA",
+          "opponent": "MIN",
+          "home": false,
+          "points": 24.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Cameron Brink",
+          "team": "LA",
+          "opponent": "MIN",
+          "home": false,
+          "points": 10.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Jihyun Park",
+          "team": "LA",
+          "opponent": "MIN",
+          "home": false,
+          "points": 1.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Kiana Williams",
+          "team": "LA",
+          "opponent": "MIN",
+          "home": false,
+          "points": 1.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Chance Gray",
+          "team": "LA",
+          "opponent": "MIN",
+          "home": false,
+          "points": 0.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Natasha Howard",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 10.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Nia Coffey",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 8.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Kayla McBride",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 24.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Courtney Williams",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 19.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Olivia Miles",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 18.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Liatu King",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 0.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Antonia Delaere",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 5.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Anastasiia Olairi Kosu",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 9.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Maya Caldwell",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 3.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857069",
+          "date": "2026-07-15",
+          "player": "Eliska Hamzova",
+          "team": "MIN",
+          "opponent": "LA",
+          "home": true,
+          "points": 0.0,
+          "position": "G"
+        }
+      ]
     }
   }
 }
