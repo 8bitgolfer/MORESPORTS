@@ -1,333 +1,2363 @@
 {
-  "updated_at": "2026-07-16T17:53-04:00",
-  "slate_date": "2026-07-16",
+  "updated_at": "2026-07-17T12:06-04:00",
+  "slate_date": "2026-07-17",
   "games": [
     {
-      "id": "00a997433337939ebda3beb882a1e2db",
-      "date": "2026-07-16",
-      "datetime": "2026-07-16T23:10:00Z",
-      "away_team": "POR",
-      "home_team": "WAS"
+      "id": "571b28ddb7c28b45b2925d493d2085c8",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T23:30:00Z",
+      "away_team": "ATL",
+      "home_team": "TOR"
+    },
+    {
+      "id": "4a1af047b50cc335d69665ae9b499206",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T23:30:00Z",
+      "away_team": "LAS",
+      "home_team": "CHI"
+    },
+    {
+      "id": "034012f210532a879b3d1ab5de8306e6",
+      "date": "2026-07-17",
+      "datetime": "2026-07-17T23:40:00Z",
+      "away_team": "SEA",
+      "home_team": "IND"
+    },
+    {
+      "id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "date": "2026-07-17",
+      "datetime": "2026-07-18T02:00:00Z",
+      "away_team": "CON",
+      "home_team": "PHX"
     }
   ],
   "props": [
     {
-      "player": "Bridget Carleton",
+      "player": "Allisha Gray",
       "market": "pts",
       "market_label": "Points",
-      "line": 12.5,
+      "line": 19.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "POR",
-      "opponent": "WAS",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
       "home": false,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "F",
-      "projection": 13.0,
-      "edge": 0.5,
-      "last5_avg": 12.6,
-      "last10_avg": 13.7,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 19.8,
+      "edge": 0.3,
+      "last5_avg": 20.2,
+      "last10_avg": 17.8,
+      "h2h_avg": 22.0,
+      "last5_over_pct": 80,
       "last10_over_pct": 50,
-      "h2h_over_pct": 0,
+      "h2h_over_pct": 50,
       "last10": [
         {
-          "date": "07/14",
-          "value": 12.0,
-          "opponent": "CON"
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "LA"
         },
         {
           "date": "07/11",
-          "value": 12.0,
-          "opponent": "ATL"
+          "value": 20.0,
+          "opponent": "POR"
         },
         {
           "date": "07/10",
-          "value": 9.0,
-          "opponent": "LV"
-        },
-        {
-          "date": "07/05",
-          "value": 14.0,
+          "value": 22.0,
           "opponent": "SEA"
         },
         {
-          "date": "06/28",
-          "value": 16.0,
+          "date": "07/04",
+          "value": 22.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 17.0,
           "opponent": "WSH"
         },
         {
-          "date": "06/26",
-          "value": 20.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/25",
-          "value": 7.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/18",
-          "value": 24.0,
+          "date": "06/28",
+          "value": 15.0,
           "opponent": "SEA"
         },
         {
-          "date": "06/16",
-          "value": 3.0,
-          "opponent": "MIN"
+          "date": "06/27",
+          "value": 14.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 18.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 22.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 18.0,
+          "opponent": "TOR"
         },
         {
           "date": "06/14",
-          "value": 20.0,
-          "opponent": "DAL"
+          "value": 26.0,
+          "opponent": "TOR"
         }
       ],
-      "h2h": [],
       "stats_available": true
     },
     {
-      "player": "Bridget Carleton",
+      "player": "Allisha Gray",
       "market": "pts",
       "market_label": "Points",
-      "line": 12.5,
+      "line": 19.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "POR",
-      "opponent": "WAS",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
       "home": false,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "F",
-      "projection": 13.0,
-      "edge": 0.5,
-      "last5_avg": 12.6,
-      "last10_avg": 13.7,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 19.8,
+      "edge": 0.3,
+      "last5_avg": 20.2,
+      "last10_avg": 17.8,
+      "h2h_avg": 22.0,
+      "last5_over_pct": 80,
       "last10_over_pct": 50,
-      "h2h_over_pct": 0,
+      "h2h_over_pct": 50,
       "last10": [
         {
-          "date": "07/14",
-          "value": 12.0,
-          "opponent": "CON"
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "LA"
         },
         {
           "date": "07/11",
-          "value": 12.0,
-          "opponent": "ATL"
+          "value": 20.0,
+          "opponent": "POR"
         },
         {
           "date": "07/10",
-          "value": 9.0,
-          "opponent": "LV"
-        },
-        {
-          "date": "07/05",
-          "value": 14.0,
+          "value": 22.0,
           "opponent": "SEA"
         },
         {
-          "date": "06/28",
-          "value": 16.0,
+          "date": "07/04",
+          "value": 22.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 17.0,
           "opponent": "WSH"
         },
         {
-          "date": "06/26",
-          "value": 20.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/25",
-          "value": 7.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/18",
-          "value": 24.0,
+          "date": "06/28",
+          "value": 15.0,
           "opponent": "SEA"
         },
         {
-          "date": "06/16",
-          "value": 3.0,
-          "opponent": "MIN"
+          "date": "06/27",
+          "value": 14.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 18.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 22.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 18.0,
+          "opponent": "TOR"
         },
         {
           "date": "06/14",
-          "value": 20.0,
-          "opponent": "DAL"
+          "value": 26.0,
+          "opponent": "TOR"
         }
       ],
-      "h2h": [],
       "stats_available": true
     },
     {
-      "player": "Carla Leite",
+      "player": "Angel Reese",
       "market": "pts",
       "market_label": "Points",
-      "line": 14.5,
+      "line": 16.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "POR",
-      "opponent": "WAS",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
       "home": false,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "G",
-      "projection": 18.2,
-      "edge": 3.7,
-      "last5_avg": 19.2,
-      "last10_avg": 16.4,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 60,
-      "last10_over_pct": 50,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 16.5,
+      "edge": 0.0,
+      "last5_avg": 17.6,
+      "last10_avg": 16.3,
+      "h2h_avg": 13.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 60,
       "h2h_over_pct": 0,
       "last10": [
         {
-          "date": "07/14",
-          "value": 18.0,
-          "opponent": "CON"
-        },
-        {
-          "date": "07/11",
-          "value": 13.0,
-          "opponent": "ATL"
+          "date": "07/13",
+          "value": 23.0,
+          "opponent": "LA"
         },
         {
           "date": "07/10",
-          "value": 13.0,
-          "opponent": "LV"
-        },
-        {
-          "date": "07/05",
-          "value": 20.0,
+          "value": 18.0,
           "opponent": "SEA"
         },
         {
-          "date": "06/28",
-          "value": 32.0,
+          "date": "07/04",
+          "value": 17.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 13.0,
           "opponent": "WSH"
         },
         {
-          "date": "06/26",
-          "value": 18.0,
-          "opponent": "CHI"
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/27",
+          "value": 15.0,
+          "opponent": "GS"
         },
         {
           "date": "06/25",
           "value": 10.0,
-          "opponent": "CHI"
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 18.0,
+          "opponent": "IND"
         },
         {
           "date": "06/18",
-          "value": 20.0,
-          "opponent": "SEA"
-        },
+          "value": 21.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
         {
-          "date": "06/16",
-          "value": 10.0,
-          "opponent": "MIN"
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "TOR"
         },
         {
           "date": "06/14",
+          "value": 15.0,
+          "opponent": "TOR"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Angel Reese",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 16.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
+      "home": false,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 16.5,
+      "edge": 0.0,
+      "last5_avg": 17.6,
+      "last10_avg": 16.3,
+      "h2h_avg": 13.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 23.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/10",
+          "value": 18.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/04",
+          "value": 17.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 13.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/27",
+          "value": 15.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/25",
           "value": 10.0,
-          "opponent": "DAL"
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 18.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/18",
+          "value": 21.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/14",
+          "value": 15.0,
+          "opponent": "TOR"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Ariel Atkins",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 10.2,
+      "edge": -1.3,
+      "last5_avg": 11.0,
+      "last10_avg": 8.7,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 8.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/13",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 5.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 0.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 10.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 4.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 6.0,
+          "opponent": "GS"
         }
       ],
       "h2h": [],
       "stats_available": true
     },
     {
-      "player": "Carla Leite",
+      "player": "Ariel Atkins",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 10.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 10.2,
+      "edge": -0.3,
+      "last5_avg": 11.0,
+      "last10_avg": 8.7,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 8.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/13",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 5.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 0.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 10.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 4.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 6.0,
+          "opponent": "GS"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "CHI",
+      "opponent": "LAS",
+      "home": true,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 8.1,
+      "edge": -1.4,
+      "last5_avg": 8.2,
+      "last10_avg": 8.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 29,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 8.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 6.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 7.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 11.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 5.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 10.0,
+          "opponent": "POR"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Courtney Vandersloot",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "CHI",
+      "opponent": "LAS",
+      "home": true,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 8.1,
+      "edge": -0.4,
+      "last5_avg": 8.2,
+      "last10_avg": 8.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 43,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 8.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 6.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 7.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 11.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 5.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 10.0,
+          "opponent": "POR"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Dearica Hamby",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 15.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 15.0,
+      "edge": -0.5,
+      "last5_avg": 15.4,
+      "last10_avg": 14.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 10.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/13",
+          "value": 12.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 21.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 17.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 15.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 12.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 6.0,
+          "opponent": "GS"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Dearica Hamby",
       "market": "pts",
       "market_label": "Points",
       "line": 15.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "POR",
-      "opponent": "WAS",
-      "home": false,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "G",
-      "projection": 18.2,
-      "edge": 2.7,
-      "last5_avg": 19.2,
-      "last10_avg": 16.4,
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 15.0,
+      "edge": -0.5,
+      "last5_avg": 15.4,
+      "last10_avg": 14.3,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
-      "last10_over_pct": 50,
+      "last10_over_pct": 40,
       "h2h_over_pct": 0,
       "last10": [
         {
-          "date": "07/14",
-          "value": 18.0,
-          "opponent": "CON"
-        },
-        {
-          "date": "07/11",
-          "value": 13.0,
-          "opponent": "ATL"
-        },
-        {
-          "date": "07/10",
-          "value": 13.0,
-          "opponent": "LV"
-        },
-        {
-          "date": "07/05",
-          "value": 20.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "06/28",
-          "value": 32.0,
-          "opponent": "WSH"
-        },
-        {
-          "date": "06/26",
-          "value": 18.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/25",
-          "value": 10.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/18",
-          "value": 20.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "06/16",
+          "date": "07/15",
           "value": 10.0,
           "opponent": "MIN"
         },
         {
+          "date": "07/13",
+          "value": 12.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 21.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 17.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 15.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 12.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 6.0,
+          "opponent": "GS"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Erica Wheeler",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 11.0,
+      "edge": 1.5,
+      "last5_avg": 12.0,
+      "last10_avg": 9.1,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 10.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 3.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 2.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 0.0,
+          "opponent": "GS"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Erica Wheeler",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 11.0,
+      "edge": 1.5,
+      "last5_avg": 12.0,
+      "last10_avg": 9.1,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 10.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 3.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 2.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 0.0,
+          "opponent": "GS"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Isabelle Harrison",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 12.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 15.0,
+      "edge": 2.5,
+      "last5_avg": 14.4,
+      "last10_avg": 14.0,
+      "h2h_avg": 19.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 8.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 24.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/05",
+          "value": 13.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/27",
+          "value": 12.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 15.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 11.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
           "date": "06/14",
+          "value": 17.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Isabelle Harrison",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 15.0,
+      "edge": 3.5,
+      "last5_avg": 14.4,
+      "last10_avg": 14.0,
+      "h2h_avg": 19.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 8.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 24.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/05",
+          "value": 13.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/27",
+          "value": 12.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 15.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 11.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/14",
+          "value": 17.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Jordin Canada",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
+      "home": false,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 11.1,
+      "edge": -0.4,
+      "last5_avg": 11.4,
+      "last10_avg": 11.9,
+      "h2h_avg": 8.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 16.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/11",
+          "value": 10.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/04",
+          "value": 7.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/28",
+          "value": 8.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/27",
+          "value": 23.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 12.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/14",
+          "value": 5.0,
+          "opponent": "TOR"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Jordin Canada",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
+      "home": false,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 11.1,
+      "edge": -0.4,
+      "last5_avg": 11.4,
+      "last10_avg": 11.9,
+      "h2h_avg": 8.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 16.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/11",
+          "value": 10.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/04",
+          "value": 7.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/28",
+          "value": 8.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/27",
+          "value": 23.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/25",
+          "value": 8.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 12.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/14",
+          "value": 5.0,
+          "opponent": "TOR"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Julie Allemand",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 8.2,
+      "edge": -0.3,
+      "last5_avg": 8.4,
+      "last10_avg": 7.6,
+      "h2h_avg": 8.5,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 50,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 15.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 4.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 3.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/27",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 13.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 4.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 4.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 0.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/14",
+          "value": 13.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 4.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/14",
+          "value": 13.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Julie Allemand",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 7.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 8.2,
+      "edge": 0.7,
+      "last5_avg": 8.4,
+      "last10_avg": 7.6,
+      "h2h_avg": 8.5,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 50,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 15.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 4.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 3.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/27",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 13.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 4.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 4.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 0.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/14",
+          "value": 13.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 4.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/14",
+          "value": 13.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 14.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "CHI",
+      "opponent": "LAS",
+      "home": true,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "C",
+      "projection": 15.9,
+      "edge": 1.4,
+      "last5_avg": 15.2,
+      "last10_avg": 17.1,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 12.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 16.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 30.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 13.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 16.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 26.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "NY"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Kamilla Cardoso",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 14.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "CHI",
+      "opponent": "LAS",
+      "home": true,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "C",
+      "projection": 15.9,
+      "edge": 1.4,
+      "last5_avg": 15.2,
+      "last10_avg": 17.1,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/12",
+          "value": 12.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 16.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 30.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 13.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 16.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 26.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "NY"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Laura Juskaite",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 11.0,
+      "edge": 1.5,
+      "last5_avg": 12.6,
+      "last10_avg": 10.4,
+      "h2h_avg": 6.5,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 7.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 18.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 25.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 5.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/05",
+          "value": 8.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/27",
+          "value": 0.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 10.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 4.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 19.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/14",
+          "value": 5.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Laura Juskaite",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 11.0,
+      "edge": 1.5,
+      "last5_avg": 12.6,
+      "last10_avg": 10.4,
+      "h2h_avg": 6.5,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 7.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 18.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 25.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 5.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/05",
+          "value": 8.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/27",
+          "value": 0.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 10.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 4.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 19.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/14",
+          "value": 5.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Maria Conde",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 9.1,
+      "edge": -0.4,
+      "last5_avg": 8.2,
+      "last10_avg": 10.3,
+      "h2h_avg": 10.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 50,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 2.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 12.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/05",
+          "value": 3.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/27",
+          "value": 10.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 13.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 19.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 12.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/14",
+          "value": 12.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Maria Conde",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 9.1,
+      "edge": -0.4,
+      "last5_avg": 8.2,
+      "last10_avg": 10.3,
+      "h2h_avg": 10.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 50,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 2.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 12.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/05",
+          "value": 3.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/27",
+          "value": 10.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 13.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 19.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 12.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 8.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/14",
+          "value": 12.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Marina Mabrey",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 21.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 20.8,
+      "edge": -0.7,
+      "last5_avg": 20.4,
+      "last10_avg": 24.2,
+      "h2h_avg": 16.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 50,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 8.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 30.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 34.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 11.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/05",
+          "value": 19.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/25",
+          "value": 53.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 37.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 18.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/14",
+          "value": 9.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/14",
+          "value": 9.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Marina Mabrey",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 22.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 20.8,
+      "edge": -1.7,
+      "last5_avg": 20.4,
+      "last10_avg": 24.2,
+      "h2h_avg": 16.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 50,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 8.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 30.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/10",
+          "value": 34.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/08",
+          "value": 11.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/05",
+          "value": 19.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/25",
+          "value": 53.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/19",
+          "value": 37.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/16",
+          "value": 18.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/14",
+          "value": 9.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/14",
+          "value": 9.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Natasha Cloud",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "CHI",
+      "opponent": "LAS",
+      "home": true,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 11.5,
+      "edge": 0.0,
+      "last5_avg": 12.6,
+      "last10_avg": 9.4,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 13.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/12",
+          "value": 15.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 15.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 2.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 9.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 4.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
           "value": 10.0,
           "opponent": "DAL"
         }
@@ -336,80 +2366,1027 @@
       "stats_available": true
     },
     {
-      "player": "Emily Engstler",
+      "player": "Natasha Cloud",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "CHI",
+      "opponent": "LAS",
+      "home": true,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 11.5,
+      "edge": 0.0,
+      "last5_avg": 12.6,
+      "last10_avg": 9.4,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 13.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/12",
+          "value": 15.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 15.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 2.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 9.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 4.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 10.0,
+          "opponent": "DAL"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Naz Hillmon",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
+      "home": false,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 8.1,
+      "edge": -1.4,
+      "last5_avg": 8.0,
+      "last10_avg": 8.6,
+      "h2h_avg": 7.5,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 10.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/10",
+          "value": 7.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/04",
+          "value": 3.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/27",
+          "value": 2.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/25",
+          "value": 2.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 6.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 19.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/18",
+          "value": 17.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 6.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/14",
+          "value": 9.0,
+          "opponent": "TOR"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Naz Hillmon",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
+      "home": false,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 8.1,
+      "edge": -1.4,
+      "last5_avg": 8.0,
+      "last10_avg": 8.6,
+      "h2h_avg": 7.5,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 10.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/10",
+          "value": 7.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/04",
+          "value": 3.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/27",
+          "value": 2.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/25",
+          "value": 2.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 6.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 19.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/18",
+          "value": 17.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 6.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/14",
+          "value": 9.0,
+          "opponent": "TOR"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 17.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 20.2,
+      "edge": 2.7,
+      "last5_avg": 21.0,
+      "last10_avg": 18.6,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 23.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/13",
+          "value": 19.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 25.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 24.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 14.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 24.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 9.0,
+          "opponent": "GS"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Nneka Ogwumike",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 17.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 20.2,
+      "edge": 2.7,
+      "last5_avg": 21.0,
+      "last10_avg": 18.6,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 23.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/13",
+          "value": 19.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 25.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 24.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 14.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 24.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 9.0,
+          "opponent": "GS"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Nyara Sabally",
       "market": "pts",
       "market_label": "Points",
       "line": 10.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "POR",
-      "opponent": "WAS",
-      "home": false,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
       "position": "F",
-      "projection": 10.2,
-      "edge": -0.3,
-      "last5_avg": 10.6,
-      "last10_avg": 9.6,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 30,
+      "projection": 10.9,
+      "edge": 0.4,
+      "last5_avg": 11.2,
+      "last10_avg": 11.1,
+      "h2h_avg": 9.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
       "h2h_over_pct": 0,
       "last10": [
         {
           "date": "07/14",
-          "value": 14.0,
-          "opponent": "CON"
+          "value": 13.0,
+          "opponent": "WSH"
         },
         {
-          "date": "07/11",
-          "value": 14.0,
-          "opponent": "ATL"
+          "date": "07/12",
+          "value": 13.0,
+          "opponent": "NY"
         },
         {
-          "date": "07/10",
-          "value": 10.0,
-          "opponent": "LV"
+          "date": "07/08",
+          "value": 2.0,
+          "opponent": "GS"
         },
         {
           "date": "07/05",
+          "value": 14.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/27",
+          "value": 14.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 5.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
           "value": 9.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/10",
+          "value": 15.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/07",
+          "value": 15.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/03",
+          "value": 11.0,
+          "opponent": "NY"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 9.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Nyara Sabally",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "TOR",
+      "opponent": "ATL",
+      "home": true,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "F",
+      "projection": 10.9,
+      "edge": -0.6,
+      "last5_avg": 11.2,
+      "last10_avg": 11.1,
+      "h2h_avg": 9.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 13.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/12",
+          "value": 13.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "07/08",
+          "value": 2.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/05",
+          "value": 14.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/27",
+          "value": 14.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/25",
+          "value": 5.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/22",
+          "value": 9.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/10",
+          "value": 15.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/07",
+          "value": 15.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/03",
+          "value": 11.0,
+          "opponent": "NY"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 9.0,
+          "opponent": "ATL"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Rae Burrell",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 14.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 17.0,
+      "edge": 2.5,
+      "last5_avg": 17.2,
+      "last10_avg": 16.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 24.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/13",
+          "value": 18.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 22.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 5.0,
           "opponent": "SEA"
         },
         {
           "date": "06/28",
-          "value": 6.0,
-          "opponent": "WSH"
-        },
-        {
-          "date": "06/26",
-          "value": 4.0,
-          "opponent": "CHI"
+          "value": 11.0,
+          "opponent": "IND"
         },
         {
           "date": "06/25",
-          "value": 10.0,
-          "opponent": "CHI"
+          "value": 17.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 19.0,
+          "opponent": "NY"
         },
         {
           "date": "06/18",
-          "value": 9.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "06/16",
-          "value": 9.0,
+          "value": 19.0,
           "opponent": "MIN"
         },
         {
-          "date": "06/14",
+          "date": "06/16",
+          "value": 13.0,
+          "opponent": "GS"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Rae Burrell",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 14.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "LA",
+      "opponent": "",
+      "home": null,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 17.0,
+      "edge": 2.5,
+      "last5_avg": 17.2,
+      "last10_avg": 16.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 24.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/13",
+          "value": 18.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/11",
+          "value": 17.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/09",
+          "value": 22.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/07",
+          "value": 5.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/28",
           "value": 11.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/25",
+          "value": 17.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/22",
+          "value": 19.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/18",
+          "value": 19.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "06/16",
+          "value": 13.0,
+          "opponent": "GS"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Rhyne Howard",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 18.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
+      "home": false,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 17.7,
+      "edge": -0.8,
+      "last5_avg": 16.6,
+      "last10_avg": 17.5,
+      "h2h_avg": 22.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 11.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/11",
+          "value": 10.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/10",
+          "value": 19.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/04",
+          "value": 19.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 24.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/28",
+          "value": 27.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/27",
+          "value": 9.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/25",
+          "value": 12.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 20.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 24.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 20.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/14",
+          "value": 24.0,
+          "opponent": "TOR"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Rhyne Howard",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 19.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Toronto Tempo",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "TOR",
+      "home": false,
+      "game_id": "571b28ddb7c28b45b2925d493d2085c8",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 17.7,
+      "edge": -1.8,
+      "last5_avg": 16.6,
+      "last10_avg": 17.5,
+      "h2h_avg": 22.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/13",
+          "value": 11.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/11",
+          "value": 10.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/10",
+          "value": 19.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/04",
+          "value": 19.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/02",
+          "value": 24.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/28",
+          "value": 27.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/27",
+          "value": 9.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/25",
+          "value": 12.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/22",
+          "value": 20.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/20",
+          "value": 24.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "06/22",
+          "value": 20.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/14",
+          "value": 24.0,
+          "opponent": "TOR"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Sydney Taylor",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 16.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "CHI",
+      "opponent": "LAS",
+      "home": true,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 15.2,
+      "edge": -1.3,
+      "last5_avg": 14.8,
+      "last10_avg": 15.9,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 17.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/12",
+          "value": 20.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 16.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 14.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 29.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 14.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 10.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 18.0,
           "opponent": "DAL"
         }
       ],
@@ -417,27 +3394,1974 @@
       "stats_available": true
     },
     {
-      "player": "Emily Engstler",
+      "player": "Sydney Taylor",
       "market": "pts",
       "market_label": "Points",
-      "line": 9.5,
+      "line": 16.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "POR",
-      "opponent": "WAS",
+      "event_id": "4a1af047b50cc335d69665ae9b499206",
+      "commence_time": "2026-07-17T23:30:00Z",
+      "home_team_name": "Chicago Sky",
+      "away_team_name": "Los Angeles Sparks",
+      "team": "CHI",
+      "opponent": "LAS",
+      "home": true,
+      "game_id": "4a1af047b50cc335d69665ae9b499206",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:30:00Z",
+      "position": "G",
+      "projection": 15.2,
+      "edge": -1.3,
+      "last5_avg": 14.8,
+      "last10_avg": 15.9,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 17.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "07/12",
+          "value": 20.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "07/11",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/08",
+          "value": 16.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/04",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 14.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/26",
+          "value": 29.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/25",
+          "value": 14.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "06/22",
+          "value": 10.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/21",
+          "value": 18.0,
+          "opponent": "DAL"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Aliyah Boston",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 16.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "C",
+      "projection": 17.8,
+      "edge": 1.3,
+      "last5_avg": 18.0,
+      "last10_avg": 17.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 15.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 19.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 21.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/05",
+          "value": 18.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 23.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 8.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 18.0,
+          "opponent": "TOR"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Aliyah Boston",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 16.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "C",
+      "projection": 17.8,
+      "edge": 1.3,
+      "last5_avg": 18.0,
+      "last10_avg": 17.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 15.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 19.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 21.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/05",
+          "value": 18.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 17.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 23.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 8.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 23.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 18.0,
+          "opponent": "TOR"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Awa Fam",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 12.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
       "home": false,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "C",
+      "projection": 9.5,
+      "edge": -3.0,
+      "last5_avg": 8.4,
+      "last10_avg": 11.4,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 14.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 4.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 7.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 12.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 5.0,
+          "opponent": "PHX"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Awa Fam",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 12.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
+      "home": false,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "C",
+      "projection": 9.5,
+      "edge": -3.0,
+      "last5_avg": 8.4,
+      "last10_avg": 11.4,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 14.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 4.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 7.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 12.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 21.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 15.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 18.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 5.0,
+          "opponent": "PHX"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Caitlin Clark",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 18.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 17.9,
+      "edge": -0.6,
+      "last5_avg": 15.4,
+      "last10_avg": 20.7,
+      "h2h_avg": 21.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 13.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 12.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/09",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 19.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 24.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/13",
+          "value": 25.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/11",
+          "value": 32.0,
+          "opponent": "CHI"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 21.0,
+          "opponent": "SEA"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Caitlin Clark",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 17.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 17.9,
+      "edge": 0.4,
+      "last5_avg": 15.4,
+      "last10_avg": 20.7,
+      "h2h_avg": 21.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 13.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 12.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/09",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 19.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 24.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/16",
+          "value": 21.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/13",
+          "value": 25.0,
+          "opponent": "CON"
+        },
+        {
+          "date": "06/11",
+          "value": 32.0,
+          "opponent": "CHI"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 21.0,
+          "opponent": "SEA"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Dominique Malonga",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 17.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
+      "home": false,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "C",
+      "projection": 13.8,
+      "edge": -3.7,
+      "last5_avg": 13.0,
+      "last10_avg": 15.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 16.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 15.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 2.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 22.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 20.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 37.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 10.0,
+          "opponent": "PHX"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Dominique Malonga",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 17.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
+      "home": false,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "C",
+      "projection": 13.8,
+      "edge": -3.7,
+      "last5_avg": 13.0,
+      "last10_avg": 15.3,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 16.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 15.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 2.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 22.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 20.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 37.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 10.0,
+          "opponent": "PHX"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Flau'jae Johnson",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 13.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
+      "home": false,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 14.8,
+      "edge": 1.3,
+      "last5_avg": 14.4,
+      "last10_avg": 15.9,
+      "h2h_avg": 14.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 25.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 23.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 1.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 28.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 11.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "PHX"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 14.0,
+          "opponent": "IND"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Flau'jae Johnson",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 14.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
+      "home": false,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 14.8,
+      "edge": 0.3,
+      "last5_avg": 14.4,
+      "last10_avg": 15.9,
+      "h2h_avg": 14.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 25.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 23.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 1.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 24.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 28.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 11.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "PHX"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 14.0,
+          "opponent": "IND"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Jade Melbourne",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
+      "home": false,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 8.9,
+      "edge": 0.4,
+      "last5_avg": 8.2,
+      "last10_avg": 8.8,
+      "h2h_avg": 12.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 11.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 5.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 11.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 5.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 10.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 18.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/20",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "POR"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 12.0,
+          "opponent": "IND"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Jade Melbourne",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
+      "home": false,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 8.9,
+      "edge": 0.4,
+      "last5_avg": 8.2,
+      "last10_avg": 8.8,
+      "h2h_avg": 12.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 11.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 9.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 5.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 11.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 5.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 11.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 10.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 18.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/20",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "POR"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 12.0,
+          "opponent": "IND"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 22.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 24.6,
+      "edge": 2.1,
+      "last5_avg": 26.4,
+      "last10_avg": 25.2,
+      "h2h_avg": 17.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 20.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 27.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 29.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 29.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 27.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 26.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 30.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 22.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 17.0,
+          "opponent": "SEA"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Kelsey Mitchell",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 22.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 24.6,
+      "edge": 2.1,
+      "last5_avg": 26.4,
+      "last10_avg": 25.2,
+      "h2h_avg": 17.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 20.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 27.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 29.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 29.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 27.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 26.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 30.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 22.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 16.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 17.0,
+          "opponent": "SEA"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Monique Billings",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
       "position": "F",
-      "projection": 10.2,
-      "edge": 0.7,
-      "last5_avg": 10.6,
-      "last10_avg": 9.6,
+      "projection": 5.7,
+      "edge": -2.8,
+      "last5_avg": 5.2,
+      "last10_avg": 7.6,
+      "h2h_avg": 4.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 4.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 10.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 4.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 8.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 14.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 7.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 4.0,
+          "opponent": "SEA"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Monique Billings",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "F",
+      "projection": 5.7,
+      "edge": -2.8,
+      "last5_avg": 5.2,
+      "last10_avg": 7.6,
+      "h2h_avg": 4.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 4.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 10.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 4.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 8.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 14.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 7.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 6.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 4.0,
+          "opponent": "SEA"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 15.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
+      "home": false,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 17.6,
+      "edge": 2.1,
+      "last5_avg": 17.4,
+      "last10_avg": 17.2,
+      "h2h_avg": 19.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 6.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 31.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 15.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 11.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 21.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 20.0,
+          "opponent": "PHX"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 19.0,
+          "opponent": "IND"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Natisha Hiedeman",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 15.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "SEA",
+      "opponent": "IND",
+      "home": false,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 17.6,
+      "edge": 2.1,
+      "last5_avg": 17.4,
+      "last10_avg": 17.2,
+      "h2h_avg": 19.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/15",
+          "value": 6.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/12",
+          "value": 31.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "07/10",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "07/07",
+          "value": 15.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 15.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/28",
+          "value": 20.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/26",
+          "value": 11.0,
+          "opponent": "NY"
+        },
+        {
+          "date": "06/23",
+          "value": 21.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/20",
+          "value": 20.0,
+          "opponent": "PHX"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 19.0,
+          "opponent": "IND"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Sophie Cunningham",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 10.8,
+      "edge": 2.3,
+      "last5_avg": 10.0,
+      "last10_avg": 9.1,
+      "h2h_avg": 17.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 10.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 2.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 9.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 17.0,
+          "opponent": "SEA"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Sophie Cunningham",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "034012f210532a879b3d1ab5de8306e6",
+      "commence_time": "2026-07-17T23:40:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "Seattle Storm",
+      "team": "IND",
+      "opponent": "SEA",
+      "home": true,
+      "game_id": "034012f210532a879b3d1ab5de8306e6",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-17T23:40:00Z",
+      "position": "G",
+      "projection": 10.8,
+      "edge": 2.3,
+      "last5_avg": 10.0,
+      "last10_avg": 9.1,
+      "h2h_avg": 17.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 100,
+      "last10": [
+        {
+          "date": "07/16",
+          "value": 10.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/13",
+          "value": 20.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 9.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "07/09",
+          "value": 2.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "07/05",
+          "value": 9.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/28",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/24",
+          "value": 5.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/23",
+          "value": 2.0,
+          "opponent": "PHX"
+        },
+        {
+          "date": "06/20",
+          "value": 13.0,
+          "opponent": "ATL"
+        },
+        {
+          "date": "06/18",
+          "value": 12.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [
+        {
+          "date": "05/17",
+          "value": 17.0,
+          "opponent": "SEA"
+        }
+      ],
+      "stats_available": true
+    },
+    {
+      "player": "Alyssa Thomas",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 14.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": true,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "F",
+      "projection": 13.7,
+      "edge": -0.8,
+      "last5_avg": 13.6,
+      "last10_avg": 13.9,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 19.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/11",
+          "value": 7.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 22.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/08",
+          "value": 11.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/03",
+          "value": 9.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/24",
+          "value": 24.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/23",
+          "value": 19.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/20",
+          "value": 8.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/14",
+          "value": 10.0,
+          "opponent": "LA"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Alyssa Thomas",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 14.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": true,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "F",
+      "projection": 13.7,
+      "edge": -0.8,
+      "last5_avg": 13.6,
+      "last10_avg": 13.9,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 19.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/11",
+          "value": 7.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 22.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/08",
+          "value": 11.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/03",
+          "value": 9.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/24",
+          "value": 24.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/23",
+          "value": 19.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/20",
+          "value": 8.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/14",
+          "value": 10.0,
+          "opponent": "LA"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Brittney Griner",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 13.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": false,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "C",
+      "projection": 16.1,
+      "edge": 2.6,
+      "last5_avg": 17.2,
+      "last10_avg": 14.1,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
       "last10_over_pct": 50,
@@ -445,214 +5369,538 @@
       "last10": [
         {
           "date": "07/14",
+          "value": 20.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/07",
+          "value": 29.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/26",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/22",
           "value": 14.0,
-          "opponent": "CON"
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/19",
+          "value": 16.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/17",
+          "value": 6.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/13",
+          "value": 10.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/05",
+          "value": 16.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/02",
+          "value": 7.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Brittney Griner",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 13.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": false,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "C",
+      "projection": 16.1,
+      "edge": 2.6,
+      "last5_avg": 17.2,
+      "last10_avg": 14.1,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 20.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/07",
+          "value": 29.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/03",
+          "value": 13.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/26",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/22",
+          "value": 14.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/19",
+          "value": 16.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/17",
+          "value": 6.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/13",
+          "value": 10.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/05",
+          "value": 16.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/02",
+          "value": 7.0,
+          "opponent": "ATL"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Charlisse Leger-Walker",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": false,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "G",
+      "projection": 8.3,
+      "edge": -0.2,
+      "last5_avg": 8.2,
+      "last10_avg": 8.4,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 4.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/10",
+          "value": 10.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/08",
+          "value": 7.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/07",
+          "value": 6.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/03",
+          "value": 14.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/26",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/22",
+          "value": 13.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/19",
+          "value": 7.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/17",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/13",
+          "value": 3.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Charlisse Leger-Walker",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": false,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "G",
+      "projection": 8.3,
+      "edge": -0.2,
+      "last5_avg": 8.2,
+      "last10_avg": 8.4,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 4.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/10",
+          "value": 10.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/08",
+          "value": 7.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/07",
+          "value": 6.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/03",
+          "value": 14.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/26",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/22",
+          "value": 13.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/19",
+          "value": 7.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/17",
+          "value": 10.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/13",
+          "value": 3.0,
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "DeWanna Bonner",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 12.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": true,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "F",
+      "projection": 9.4,
+      "edge": -3.1,
+      "last5_avg": 9.2,
+      "last10_avg": 9.9,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 30,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 17.0,
+          "opponent": "MIN"
         },
         {
           "date": "07/11",
-          "value": 14.0,
-          "opponent": "ATL"
-        },
-        {
-          "date": "07/10",
-          "value": 10.0,
+          "value": 2.0,
           "opponent": "LV"
         },
         {
-          "date": "07/05",
+          "date": "07/10",
           "value": 9.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/08",
+          "value": 12.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/03",
+          "value": 6.0,
           "opponent": "SEA"
         },
         {
-          "date": "06/28",
-          "value": 6.0,
-          "opponent": "WSH"
+          "date": "06/27",
+          "value": 13.0,
+          "opponent": "TOR"
         },
         {
-          "date": "06/26",
-          "value": 4.0,
-          "opponent": "CHI"
+          "date": "06/24",
+          "value": 13.0,
+          "opponent": "IND"
         },
         {
-          "date": "06/25",
+          "date": "06/23",
+          "value": 7.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/20",
           "value": 10.0,
-          "opponent": "CHI"
+          "opponent": "SEA"
         },
         {
           "date": "06/18",
-          "value": 9.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "06/16",
-          "value": 9.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/14",
-          "value": 11.0,
-          "opponent": "DAL"
+          "value": 10.0,
+          "opponent": "LV"
         }
       ],
       "h2h": [],
       "stats_available": true
     },
     {
-      "player": "Georgia Amoore",
+      "player": "DeWanna Bonner",
       "market": "pts",
       "market_label": "Points",
-      "line": 6.5,
-      "bookmaker": "draftkings",
-      "bookmaker_label": "DraftKings",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "WSH",
-      "opponent": "",
-      "home": null,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "G",
-      "projection": 6.1,
-      "edge": -0.4,
-      "last5_avg": 5.4,
-      "last10_avg": 7.5,
+      "line": 12.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": true,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "F",
+      "projection": 9.4,
+      "edge": -3.1,
+      "last5_avg": 9.2,
+      "last10_avg": 9.9,
       "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 60,
+      "last5_over_pct": 20,
+      "last10_over_pct": 30,
       "h2h_over_pct": 0,
       "last10": [
         {
           "date": "07/14",
-          "value": 7.0,
-          "opponent": "TOR"
+          "value": 17.0,
+          "opponent": "MIN"
         },
         {
-          "date": "07/12",
-          "value": 4.0,
+          "date": "07/11",
+          "value": 2.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 9.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/08",
+          "value": 12.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/03",
+          "value": 6.0,
           "opponent": "SEA"
         },
         {
-          "date": "07/06",
+          "date": "06/27",
+          "value": 13.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/24",
+          "value": 13.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/23",
+          "value": 7.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/20",
+          "value": 10.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/18",
+          "value": 10.0,
+          "opponent": "LV"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Diamond Miller",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": false,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "F",
+      "projection": 8.3,
+      "edge": -0.2,
+      "last5_avg": 8.6,
+      "last10_avg": 7.7,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 8.0,
+          "opponent": "POR"
+        },
+        {
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/08",
+          "value": 13.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/07",
+          "value": 5.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/03",
           "value": 3.0,
-          "opponent": "GS"
-        },
-        {
-          "date": "07/02",
-          "value": 11.0,
-          "opponent": "ATL"
-        },
-        {
-          "date": "06/28",
-          "value": 2.0,
-          "opponent": "POR"
+          "opponent": "DAL"
         },
         {
           "date": "06/26",
-          "value": 14.0,
-          "opponent": "CON"
+          "value": 4.0,
+          "opponent": "WSH"
         },
         {
-          "date": "06/24",
-          "value": 6.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/21",
-          "value": 8.0,
-          "opponent": "MIN"
+          "date": "06/22",
+          "value": 9.0,
+          "opponent": "CHI"
         },
         {
           "date": "06/19",
           "value": 10.0,
-          "opponent": "NY"
-        },
-        {
-          "date": "06/17",
-          "value": 10.0,
-          "opponent": "CON"
-        }
-      ],
-      "h2h": [],
-      "stats_available": true
-    },
-    {
-      "player": "Kiki Iriafen",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 16.5,
-      "bookmaker": "draftkings",
-      "bookmaker_label": "DraftKings",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "WSH",
-      "opponent": "",
-      "home": null,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "F",
-      "projection": 17.1,
-      "edge": 0.6,
-      "last5_avg": 18.0,
-      "last10_avg": 15.3,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 40,
-      "h2h_over_pct": 0,
-      "last10": [
-        {
-          "date": "07/14",
-          "value": 25.0,
           "opponent": "TOR"
         },
         {
-          "date": "07/12",
-          "value": 12.0,
-          "opponent": "SEA"
+          "date": "06/17",
+          "value": 7.0,
+          "opponent": "WSH"
         },
         {
-          "date": "07/06",
-          "value": 12.0,
-          "opponent": "GS"
-        },
-        {
-          "date": "07/02",
-          "value": 14.0,
-          "opponent": "ATL"
-        },
-        {
-          "date": "06/28",
-          "value": 27.0,
-          "opponent": "POR"
-        },
-        {
-          "date": "06/26",
-          "value": 11.0,
-          "opponent": "CON"
-        },
-        {
-          "date": "06/24",
-          "value": 13.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/21",
-          "value": 17.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/19",
-          "value": 20.0,
-          "opponent": "NY"
-        },
-        {
-          "date": "06/08",
-          "value": 2.0,
+          "date": "06/13",
+          "value": 4.0,
           "opponent": "IND"
         }
       ],
@@ -660,27 +5908,27 @@
       "stats_available": true
     },
     {
-      "player": "Kiki Iriafen",
+      "player": "Diamond Miller",
       "market": "pts",
       "market_label": "Points",
-      "line": 15.5,
+      "line": 8.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "WSH",
-      "opponent": "",
-      "home": null,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": false,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
       "position": "F",
-      "projection": 17.1,
-      "edge": 1.6,
-      "last5_avg": 18.0,
-      "last10_avg": 15.3,
+      "projection": 8.3,
+      "edge": -0.2,
+      "last5_avg": 8.6,
+      "last10_avg": 7.7,
       "h2h_avg": 0.0,
       "last5_over_pct": 40,
       "last10_over_pct": 40,
@@ -688,52 +5936,52 @@
       "last10": [
         {
           "date": "07/14",
-          "value": 25.0,
-          "opponent": "TOR"
-        },
-        {
-          "date": "07/12",
-          "value": 12.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "07/06",
-          "value": 12.0,
-          "opponent": "GS"
-        },
-        {
-          "date": "07/02",
-          "value": 14.0,
-          "opponent": "ATL"
-        },
-        {
-          "date": "06/28",
-          "value": 27.0,
+          "value": 8.0,
           "opponent": "POR"
         },
         {
-          "date": "06/26",
-          "value": 11.0,
-          "opponent": "CON"
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "GS"
         },
         {
-          "date": "06/24",
+          "date": "07/08",
           "value": 13.0,
           "opponent": "MIN"
         },
         {
-          "date": "06/21",
-          "value": 17.0,
+          "date": "07/07",
+          "value": 5.0,
           "opponent": "MIN"
         },
         {
-          "date": "06/19",
-          "value": 20.0,
-          "opponent": "NY"
+          "date": "07/03",
+          "value": 3.0,
+          "opponent": "DAL"
         },
         {
-          "date": "06/08",
-          "value": 2.0,
+          "date": "06/26",
+          "value": 4.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/22",
+          "value": 9.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/19",
+          "value": 10.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/17",
+          "value": 7.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/13",
+          "value": 4.0,
           "opponent": "IND"
         }
       ],
@@ -741,594 +5989,492 @@
       "stats_available": true
     },
     {
-      "player": "Michaela Onyenwere",
+      "player": "Kahleah Copper",
       "market": "pts",
       "market_label": "Points",
-      "line": 9.5,
+      "line": 21.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "WSH",
-      "opponent": "",
-      "home": null,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "F",
-      "projection": 10.0,
-      "edge": 0.5,
-      "last5_avg": 10.2,
-      "last10_avg": 9.5,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 40,
-      "h2h_over_pct": 0,
-      "last10": [
-        {
-          "date": "07/14",
-          "value": 15.0,
-          "opponent": "TOR"
-        },
-        {
-          "date": "07/12",
-          "value": 0.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "07/06",
-          "value": 2.0,
-          "opponent": "GS"
-        },
-        {
-          "date": "07/02",
-          "value": 4.0,
-          "opponent": "ATL"
-        },
-        {
-          "date": "06/28",
-          "value": 30.0,
-          "opponent": "POR"
-        },
-        {
-          "date": "06/26",
-          "value": 4.0,
-          "opponent": "CON"
-        },
-        {
-          "date": "06/24",
-          "value": 2.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/21",
-          "value": 5.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/19",
-          "value": 11.0,
-          "opponent": "NY"
-        },
-        {
-          "date": "06/17",
-          "value": 22.0,
-          "opponent": "CON"
-        }
-      ],
-      "h2h": [],
-      "stats_available": true
-    },
-    {
-      "player": "Michaela Onyenwere",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 9.5,
-      "bookmaker": "fanduel",
-      "bookmaker_label": "FanDuel",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "WSH",
-      "opponent": "",
-      "home": null,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "F",
-      "projection": 10.0,
-      "edge": 0.5,
-      "last5_avg": 10.2,
-      "last10_avg": 9.5,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 40,
-      "h2h_over_pct": 0,
-      "last10": [
-        {
-          "date": "07/14",
-          "value": 15.0,
-          "opponent": "TOR"
-        },
-        {
-          "date": "07/12",
-          "value": 0.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "07/06",
-          "value": 2.0,
-          "opponent": "GS"
-        },
-        {
-          "date": "07/02",
-          "value": 4.0,
-          "opponent": "ATL"
-        },
-        {
-          "date": "06/28",
-          "value": 30.0,
-          "opponent": "POR"
-        },
-        {
-          "date": "06/26",
-          "value": 4.0,
-          "opponent": "CON"
-        },
-        {
-          "date": "06/24",
-          "value": 2.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/21",
-          "value": 5.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/19",
-          "value": 11.0,
-          "opponent": "NY"
-        },
-        {
-          "date": "06/17",
-          "value": 22.0,
-          "opponent": "CON"
-        }
-      ],
-      "h2h": [],
-      "stats_available": true
-    },
-    {
-      "player": "Sarah Ashlee Barker",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 9.5,
-      "bookmaker": "draftkings",
-      "bookmaker_label": "DraftKings",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "POR",
-      "opponent": "WAS",
-      "home": false,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": true,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
       "position": "G",
-      "projection": 11.4,
-      "edge": 1.9,
-      "last5_avg": 11.4,
-      "last10_avg": 11.4,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 60,
-      "h2h_over_pct": 0,
-      "last10": [
-        {
-          "date": "07/14",
-          "value": 9.0,
-          "opponent": "CON"
-        },
-        {
-          "date": "07/10",
-          "value": 8.0,
-          "opponent": "LV"
-        },
-        {
-          "date": "07/05",
-          "value": 4.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "06/28",
-          "value": 25.0,
-          "opponent": "WSH"
-        },
-        {
-          "date": "06/26",
-          "value": 11.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/25",
-          "value": 13.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/18",
-          "value": 12.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "06/16",
-          "value": 8.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/14",
-          "value": 10.0,
-          "opponent": "DAL"
-        },
-        {
-          "date": "06/12",
-          "value": 14.0,
-          "opponent": "LV"
-        }
-      ],
-      "h2h": [],
-      "stats_available": true
-    },
-    {
-      "player": "Sarah Ashlee Barker",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 9.5,
-      "bookmaker": "fanduel",
-      "bookmaker_label": "FanDuel",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "POR",
-      "opponent": "WAS",
-      "home": false,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "G",
-      "projection": 11.4,
-      "edge": 1.9,
-      "last5_avg": 11.4,
-      "last10_avg": 11.4,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 60,
-      "h2h_over_pct": 0,
-      "last10": [
-        {
-          "date": "07/14",
-          "value": 9.0,
-          "opponent": "CON"
-        },
-        {
-          "date": "07/10",
-          "value": 8.0,
-          "opponent": "LV"
-        },
-        {
-          "date": "07/05",
-          "value": 4.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "06/28",
-          "value": 25.0,
-          "opponent": "WSH"
-        },
-        {
-          "date": "06/26",
-          "value": 11.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/25",
-          "value": 13.0,
-          "opponent": "CHI"
-        },
-        {
-          "date": "06/18",
-          "value": 12.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "06/16",
-          "value": 8.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/14",
-          "value": 10.0,
-          "opponent": "DAL"
-        },
-        {
-          "date": "06/12",
-          "value": 14.0,
-          "opponent": "LV"
-        }
-      ],
-      "h2h": [],
-      "stats_available": true
-    },
-    {
-      "player": "Shakira Austin",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 14.5,
-      "bookmaker": "draftkings",
-      "bookmaker_label": "DraftKings",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "WSH",
-      "opponent": "",
-      "home": null,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "C",
-      "projection": 15.6,
+      "projection": 22.6,
       "edge": 1.1,
-      "last5_avg": 17.0,
-      "last10_avg": 13.1,
+      "last5_avg": 22.4,
+      "last10_avg": 23.0,
       "h2h_avg": 0.0,
-      "last5_over_pct": 60,
-      "last10_over_pct": 30,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
       "h2h_over_pct": 0,
       "last10": [
         {
           "date": "07/14",
-          "value": 17.0,
-          "opponent": "TOR"
+          "value": 26.0,
+          "opponent": "MIN"
         },
         {
-          "date": "07/12",
-          "value": 27.0,
+          "date": "07/11",
+          "value": 9.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 22.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/08",
+          "value": 25.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/03",
+          "value": 30.0,
           "opponent": "SEA"
         },
         {
-          "date": "07/06",
-          "value": 11.0,
-          "opponent": "GS"
-        },
-        {
-          "date": "07/02",
-          "value": 21.0,
-          "opponent": "ATL"
-        },
-        {
-          "date": "06/28",
-          "value": 9.0,
-          "opponent": "POR"
-        },
-        {
-          "date": "06/26",
-          "value": 6.0,
-          "opponent": "CON"
+          "date": "06/27",
+          "value": 27.0,
+          "opponent": "TOR"
         },
         {
           "date": "06/24",
-          "value": 11.0,
-          "opponent": "MIN"
+          "value": 28.0,
+          "opponent": "IND"
         },
         {
-          "date": "06/21",
-          "value": 7.0,
-          "opponent": "MIN"
+          "date": "06/23",
+          "value": 20.0,
+          "opponent": "IND"
         },
         {
-          "date": "06/19",
-          "value": 14.0,
-          "opponent": "NY"
+          "date": "06/20",
+          "value": 17.0,
+          "opponent": "SEA"
         },
         {
-          "date": "06/14",
-          "value": 8.0,
-          "opponent": "NY"
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "LV"
         }
       ],
       "h2h": [],
       "stats_available": true
     },
     {
-      "player": "Shakira Austin",
+      "player": "Kahleah Copper",
       "market": "pts",
       "market_label": "Points",
-      "line": 15.5,
+      "line": 21.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "WSH",
-      "opponent": "",
-      "home": null,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
-      "position": "C",
-      "projection": 15.6,
-      "edge": 0.1,
-      "last5_avg": 17.0,
-      "last10_avg": 13.1,
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": true,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "G",
+      "projection": 22.6,
+      "edge": 1.1,
+      "last5_avg": 22.4,
+      "last10_avg": 23.0,
       "h2h_avg": 0.0,
-      "last5_over_pct": 60,
-      "last10_over_pct": 30,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
       "h2h_over_pct": 0,
       "last10": [
         {
           "date": "07/14",
-          "value": 17.0,
-          "opponent": "TOR"
+          "value": 26.0,
+          "opponent": "MIN"
         },
         {
-          "date": "07/12",
-          "value": 27.0,
+          "date": "07/11",
+          "value": 9.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 22.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/08",
+          "value": 25.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/03",
+          "value": 30.0,
           "opponent": "SEA"
         },
         {
-          "date": "07/06",
-          "value": 11.0,
-          "opponent": "GS"
-        },
-        {
-          "date": "07/02",
-          "value": 21.0,
-          "opponent": "ATL"
-        },
-        {
-          "date": "06/28",
-          "value": 9.0,
-          "opponent": "POR"
-        },
-        {
-          "date": "06/26",
-          "value": 6.0,
-          "opponent": "CON"
+          "date": "06/27",
+          "value": 27.0,
+          "opponent": "TOR"
         },
         {
           "date": "06/24",
-          "value": 11.0,
-          "opponent": "MIN"
+          "value": 28.0,
+          "opponent": "IND"
         },
         {
-          "date": "06/21",
-          "value": 7.0,
-          "opponent": "MIN"
+          "date": "06/23",
+          "value": 20.0,
+          "opponent": "IND"
         },
         {
-          "date": "06/19",
-          "value": 14.0,
-          "opponent": "NY"
+          "date": "06/20",
+          "value": 17.0,
+          "opponent": "SEA"
         },
         {
-          "date": "06/14",
-          "value": 8.0,
-          "opponent": "NY"
+          "date": "06/18",
+          "value": 26.0,
+          "opponent": "LV"
         }
       ],
       "h2h": [],
       "stats_available": true
     },
     {
-      "player": "Sonia Citron",
+      "player": "Le\u00efla Lacan",
       "market": "pts",
       "market_label": "Points",
-      "line": 16.5,
+      "line": 13.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "WSH",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "",
       "opponent": "",
       "home": null,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "",
+      "projection": 0.0,
+      "edge": -13.5,
+      "last5_avg": 0.0,
+      "last10_avg": 0.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 0,
+      "last10_over_pct": 0,
+      "h2h_over_pct": 0,
+      "last10": [],
+      "h2h": [],
+      "stats_available": false
+    },
+    {
+      "player": "Le\u00efla Lacan",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 12.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "",
+      "opponent": "",
+      "home": null,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "",
+      "projection": 0.0,
+      "edge": -12.5,
+      "last5_avg": 0.0,
+      "last10_avg": 0.0,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 0,
+      "last10_over_pct": 0,
+      "h2h_over_pct": 0,
+      "last10": [],
+      "h2h": [],
+      "stats_available": false
+    },
+    {
+      "player": "Monique Akoa Makani",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 10.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": true,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
       "position": "G",
-      "projection": 18.4,
-      "edge": 1.9,
-      "last5_avg": 18.4,
-      "last10_avg": 18.4,
+      "projection": 11.0,
+      "edge": 0.5,
+      "last5_avg": 11.2,
+      "last10_avg": 10.5,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
-      "last10_over_pct": 60,
+      "last10_over_pct": 50,
       "h2h_over_pct": 0,
       "last10": [
         {
           "date": "07/14",
-          "value": 2.0,
-          "opponent": "TOR"
+          "value": 17.0,
+          "opponent": "MIN"
         },
         {
-          "date": "07/12",
-          "value": 19.0,
+          "date": "07/11",
+          "value": 13.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/03",
+          "value": 3.0,
           "opponent": "SEA"
         },
         {
-          "date": "06/28",
-          "value": 32.0,
-          "opponent": "POR"
-        },
-        {
-          "date": "06/26",
-          "value": 11.0,
-          "opponent": "CON"
-        },
-        {
-          "date": "06/24",
-          "value": 28.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/21",
-          "value": 21.0,
-          "opponent": "MIN"
-        },
-        {
-          "date": "06/19",
-          "value": 16.0,
-          "opponent": "NY"
-        },
-        {
-          "date": "06/17",
-          "value": 26.0,
-          "opponent": "CON"
+          "date": "06/18",
+          "value": 4.0,
+          "opponent": "LV"
         },
         {
           "date": "06/14",
-          "value": 12.0,
-          "opponent": "NY"
+          "value": 9.0,
+          "opponent": "LA"
         },
         {
           "date": "06/12",
-          "value": 17.0,
-          "opponent": "TOR"
+          "value": 6.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/10",
+          "value": 19.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/06",
+          "value": 11.0,
+          "opponent": "POR"
         }
       ],
       "h2h": [],
       "stats_available": true
     },
     {
-      "player": "Sonia Citron",
+      "player": "Monique Akoa Makani",
       "market": "pts",
       "market_label": "Points",
-      "line": 16.5,
+      "line": 10.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
-      "event_id": "00a997433337939ebda3beb882a1e2db",
-      "commence_time": "2026-07-16T23:10:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Portland Fire",
-      "team": "WSH",
-      "opponent": "",
-      "home": null,
-      "game_id": "00a997433337939ebda3beb882a1e2db",
-      "game_date": "2026-07-16",
-      "game_datetime": "2026-07-16T23:10:00Z",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": true,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
       "position": "G",
-      "projection": 18.4,
-      "edge": 1.9,
-      "last5_avg": 18.4,
-      "last10_avg": 18.4,
+      "projection": 11.0,
+      "edge": 0.5,
+      "last5_avg": 11.2,
+      "last10_avg": 10.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 17.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/11",
+          "value": 13.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 14.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/08",
+          "value": 9.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "07/03",
+          "value": 3.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/18",
+          "value": 4.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/14",
+          "value": 9.0,
+          "opponent": "LA"
+        },
+        {
+          "date": "06/12",
+          "value": 6.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/10",
+          "value": 19.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "06/06",
+          "value": 11.0,
+          "opponent": "POR"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Noemie Brochant",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 5.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": true,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "F",
+      "projection": 3.5,
+      "edge": -2.0,
+      "last5_avg": 2.2,
+      "last10_avg": 5.8,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 2.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/11",
+          "value": 6.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "07/10",
+          "value": 0.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "07/08",
+          "value": 0.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/27",
+          "value": 3.0,
+          "opponent": "TOR"
+        },
+        {
+          "date": "06/24",
+          "value": 12.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/23",
+          "value": 7.0,
+          "opponent": "IND"
+        },
+        {
+          "date": "06/20",
+          "value": 16.0,
+          "opponent": "SEA"
+        },
+        {
+          "date": "06/18",
+          "value": 4.0,
+          "opponent": "LV"
+        },
+        {
+          "date": "06/14",
+          "value": 8.0,
+          "opponent": "LA"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Olivia Nelson-Ododa",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": false,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "C",
+      "projection": 12.2,
+      "edge": 0.7,
+      "last5_avg": 12.6,
+      "last10_avg": 11.6,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
       "last10_over_pct": 60,
@@ -1336,60 +6482,143 @@
       "last10": [
         {
           "date": "07/14",
-          "value": 2.0,
-          "opponent": "TOR"
-        },
-        {
-          "date": "07/12",
-          "value": 19.0,
-          "opponent": "SEA"
-        },
-        {
-          "date": "06/28",
-          "value": 32.0,
+          "value": 16.0,
           "opponent": "POR"
         },
         {
-          "date": "06/26",
+          "date": "07/10",
+          "value": 12.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/08",
+          "value": 14.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/07",
+          "value": 10.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/03",
           "value": 11.0,
-          "opponent": "CON"
+          "opponent": "DAL"
         },
         {
-          "date": "06/24",
-          "value": 28.0,
-          "opponent": "MIN"
+          "date": "06/26",
+          "value": 12.0,
+          "opponent": "WSH"
         },
         {
-          "date": "06/21",
-          "value": 21.0,
-          "opponent": "MIN"
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "CHI"
         },
         {
           "date": "06/19",
-          "value": 16.0,
-          "opponent": "NY"
+          "value": 13.0,
+          "opponent": "TOR"
         },
         {
           "date": "06/17",
-          "value": 26.0,
-          "opponent": "CON"
+          "value": 5.0,
+          "opponent": "WSH"
         },
         {
-          "date": "06/14",
+          "date": "06/13",
           "value": 12.0,
-          "opponent": "NY"
+          "opponent": "IND"
+        }
+      ],
+      "h2h": [],
+      "stats_available": true
+    },
+    {
+      "player": "Olivia Nelson-Ododa",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "commence_time": "2026-07-18T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Connecticut Sun",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": false,
+      "game_id": "02c8aae5b168305c60aa6f9c66f443d1",
+      "game_date": "2026-07-17",
+      "game_datetime": "2026-07-18T02:00:00Z",
+      "position": "C",
+      "projection": 12.2,
+      "edge": 0.7,
+      "last5_avg": 12.6,
+      "last10_avg": 11.6,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last10": [
+        {
+          "date": "07/14",
+          "value": 16.0,
+          "opponent": "POR"
         },
         {
-          "date": "06/12",
-          "value": 17.0,
+          "date": "07/10",
+          "value": 12.0,
+          "opponent": "GS"
+        },
+        {
+          "date": "07/08",
+          "value": 14.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/07",
+          "value": 10.0,
+          "opponent": "MIN"
+        },
+        {
+          "date": "07/03",
+          "value": 11.0,
+          "opponent": "DAL"
+        },
+        {
+          "date": "06/26",
+          "value": 12.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/22",
+          "value": 11.0,
+          "opponent": "CHI"
+        },
+        {
+          "date": "06/19",
+          "value": 13.0,
           "opponent": "TOR"
+        },
+        {
+          "date": "06/17",
+          "value": 5.0,
+          "opponent": "WSH"
+        },
+        {
+          "date": "06/13",
+          "value": 12.0,
+          "opponent": "IND"
         }
       ],
       "h2h": [],
       "stats_available": true
     }
   ],
-  "unmatched_players": [],
+  "unmatched_players": [
+    "Le\u00efla Lacan"
+  ],
   "stats_status": "available",
   "stats_source": "ESPN WNBA box scores",
   "lines_source": "The Odds API"

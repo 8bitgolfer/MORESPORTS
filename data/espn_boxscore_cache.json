@@ -41445,6 +41445,446 @@
           "position": "G"
         }
       ]
+    },
+    "401857070": {
+      "date": "2026-07-16",
+      "rows": [
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Kayla Thornton",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 11.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Gabby Williams",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 16.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Cecilia Zandalasini",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 10.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Kiah Stokes",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 4.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Veronica Burton",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 4.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Laeticia Amihere",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 2.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Janelle Salaun",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 12.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Tiffany Hayes",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 13.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Kaila Charles",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 2.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Kaitlyn Chen",
+          "team": "GS",
+          "opponent": "IND",
+          "home": false,
+          "points": 14.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Monique Billings",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 4.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Aliyah Boston",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 15.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Kelsey Mitchell",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 20.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Lexie Hull",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 2.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Caitlin Clark",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 13.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Makayla Timpson",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 6.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Grace VanSlooten",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 0.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Sophie Cunningham",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 10.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Tyasha Harris",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 5.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857070",
+          "date": "2026-07-16",
+          "player": "Raven Johnson",
+          "team": "IND",
+          "opponent": "GS",
+          "home": true,
+          "points": 0.0,
+          "position": "G"
+        }
+      ]
+    },
+    "401857071": {
+      "date": "2026-07-16",
+      "rows": [
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Bridget Carleton",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 6.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Emily Engstler",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 8.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Serah Williams",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 12.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Sarah Ashlee Barker",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 10.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Carla Leite",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 14.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Frieda Buhner",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 9.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Nyadiew Puoch",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 0.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Luisa Geiselsoder",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 1.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Karlie Samuelson",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 3.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Holly Winterburn",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 3.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Teja Oblak",
+          "team": "POR",
+          "opponent": "WSH",
+          "home": false,
+          "points": 9.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Michaela Onyenwere",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 5.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Kiki Iriafen",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 2.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Shakira Austin",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 19.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Sonia Citron",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 8.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Georgia Amoore",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 3.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Angela Dugalic",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 2.0,
+          "position": "F"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Lauren Betts",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 6.0,
+          "position": "C"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Rori Harmon",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 2.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Lucy Olsen",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 0.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Cotie McMahon",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 1.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Cassandre Prosper",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 3.0,
+          "position": "G"
+        },
+        {
+          "event_id": "401857071",
+          "date": "2026-07-16",
+          "player": "Alicia Florez",
+          "team": "WSH",
+          "opponent": "POR",
+          "home": true,
+          "points": 5.0,
+          "position": "G"
+        }
+      ]
     }
   }
 }
