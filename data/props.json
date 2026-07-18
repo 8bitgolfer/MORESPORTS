@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T11:42-04:00",
+  "updated_at": "2026-07-18T17:38-04:00",
   "slate_date": "2026-07-18",
   "games": [
     {
@@ -989,7 +989,7 @@
       "player": "Caitlin Clark",
       "market": "pts",
       "market_label": "Points",
-      "line": 17.5,
+      "line": 18.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
@@ -1004,7 +1004,7 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "G",
       "projection": 20.4,
-      "edge": 2.9,
+      "edge": 1.9,
       "last5_avg": 19.6,
       "last10_avg": 22.0,
       "h2h_avg": 0.0,
@@ -1303,7 +1303,7 @@
       "player": "Carla Leite",
       "market": "pts",
       "market_label": "Points",
-      "line": 14.5,
+      "line": 13.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "f8783a888cf81cf55788aa06d2273f16",
@@ -1318,12 +1318,12 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "G",
       "projection": 14.0,
-      "edge": -0.5,
+      "edge": 0.5,
       "last5_avg": 15.6,
       "last10_avg": 16.8,
       "h2h_avg": 2.5,
-      "last5_over_pct": 40,
-      "last10_over_pct": 50,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -1509,7 +1509,7 @@
       "player": "Carla Leite",
       "market": "pts",
       "market_label": "Points",
-      "line": 14.5,
+      "line": 13.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "f8783a888cf81cf55788aa06d2273f16",
@@ -1524,12 +1524,12 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "G",
       "projection": 14.0,
-      "edge": -0.5,
+      "edge": 0.5,
       "last5_avg": 15.6,
       "last10_avg": 16.8,
       "h2h_avg": 2.5,
-      "last5_over_pct": 40,
-      "last10_over_pct": 50,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -3169,7 +3169,7 @@
       "player": "Kelsey Mitchell",
       "market": "pts",
       "market_label": "Points",
-      "line": 23.5,
+      "line": 22.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
@@ -3184,7 +3184,7 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "G",
       "projection": 26.5,
-      "edge": 3.0,
+      "edge": 4.0,
       "last5_avg": 27.0,
       "last10_avg": 25.6,
       "h2h_avg": 0.0,
@@ -3326,7 +3326,7 @@
       "player": "Kelsey Mitchell",
       "market": "pts",
       "market_label": "Points",
-      "line": 23.5,
+      "line": 22.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
@@ -3341,7 +3341,7 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "G",
       "projection": 26.5,
-      "edge": 3.0,
+      "edge": 4.0,
       "last5_avg": 27.0,
       "last10_avg": 25.6,
       "h2h_avg": 0.0,
@@ -3480,10 +3480,324 @@
       "stats_available": true
     },
     {
+      "player": "Marine Johannes",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 7.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
+      "commence_time": "2026-07-19T00:00:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "New York Liberty",
+      "team": "NY",
+      "opponent": "",
+      "home": null,
+      "game_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
+      "game_date": "2026-07-18",
+      "game_datetime": "2026-07-19T00:00:00Z",
+      "position": "G",
+      "projection": 6.8,
+      "edge": -0.7,
+      "last5_avg": 7.0,
+      "last10_avg": 6.4,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 20,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "07/12",
+          "full_date": "2026-07-12",
+          "value": 7.0,
+          "opponent": "TOR",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 14.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 7.0,
+          "opponent": "DAL",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 0.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/30",
+          "full_date": "2026-06-30",
+          "value": 7.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": true
+        }
+      ],
+      "last10": [
+        {
+          "date": "07/12",
+          "full_date": "2026-07-12",
+          "value": 7.0,
+          "opponent": "TOR",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 14.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 7.0,
+          "opponent": "DAL",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 0.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/30",
+          "full_date": "2026-06-30",
+          "value": 7.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/28",
+          "full_date": "2026-06-28",
+          "value": 3.0,
+          "opponent": "GS",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/26",
+          "full_date": "2026-06-26",
+          "value": 6.0,
+          "opponent": "SEA",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/24",
+          "full_date": "2026-06-24",
+          "value": 6.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/22",
+          "full_date": "2026-06-22",
+          "value": 10.0,
+          "opponent": "LA",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/19",
+          "full_date": "2026-06-19",
+          "value": 4.0,
+          "opponent": "WSH",
+          "team": "NY",
+          "home": true
+        }
+      ],
+      "h2h": [],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 0,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
+      "player": "Marine Johannes",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 7.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
+      "commence_time": "2026-07-19T00:00:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "New York Liberty",
+      "team": "NY",
+      "opponent": "",
+      "home": null,
+      "game_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
+      "game_date": "2026-07-18",
+      "game_datetime": "2026-07-19T00:00:00Z",
+      "position": "G",
+      "projection": 6.8,
+      "edge": -0.7,
+      "last5_avg": 7.0,
+      "last10_avg": 6.4,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 20,
+      "last10_over_pct": 20,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "07/12",
+          "full_date": "2026-07-12",
+          "value": 7.0,
+          "opponent": "TOR",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 14.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 7.0,
+          "opponent": "DAL",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 0.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/30",
+          "full_date": "2026-06-30",
+          "value": 7.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": true
+        }
+      ],
+      "last10": [
+        {
+          "date": "07/12",
+          "full_date": "2026-07-12",
+          "value": 7.0,
+          "opponent": "TOR",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 14.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 7.0,
+          "opponent": "DAL",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 0.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/30",
+          "full_date": "2026-06-30",
+          "value": 7.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/28",
+          "full_date": "2026-06-28",
+          "value": 3.0,
+          "opponent": "GS",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/26",
+          "full_date": "2026-06-26",
+          "value": 6.0,
+          "opponent": "SEA",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/24",
+          "full_date": "2026-06-24",
+          "value": 6.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/22",
+          "full_date": "2026-06-22",
+          "value": 10.0,
+          "opponent": "LA",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/19",
+          "full_date": "2026-06-19",
+          "value": 4.0,
+          "opponent": "WSH",
+          "team": "NY",
+          "home": true
+        }
+      ],
+      "h2h": [],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 0,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
       "player": "Natasha Howard",
       "market": "pts",
       "market_label": "Points",
-      "line": 16.5,
+      "line": 15.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "f8783a888cf81cf55788aa06d2273f16",
@@ -3498,12 +3812,12 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "F",
       "projection": 14.8,
-      "edge": -1.7,
+      "edge": -0.7,
       "last5_avg": 13.8,
       "last10_avg": 14.8,
       "h2h_avg": 18.0,
-      "last5_over_pct": 20,
-      "last10_over_pct": 40,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
       "h2h_over_pct": 100,
       "last5": [
         {
@@ -3815,7 +4129,7 @@
       "player": "Nia Coffey",
       "market": "pts",
       "market_label": "Points",
-      "line": 7.5,
+      "line": 8.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "f8783a888cf81cf55788aa06d2273f16",
@@ -3830,12 +4144,12 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "F",
       "projection": 6.3,
-      "edge": -1.2,
+      "edge": -2.2,
       "last5_avg": 3.8,
       "last10_avg": 6.7,
       "h2h_avg": 15.0,
-      "last5_over_pct": 20,
-      "last10_over_pct": 30,
+      "last5_over_pct": 0,
+      "last10_over_pct": 20,
       "h2h_over_pct": 100,
       "last5": [
         {
@@ -3981,7 +4295,7 @@
       "player": "Nia Coffey",
       "market": "pts",
       "market_label": "Points",
-      "line": 7.5,
+      "line": 8.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "f8783a888cf81cf55788aa06d2273f16",
@@ -3996,12 +4310,12 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "F",
       "projection": 6.3,
-      "edge": -1.2,
+      "edge": -2.2,
       "last5_avg": 3.8,
       "last10_avg": 6.7,
       "h2h_avg": 15.0,
-      "last5_over_pct": 20,
-      "last10_over_pct": 30,
+      "last5_over_pct": 0,
+      "last10_over_pct": 20,
       "h2h_over_pct": 100,
       "last5": [
         {
@@ -4313,7 +4627,7 @@
       "player": "Olivia Miles",
       "market": "pts",
       "market_label": "Points",
-      "line": 17.5,
+      "line": 16.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "f8783a888cf81cf55788aa06d2273f16",
@@ -4328,7 +4642,7 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "G",
       "projection": 19.8,
-      "edge": 2.3,
+      "edge": 3.3,
       "last5_avg": 21.8,
       "last10_avg": 20.2,
       "h2h_avg": 12.0,
@@ -4472,6 +4786,320 @@
       "last5_games_count": 5,
       "last10_games_count": 10,
       "h2h_games_count": 1,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
+      "player": "Pauline Astier",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
+      "commence_time": "2026-07-19T00:00:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "New York Liberty",
+      "team": "NY",
+      "opponent": "",
+      "home": null,
+      "game_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
+      "game_date": "2026-07-18",
+      "game_datetime": "2026-07-19T00:00:00Z",
+      "position": "G",
+      "projection": 9.6,
+      "edge": 0.1,
+      "last5_avg": 10.2,
+      "last10_avg": 8.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "07/12",
+          "full_date": "2026-07-12",
+          "value": 14.0,
+          "opponent": "TOR",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 4.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 4.0,
+          "opponent": "DAL",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 14.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/30",
+          "full_date": "2026-06-30",
+          "value": 15.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": true
+        }
+      ],
+      "last10": [
+        {
+          "date": "07/12",
+          "full_date": "2026-07-12",
+          "value": 14.0,
+          "opponent": "TOR",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 4.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 4.0,
+          "opponent": "DAL",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 14.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/30",
+          "full_date": "2026-06-30",
+          "value": 15.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/28",
+          "full_date": "2026-06-28",
+          "value": 5.0,
+          "opponent": "GS",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/26",
+          "full_date": "2026-06-26",
+          "value": 3.0,
+          "opponent": "SEA",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/24",
+          "full_date": "2026-06-24",
+          "value": 7.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/22",
+          "full_date": "2026-06-22",
+          "value": 17.0,
+          "opponent": "LA",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/19",
+          "full_date": "2026-06-19",
+          "value": 2.0,
+          "opponent": "WSH",
+          "team": "NY",
+          "home": true
+        }
+      ],
+      "h2h": [],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 0,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
+      "player": "Pauline Astier",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
+      "commence_time": "2026-07-19T00:00:00Z",
+      "home_team_name": "Indiana Fever",
+      "away_team_name": "New York Liberty",
+      "team": "NY",
+      "opponent": "",
+      "home": null,
+      "game_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
+      "game_date": "2026-07-18",
+      "game_datetime": "2026-07-19T00:00:00Z",
+      "position": "G",
+      "projection": 9.6,
+      "edge": 0.1,
+      "last5_avg": 10.2,
+      "last10_avg": 8.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "07/12",
+          "full_date": "2026-07-12",
+          "value": 14.0,
+          "opponent": "TOR",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 4.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 4.0,
+          "opponent": "DAL",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 14.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/30",
+          "full_date": "2026-06-30",
+          "value": 15.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": true
+        }
+      ],
+      "last10": [
+        {
+          "date": "07/12",
+          "full_date": "2026-07-12",
+          "value": 14.0,
+          "opponent": "TOR",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 4.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 4.0,
+          "opponent": "DAL",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 14.0,
+          "opponent": "MIN",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/30",
+          "full_date": "2026-06-30",
+          "value": 15.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": true
+        },
+        {
+          "date": "06/28",
+          "full_date": "2026-06-28",
+          "value": 5.0,
+          "opponent": "GS",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/26",
+          "full_date": "2026-06-26",
+          "value": 3.0,
+          "opponent": "SEA",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/24",
+          "full_date": "2026-06-24",
+          "value": 7.0,
+          "opponent": "LV",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/22",
+          "full_date": "2026-06-22",
+          "value": 17.0,
+          "opponent": "LA",
+          "team": "NY",
+          "home": false
+        },
+        {
+          "date": "06/19",
+          "full_date": "2026-06-19",
+          "value": 2.0,
+          "opponent": "WSH",
+          "team": "NY",
+          "home": true
+        }
+      ],
+      "h2h": [],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 0,
       "h2h_limit": 10,
       "stats_available": true
     },
@@ -4479,7 +5107,7 @@
       "player": "Sabrina Ionescu",
       "market": "pts",
       "market_label": "Points",
-      "line": 16.5,
+      "line": 17.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "cb4f9fb87d3e9c98bee6b12fbd21fdab",
@@ -4494,12 +5122,12 @@
       "game_datetime": "2026-07-19T00:00:00Z",
       "position": "G",
       "projection": 19.9,
-      "edge": 3.4,
+      "edge": 2.4,
       "last5_avg": 22.0,
       "last10_avg": 16.0,
       "h2h_avg": 0.0,
-      "last5_over_pct": 80,
-      "last10_over_pct": 40,
+      "last5_over_pct": 60,
+      "last10_over_pct": 30,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -5678,7 +6306,7 @@
       "player": "Gabby Williams",
       "market": "pts",
       "market_label": "Points",
-      "line": 13.5,
+      "line": 12.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "d24612bd3abe34a240d8fd2f3ced9d4f",
@@ -5693,7 +6321,7 @@
       "game_datetime": "2026-07-19T00:30:00Z",
       "position": "F",
       "projection": 11.5,
-      "edge": -2.0,
+      "edge": -1.0,
       "last5_avg": 10.2,
       "last10_avg": 14.0,
       "h2h_avg": 0.0,
@@ -5835,7 +6463,7 @@
       "player": "Gabby Williams",
       "market": "pts",
       "market_label": "Points",
-      "line": 13.5,
+      "line": 12.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "d24612bd3abe34a240d8fd2f3ced9d4f",
@@ -5850,7 +6478,7 @@
       "game_datetime": "2026-07-19T00:30:00Z",
       "position": "F",
       "projection": 11.5,
-      "edge": -2.0,
+      "edge": -1.0,
       "last5_avg": 10.2,
       "last10_avg": 14.0,
       "h2h_avg": 0.0,
@@ -7091,7 +7719,7 @@
       "player": "Kiki Iriafen",
       "market": "pts",
       "market_label": "Points",
-      "line": 12.5,
+      "line": 13.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "d24612bd3abe34a240d8fd2f3ced9d4f",
@@ -7106,12 +7734,12 @@
       "game_datetime": "2026-07-19T00:30:00Z",
       "position": "F",
       "projection": 13.8,
-      "edge": 1.3,
+      "edge": 0.3,
       "last5_avg": 13.0,
       "last10_avg": 15.3,
       "h2h_avg": 0.0,
       "last5_over_pct": 40,
-      "last10_over_pct": 60,
+      "last10_over_pct": 50,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -7876,7 +8504,7 @@
       "player": "Shakira Austin",
       "market": "pts",
       "market_label": "Points",
-      "line": 13.5,
+      "line": 12.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "d24612bd3abe34a240d8fd2f3ced9d4f",
@@ -7891,7 +8519,7 @@
       "game_datetime": "2026-07-19T00:30:00Z",
       "position": "C",
       "projection": 17.3,
-      "edge": 3.8,
+      "edge": 4.8,
       "last5_avg": 19.0,
       "last10_avg": 14.2,
       "h2h_avg": 0.0,
