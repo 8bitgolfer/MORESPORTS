@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T16:14:09+00:00",
+  "updated_at": "2026-07-29T21:44:35+00:00",
   "slate_date": "2026-07-29",
   "source": "The Odds API",
   "sportsbooks": [
@@ -156,7 +156,7 @@
       "player": "Naz Hillmon",
       "market": "pts",
       "market_label": "Points",
-      "line": 8.5,
+      "line": 7.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "c01616be622aa0fcab0ac0351d05e264",
@@ -249,10 +249,22 @@
       "away_team_name": "Golden State Valkyries"
     },
     {
+      "player": "Cecilia Zandalasini",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 6.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "44c05d0bdf345dc1b2a2eef1bff78ce3",
+      "commence_time": "2026-07-30T02:00:00Z",
+      "home_team_name": "Phoenix Mercury",
+      "away_team_name": "Golden State Valkyries"
+    },
+    {
       "player": "DeWanna Bonner",
       "market": "pts",
       "market_label": "Points",
-      "line": 9.5,
+      "line": 8.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "44c05d0bdf345dc1b2a2eef1bff78ce3",
@@ -324,7 +336,7 @@
       "player": "Kahleah Copper",
       "market": "pts",
       "market_label": "Points",
-      "line": 18.5,
+      "line": 17.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "44c05d0bdf345dc1b2a2eef1bff78ce3",
