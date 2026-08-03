@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T13:03-04:00",
+  "updated_at": "2026-08-03T17:56-04:00",
   "slate_date": "2026-08-03",
   "games": [
     {
@@ -657,7 +657,7 @@
       "player": "Dominique Malonga",
       "market": "pts",
       "market_label": "Points",
-      "line": 14.5,
+      "line": 15.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "51369aa71fcd604bdf38a760b6bcc223",
@@ -672,12 +672,12 @@
       "game_datetime": "2026-08-03T23:00:00Z",
       "position": "C",
       "projection": 17.3,
-      "edge": 2.8,
+      "edge": 1.8,
       "last5_avg": 18.2,
       "last10_avg": 15.6,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
-      "last10_over_pct": 60,
+      "last10_over_pct": 50,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -2855,7 +2855,7 @@
       "player": "Sabrina Ionescu",
       "market": "pts",
       "market_label": "Points",
-      "line": 19.5,
+      "line": 20.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "51369aa71fcd604bdf38a760b6bcc223",
@@ -2870,7 +2870,7 @@
       "game_datetime": "2026-08-03T23:00:00Z",
       "position": "G",
       "projection": 23.0,
-      "edge": 3.5,
+      "edge": 2.5,
       "last5_avg": 23.8,
       "last10_avg": 21.5,
       "h2h_avg": 0.0,
@@ -3169,166 +3169,9 @@
       "player": "A'ja Wilson",
       "market": "pts",
       "market_label": "Points",
-      "line": 25.5,
+      "line": 26.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
-      "event_id": "9192db295ea37dc4616880169fa9e38d",
-      "commence_time": "2026-08-03T23:30:00Z",
-      "home_team_name": "Atlanta Dream",
-      "away_team_name": "Las Vegas Aces",
-      "team": "LV",
-      "opponent": "",
-      "home": null,
-      "game_id": "9192db295ea37dc4616880169fa9e38d",
-      "game_date": "2026-08-03",
-      "game_datetime": "2026-08-03T23:30:00Z",
-      "position": "C",
-      "projection": 28.8,
-      "edge": 3.3,
-      "last5_avg": 29.4,
-      "last10_avg": 27.6,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 80,
-      "last10_over_pct": 70,
-      "h2h_over_pct": 0,
-      "last5": [
-        {
-          "date": "08/01",
-          "full_date": "2026-08-01",
-          "value": 36.0,
-          "opponent": "CHI",
-          "team": "LV",
-          "home": false
-        },
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 33.0,
-          "opponent": "NY",
-          "team": "LV",
-          "home": true
-        },
-        {
-          "date": "07/29",
-          "full_date": "2026-07-29",
-          "value": 28.0,
-          "opponent": "POR",
-          "team": "LV",
-          "home": true
-        },
-        {
-          "date": "07/26",
-          "full_date": "2026-07-26",
-          "value": 12.0,
-          "opponent": "COOP",
-          "team": "SPO",
-          "home": false
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 38.0,
-          "opponent": "WSH",
-          "team": "LV",
-          "home": false
-        }
-      ],
-      "last10": [
-        {
-          "date": "08/01",
-          "full_date": "2026-08-01",
-          "value": 36.0,
-          "opponent": "CHI",
-          "team": "LV",
-          "home": false
-        },
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 33.0,
-          "opponent": "NY",
-          "team": "LV",
-          "home": true
-        },
-        {
-          "date": "07/29",
-          "full_date": "2026-07-29",
-          "value": 28.0,
-          "opponent": "POR",
-          "team": "LV",
-          "home": true
-        },
-        {
-          "date": "07/26",
-          "full_date": "2026-07-26",
-          "value": 12.0,
-          "opponent": "COOP",
-          "team": "SPO",
-          "home": false
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 38.0,
-          "opponent": "WSH",
-          "team": "LV",
-          "home": false
-        },
-        {
-          "date": "07/21",
-          "full_date": "2026-07-21",
-          "value": 26.0,
-          "opponent": "TOR",
-          "team": "LV",
-          "home": false
-        },
-        {
-          "date": "07/13",
-          "full_date": "2026-07-13",
-          "value": 20.0,
-          "opponent": "IND",
-          "team": "LV",
-          "home": true
-        },
-        {
-          "date": "07/11",
-          "full_date": "2026-07-11",
-          "value": 21.0,
-          "opponent": "PHX",
-          "team": "LV",
-          "home": true
-        },
-        {
-          "date": "07/10",
-          "full_date": "2026-07-10",
-          "value": 32.0,
-          "opponent": "POR",
-          "team": "LV",
-          "home": false
-        },
-        {
-          "date": "06/28",
-          "full_date": "2026-06-28",
-          "value": 30.0,
-          "opponent": "CHI",
-          "team": "LV",
-          "home": false
-        }
-      ],
-      "h2h": [],
-      "last5_games_count": 5,
-      "last10_games_count": 10,
-      "h2h_games_count": 0,
-      "h2h_limit": 10,
-      "stats_available": true
-    },
-    {
-      "player": "A'ja Wilson",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 26.5,
-      "bookmaker": "fanduel",
-      "bookmaker_label": "FanDuel",
       "event_id": "9192db295ea37dc4616880169fa9e38d",
       "commence_time": "2026-08-03T23:30:00Z",
       "home_team_name": "Atlanta Dream",
@@ -3480,10 +3323,167 @@
       "stats_available": true
     },
     {
+      "player": "A'ja Wilson",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 27.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "9192db295ea37dc4616880169fa9e38d",
+      "commence_time": "2026-08-03T23:30:00Z",
+      "home_team_name": "Atlanta Dream",
+      "away_team_name": "Las Vegas Aces",
+      "team": "LV",
+      "opponent": "",
+      "home": null,
+      "game_id": "9192db295ea37dc4616880169fa9e38d",
+      "game_date": "2026-08-03",
+      "game_datetime": "2026-08-03T23:30:00Z",
+      "position": "C",
+      "projection": 28.8,
+      "edge": 1.3,
+      "last5_avg": 29.4,
+      "last10_avg": 27.6,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "08/01",
+          "full_date": "2026-08-01",
+          "value": 36.0,
+          "opponent": "CHI",
+          "team": "LV",
+          "home": false
+        },
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 33.0,
+          "opponent": "NY",
+          "team": "LV",
+          "home": true
+        },
+        {
+          "date": "07/29",
+          "full_date": "2026-07-29",
+          "value": 28.0,
+          "opponent": "POR",
+          "team": "LV",
+          "home": true
+        },
+        {
+          "date": "07/26",
+          "full_date": "2026-07-26",
+          "value": 12.0,
+          "opponent": "COOP",
+          "team": "SPO",
+          "home": false
+        },
+        {
+          "date": "07/22",
+          "full_date": "2026-07-22",
+          "value": 38.0,
+          "opponent": "WSH",
+          "team": "LV",
+          "home": false
+        }
+      ],
+      "last10": [
+        {
+          "date": "08/01",
+          "full_date": "2026-08-01",
+          "value": 36.0,
+          "opponent": "CHI",
+          "team": "LV",
+          "home": false
+        },
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 33.0,
+          "opponent": "NY",
+          "team": "LV",
+          "home": true
+        },
+        {
+          "date": "07/29",
+          "full_date": "2026-07-29",
+          "value": 28.0,
+          "opponent": "POR",
+          "team": "LV",
+          "home": true
+        },
+        {
+          "date": "07/26",
+          "full_date": "2026-07-26",
+          "value": 12.0,
+          "opponent": "COOP",
+          "team": "SPO",
+          "home": false
+        },
+        {
+          "date": "07/22",
+          "full_date": "2026-07-22",
+          "value": 38.0,
+          "opponent": "WSH",
+          "team": "LV",
+          "home": false
+        },
+        {
+          "date": "07/21",
+          "full_date": "2026-07-21",
+          "value": 26.0,
+          "opponent": "TOR",
+          "team": "LV",
+          "home": false
+        },
+        {
+          "date": "07/13",
+          "full_date": "2026-07-13",
+          "value": 20.0,
+          "opponent": "IND",
+          "team": "LV",
+          "home": true
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 21.0,
+          "opponent": "PHX",
+          "team": "LV",
+          "home": true
+        },
+        {
+          "date": "07/10",
+          "full_date": "2026-07-10",
+          "value": 32.0,
+          "opponent": "POR",
+          "team": "LV",
+          "home": false
+        },
+        {
+          "date": "06/28",
+          "full_date": "2026-06-28",
+          "value": 30.0,
+          "opponent": "CHI",
+          "team": "LV",
+          "home": false
+        }
+      ],
+      "h2h": [],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 0,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
       "player": "Allisha Gray",
       "market": "pts",
       "market_label": "Points",
-      "line": 18.5,
+      "line": 19.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9192db295ea37dc4616880169fa9e38d",
@@ -3498,12 +3498,12 @@
       "game_datetime": "2026-08-03T23:30:00Z",
       "position": "G",
       "projection": 21.2,
-      "edge": 2.7,
+      "edge": 1.7,
       "last5_avg": 21.4,
       "last10_avg": 20.8,
       "h2h_avg": 0.0,
-      "last5_over_pct": 60,
-      "last10_over_pct": 70,
+      "last5_over_pct": 40,
+      "last10_over_pct": 60,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -3640,7 +3640,7 @@
       "player": "Allisha Gray",
       "market": "pts",
       "market_label": "Points",
-      "line": 18.5,
+      "line": 19.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "9192db295ea37dc4616880169fa9e38d",
@@ -3655,12 +3655,12 @@
       "game_datetime": "2026-08-03T23:30:00Z",
       "position": "G",
       "projection": 21.2,
-      "edge": 2.7,
+      "edge": 1.7,
       "last5_avg": 21.4,
       "last10_avg": 20.8,
       "h2h_avg": 0.0,
-      "last5_over_pct": 60,
-      "last10_over_pct": 70,
+      "last5_over_pct": 40,
+      "last10_over_pct": 60,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -4111,7 +4111,7 @@
       "player": "Brionna Jones",
       "market": "pts",
       "market_label": "Points",
-      "line": 11.5,
+      "line": 10.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9192db295ea37dc4616880169fa9e38d",
@@ -4126,12 +4126,12 @@
       "game_datetime": "2026-08-03T23:30:00Z",
       "position": "F",
       "projection": 9.9,
-      "edge": -1.6,
+      "edge": -0.6,
       "last5_avg": 9.8,
       "last10_avg": 10.2,
       "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 50,
+      "last5_over_pct": 60,
+      "last10_over_pct": 60,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -4896,7 +4896,7 @@
       "player": "Jackie Young",
       "market": "pts",
       "market_label": "Points",
-      "line": 19.5,
+      "line": 18.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "9192db295ea37dc4616880169fa9e38d",
@@ -4911,12 +4911,12 @@
       "game_datetime": "2026-08-03T23:30:00Z",
       "position": "G",
       "projection": 19.2,
-      "edge": -0.3,
+      "edge": 0.7,
       "last5_avg": 19.8,
       "last10_avg": 18.0,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
-      "last10_over_pct": 40,
+      "last10_over_pct": 50,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -7418,7 +7418,7 @@
       "player": "DeWanna Bonner",
       "market": "pts",
       "market_label": "Points",
-      "line": 10.5,
+      "line": 11.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "543c1b084ecf7224cb7c70766183859d",
@@ -7433,13 +7433,13 @@
       "game_datetime": "2026-08-04T01:00:00Z",
       "position": "F",
       "projection": 14.0,
-      "edge": 3.5,
+      "edge": 2.5,
       "last5_avg": 16.0,
       "last10_avg": 12.6,
       "h2h_avg": 9.5,
       "last5_over_pct": 60,
       "last10_over_pct": 50,
-      "h2h_over_pct": 40,
+      "h2h_over_pct": 30,
       "last5": [
         {
           "date": "08/01",
@@ -10036,7 +10036,7 @@
       "player": "Sydney Taylor",
       "market": "pts",
       "market_label": "Points",
-      "line": 17.5,
+      "line": 18.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "543c1b084ecf7224cb7c70766183859d",
@@ -10051,12 +10051,12 @@
       "game_datetime": "2026-08-04T01:00:00Z",
       "position": "G",
       "projection": 19.1,
-      "edge": 1.6,
+      "edge": 0.6,
       "last5_avg": 22.2,
       "last10_avg": 18.5,
       "h2h_avg": 9.0,
-      "last5_over_pct": 80,
-      "last10_over_pct": 50,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -10218,7 +10218,7 @@
       "player": "Sydney Taylor",
       "market": "pts",
       "market_label": "Points",
-      "line": 17.5,
+      "line": 18.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "543c1b084ecf7224cb7c70766183859d",
@@ -10233,12 +10233,12 @@
       "game_datetime": "2026-08-04T01:00:00Z",
       "position": "G",
       "projection": 19.1,
-      "edge": 1.6,
+      "edge": 0.6,
       "last5_avg": 22.2,
       "last10_avg": 18.5,
       "h2h_avg": 9.0,
-      "last5_over_pct": 80,
-      "last10_over_pct": 50,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
       "h2h_over_pct": 0,
       "last5": [
         {
