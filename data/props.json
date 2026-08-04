@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T12:48-04:00",
+  "updated_at": "2026-08-04T18:06-04:00",
   "slate_date": "2026-08-04",
   "games": [
     {
@@ -172,7 +172,7 @@
       "player": "Gabby Williams",
       "market": "pts",
       "market_label": "Points",
-      "line": 13.5,
+      "line": 14.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
@@ -187,7 +187,7 @@
       "game_datetime": "2026-08-05T02:00:00Z",
       "position": "F",
       "projection": 13.4,
-      "edge": -0.1,
+      "edge": -1.1,
       "last5_avg": 13.4,
       "last10_avg": 13.4,
       "h2h_avg": 0.0,
@@ -643,7 +643,7 @@
       "player": "Janelle Salaun",
       "market": "pts",
       "market_label": "Points",
-      "line": 12.5,
+      "line": 13.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
@@ -658,12 +658,12 @@
       "game_datetime": "2026-08-05T02:00:00Z",
       "position": "F",
       "projection": 12.4,
-      "edge": -0.1,
+      "edge": -1.1,
       "last5_avg": 12.2,
       "last10_avg": 12.7,
       "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 40,
+      "last5_over_pct": 20,
+      "last10_over_pct": 30,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -800,7 +800,7 @@
       "player": "Julie Allemand",
       "market": "pts",
       "market_label": "Points",
-      "line": 6.5,
+      "line": 5.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
@@ -815,7 +815,7 @@
       "game_datetime": "2026-08-05T02:00:00Z",
       "position": "G",
       "projection": 7.5,
-      "edge": 1.0,
+      "edge": 2.0,
       "last5_avg": 7.4,
       "last10_avg": 7.7,
       "h2h_avg": 0.0,
@@ -1582,12 +1582,326 @@
       "stats_available": true
     },
     {
-      "player": "Laura Juskaite",
+      "player": "Kiki Rice",
       "market": "pts",
       "market_label": "Points",
       "line": 9.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
+      "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
+      "commence_time": "2026-08-05T02:00:00Z",
+      "home_team_name": "Golden State Valkyries",
+      "away_team_name": "Toronto Tempo",
+      "team": "TOR",
+      "opponent": "GSV",
+      "home": false,
+      "game_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
+      "game_date": "2026-08-04",
+      "game_datetime": "2026-08-05T02:00:00Z",
+      "position": "G",
+      "projection": 10.9,
+      "edge": 1.4,
+      "last5_avg": 10.0,
+      "last10_avg": 12.5,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 6.0,
+          "opponent": "MIN",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/29",
+          "full_date": "2026-07-29",
+          "value": 4.0,
+          "opponent": "MIN",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "06/03",
+          "full_date": "2026-06-03",
+          "value": 9.0,
+          "opponent": "NY",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "05/30",
+          "full_date": "2026-05-30",
+          "value": 17.0,
+          "opponent": "SEA",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "05/28",
+          "full_date": "2026-05-28",
+          "value": 14.0,
+          "opponent": "CHI",
+          "team": "TOR",
+          "home": false
+        }
+      ],
+      "last10": [
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 6.0,
+          "opponent": "MIN",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/29",
+          "full_date": "2026-07-29",
+          "value": 4.0,
+          "opponent": "MIN",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "06/03",
+          "full_date": "2026-06-03",
+          "value": 9.0,
+          "opponent": "NY",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "05/30",
+          "full_date": "2026-05-30",
+          "value": 17.0,
+          "opponent": "SEA",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "05/28",
+          "full_date": "2026-05-28",
+          "value": 14.0,
+          "opponent": "CHI",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "05/23",
+          "full_date": "2026-05-23",
+          "value": 19.0,
+          "opponent": "POR",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "05/22",
+          "full_date": "2026-05-22",
+          "value": 11.0,
+          "opponent": "MIN",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "05/20",
+          "full_date": "2026-05-20",
+          "value": 15.0,
+          "opponent": "PHX",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "05/17",
+          "full_date": "2026-05-17",
+          "value": 19.0,
+          "opponent": "LA",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "05/16",
+          "full_date": "2026-05-16",
+          "value": 11.0,
+          "opponent": "LA",
+          "team": "TOR",
+          "home": false
+        }
+      ],
+      "h2h": [],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 0,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
+      "player": "Laura Juskaite",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 8.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
+      "commence_time": "2026-08-05T02:00:00Z",
+      "home_team_name": "Golden State Valkyries",
+      "away_team_name": "Toronto Tempo",
+      "team": "TOR",
+      "opponent": "GSV",
+      "home": false,
+      "game_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
+      "game_date": "2026-08-04",
+      "game_datetime": "2026-08-05T02:00:00Z",
+      "position": "F",
+      "projection": 11.5,
+      "edge": 3.0,
+      "last5_avg": 11.6,
+      "last10_avg": 11.4,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 19.0,
+          "opponent": "MIN",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/29",
+          "full_date": "2026-07-29",
+          "value": 18.0,
+          "opponent": "MIN",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "07/21",
+          "full_date": "2026-07-21",
+          "value": 6.0,
+          "opponent": "LV",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/17",
+          "full_date": "2026-07-17",
+          "value": 8.0,
+          "opponent": "ATL",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/14",
+          "full_date": "2026-07-14",
+          "value": 7.0,
+          "opponent": "WSH",
+          "team": "TOR",
+          "home": true
+        }
+      ],
+      "last10": [
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 19.0,
+          "opponent": "MIN",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/29",
+          "full_date": "2026-07-29",
+          "value": 18.0,
+          "opponent": "MIN",
+          "team": "TOR",
+          "home": false
+        },
+        {
+          "date": "07/21",
+          "full_date": "2026-07-21",
+          "value": 6.0,
+          "opponent": "LV",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/17",
+          "full_date": "2026-07-17",
+          "value": 8.0,
+          "opponent": "ATL",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/14",
+          "full_date": "2026-07-14",
+          "value": 7.0,
+          "opponent": "WSH",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/12",
+          "full_date": "2026-07-12",
+          "value": 18.0,
+          "opponent": "NY",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/10",
+          "full_date": "2026-07-10",
+          "value": 25.0,
+          "opponent": "DAL",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 5.0,
+          "opponent": "GS",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "07/05",
+          "full_date": "2026-07-05",
+          "value": 8.0,
+          "opponent": "DAL",
+          "team": "TOR",
+          "home": true
+        },
+        {
+          "date": "06/27",
+          "full_date": "2026-06-27",
+          "value": 0.0,
+          "opponent": "PHX",
+          "team": "TOR",
+          "home": true
+        }
+      ],
+      "h2h": [],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 0,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
+      "player": "Laura Juskaite",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 9.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
       "commence_time": "2026-08-05T02:00:00Z",
       "home_team_name": "Golden State Valkyries",
@@ -1739,167 +2053,10 @@
       "stats_available": true
     },
     {
-      "player": "Laura Juskaite",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 10.5,
-      "bookmaker": "fanduel",
-      "bookmaker_label": "FanDuel",
-      "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
-      "commence_time": "2026-08-05T02:00:00Z",
-      "home_team_name": "Golden State Valkyries",
-      "away_team_name": "Toronto Tempo",
-      "team": "TOR",
-      "opponent": "GSV",
-      "home": false,
-      "game_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
-      "game_date": "2026-08-04",
-      "game_datetime": "2026-08-05T02:00:00Z",
-      "position": "F",
-      "projection": 11.5,
-      "edge": 1.0,
-      "last5_avg": 11.6,
-      "last10_avg": 11.4,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 40,
-      "h2h_over_pct": 0,
-      "last5": [
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 19.0,
-          "opponent": "MIN",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/29",
-          "full_date": "2026-07-29",
-          "value": 18.0,
-          "opponent": "MIN",
-          "team": "TOR",
-          "home": false
-        },
-        {
-          "date": "07/21",
-          "full_date": "2026-07-21",
-          "value": 6.0,
-          "opponent": "LV",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/17",
-          "full_date": "2026-07-17",
-          "value": 8.0,
-          "opponent": "ATL",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/14",
-          "full_date": "2026-07-14",
-          "value": 7.0,
-          "opponent": "WSH",
-          "team": "TOR",
-          "home": true
-        }
-      ],
-      "last10": [
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 19.0,
-          "opponent": "MIN",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/29",
-          "full_date": "2026-07-29",
-          "value": 18.0,
-          "opponent": "MIN",
-          "team": "TOR",
-          "home": false
-        },
-        {
-          "date": "07/21",
-          "full_date": "2026-07-21",
-          "value": 6.0,
-          "opponent": "LV",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/17",
-          "full_date": "2026-07-17",
-          "value": 8.0,
-          "opponent": "ATL",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/14",
-          "full_date": "2026-07-14",
-          "value": 7.0,
-          "opponent": "WSH",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/12",
-          "full_date": "2026-07-12",
-          "value": 18.0,
-          "opponent": "NY",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/10",
-          "full_date": "2026-07-10",
-          "value": 25.0,
-          "opponent": "DAL",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/08",
-          "full_date": "2026-07-08",
-          "value": 5.0,
-          "opponent": "GS",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "07/05",
-          "full_date": "2026-07-05",
-          "value": 8.0,
-          "opponent": "DAL",
-          "team": "TOR",
-          "home": true
-        },
-        {
-          "date": "06/27",
-          "full_date": "2026-06-27",
-          "value": 0.0,
-          "opponent": "PHX",
-          "team": "TOR",
-          "home": true
-        }
-      ],
-      "h2h": [],
-      "last5_games_count": 5,
-      "last10_games_count": 10,
-      "h2h_games_count": 0,
-      "h2h_limit": 10,
-      "stats_available": true
-    },
-    {
       "player": "Maria Conde",
       "market": "pts",
       "market_label": "Points",
-      "line": 10.5,
+      "line": 8.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
@@ -1914,12 +2071,12 @@
       "game_datetime": "2026-08-05T02:00:00Z",
       "position": "F",
       "projection": 10.8,
-      "edge": 0.3,
+      "edge": 2.3,
       "last5_avg": 11.0,
       "last10_avg": 10.4,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
-      "last10_over_pct": 50,
+      "last10_over_pct": 70,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -2056,7 +2213,7 @@
       "player": "Maria Conde",
       "market": "pts",
       "market_label": "Points",
-      "line": 10.5,
+      "line": 8.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
@@ -2071,12 +2228,12 @@
       "game_datetime": "2026-08-05T02:00:00Z",
       "position": "F",
       "projection": 10.8,
-      "edge": 0.3,
+      "edge": 2.3,
       "last5_avg": 11.0,
       "last10_avg": 10.4,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
-      "last10_over_pct": 50,
+      "last10_over_pct": 70,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -2213,7 +2370,7 @@
       "player": "Marina Mabrey",
       "market": "pts",
       "market_label": "Points",
-      "line": 17.5,
+      "line": 16.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
@@ -2228,7 +2385,7 @@
       "game_datetime": "2026-08-05T02:00:00Z",
       "position": "G",
       "projection": 20.7,
-      "edge": 3.2,
+      "edge": 4.2,
       "last5_avg": 20.8,
       "last10_avg": 20.6,
       "h2h_avg": 0.0,
@@ -2370,7 +2527,7 @@
       "player": "Marina Mabrey",
       "market": "pts",
       "market_label": "Points",
-      "line": 17.5,
+      "line": 16.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
@@ -2385,7 +2542,7 @@
       "game_datetime": "2026-08-05T02:00:00Z",
       "position": "G",
       "projection": 20.7,
-      "edge": 3.2,
+      "edge": 4.2,
       "last5_avg": 20.8,
       "last10_avg": 20.6,
       "h2h_avg": 0.0,
@@ -2684,7 +2841,7 @@
       "player": "Nyara Sabally",
       "market": "pts",
       "market_label": "Points",
-      "line": 11.5,
+      "line": 10.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
@@ -2699,7 +2856,7 @@
       "game_datetime": "2026-08-05T02:00:00Z",
       "position": "F",
       "projection": 10.9,
-      "edge": -0.6,
+      "edge": 0.4,
       "last5_avg": 10.8,
       "last10_avg": 11.1,
       "h2h_avg": 0.0,
@@ -2841,7 +2998,7 @@
       "player": "Veronica Burton",
       "market": "pts",
       "market_label": "Points",
-      "line": 12.5,
+      "line": 11.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "c1e9df8b911a50375b98c0b0dcfa0f7e",
@@ -2856,12 +3013,12 @@
       "game_datetime": "2026-08-05T02:00:00Z",
       "position": "G",
       "projection": 11.6,
-      "edge": -0.9,
+      "edge": 0.1,
       "last5_avg": 11.8,
       "last10_avg": 11.1,
       "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 30,
+      "last5_over_pct": 60,
+      "last10_over_pct": 40,
       "h2h_over_pct": 0,
       "last5": [
         {
