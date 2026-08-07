@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T11:45-04:00",
+  "updated_at": "2026-08-07T17:30-04:00",
   "slate_date": "2026-08-07",
   "games": [
     {
@@ -1053,7 +1053,7 @@
       "player": "Brionna Jones",
       "market": "pts",
       "market_label": "Points",
-      "line": 10.5,
+      "line": 9.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "0cc93c06f67e3eeac12f320fbf0a5d2f",
@@ -1068,7 +1068,7 @@
       "game_datetime": "2026-08-07T23:30:00Z",
       "position": "F",
       "projection": 9.9,
-      "edge": -0.6,
+      "edge": 0.4,
       "last5_avg": 9.8,
       "last10_avg": 10.2,
       "h2h_avg": 0.0,
@@ -1364,962 +1364,10 @@
       "stats_available": true
     },
     {
-      "player": "DeWanna Bonner",
+      "player": "Cotie McMahon",
       "market": "pts",
       "market_label": "Points",
-      "line": 10.5,
-      "bookmaker": "draftkings",
-      "bookmaker_label": "DraftKings",
-      "event_id": "19f38817b4595a67366159a1ef5433be",
-      "commence_time": "2026-08-07T23:30:00Z",
-      "home_team_name": "Connecticut Sun",
-      "away_team_name": "Phoenix Mercury",
-      "team": "PHX",
-      "opponent": "CON",
-      "home": false,
-      "game_id": "19f38817b4595a67366159a1ef5433be",
-      "game_date": "2026-08-07",
-      "game_datetime": "2026-08-07T23:30:00Z",
-      "position": "F",
-      "projection": 15.1,
-      "edge": 4.6,
-      "last5_avg": 16.0,
-      "last10_avg": 12.6,
-      "h2h_avg": 16.5,
-      "last5_over_pct": 60,
-      "last10_over_pct": 50,
-      "h2h_over_pct": 80,
-      "last5": [
-        {
-          "date": "08/01",
-          "full_date": "2026-08-01",
-          "value": 25.0,
-          "opponent": "NY",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/30",
-          "full_date": "2026-07-30",
-          "value": 17.0,
-          "opponent": "GS",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 9.0,
-          "opponent": "LA",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 21.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 8.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        }
-      ],
-      "last10": [
-        {
-          "date": "08/01",
-          "full_date": "2026-08-01",
-          "value": 25.0,
-          "opponent": "NY",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/30",
-          "full_date": "2026-07-30",
-          "value": 17.0,
-          "opponent": "GS",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 9.0,
-          "opponent": "LA",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 21.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 8.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/14",
-          "full_date": "2026-07-14",
-          "value": 17.0,
-          "opponent": "MIN",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/11",
-          "full_date": "2026-07-11",
-          "value": 2.0,
-          "opponent": "LV",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/10",
-          "full_date": "2026-07-10",
-          "value": 9.0,
-          "opponent": "IND",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/08",
-          "full_date": "2026-07-08",
-          "value": 12.0,
-          "opponent": "CHI",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/03",
-          "full_date": "2026-07-03",
-          "value": 6.0,
-          "opponent": "SEA",
-          "team": "PHX",
-          "home": true
-        }
-      ],
-      "h2h": [
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 21.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 8.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "09/06",
-          "full_date": "2025-09-06",
-          "value": 9.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "08/06",
-          "full_date": "2025-08-06",
-          "value": 18.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "05/30",
-          "full_date": "2025-05-30",
-          "value": 13.0,
-          "opponent": "CON",
-          "team": "IND",
-          "home": true
-        },
-        {
-          "date": "08/15",
-          "full_date": "2019-08-15",
-          "value": 17.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "08/01",
-          "full_date": "2019-08-01",
-          "value": 20.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/13",
-          "full_date": "2019-07-13",
-          "value": 20.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "08/24",
-          "full_date": "2018-08-24",
-          "value": 23.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/13",
-          "full_date": "2018-07-13",
-          "value": 16.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        }
-      ],
-      "last5_games_count": 5,
-      "last10_games_count": 10,
-      "h2h_games_count": 10,
-      "h2h_limit": 10,
-      "stats_available": true
-    },
-    {
-      "player": "DeWanna Bonner",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 10.5,
-      "bookmaker": "fanduel",
-      "bookmaker_label": "FanDuel",
-      "event_id": "19f38817b4595a67366159a1ef5433be",
-      "commence_time": "2026-08-07T23:30:00Z",
-      "home_team_name": "Connecticut Sun",
-      "away_team_name": "Phoenix Mercury",
-      "team": "PHX",
-      "opponent": "CON",
-      "home": false,
-      "game_id": "19f38817b4595a67366159a1ef5433be",
-      "game_date": "2026-08-07",
-      "game_datetime": "2026-08-07T23:30:00Z",
-      "position": "F",
-      "projection": 15.1,
-      "edge": 4.6,
-      "last5_avg": 16.0,
-      "last10_avg": 12.6,
-      "h2h_avg": 16.5,
-      "last5_over_pct": 60,
-      "last10_over_pct": 50,
-      "h2h_over_pct": 80,
-      "last5": [
-        {
-          "date": "08/01",
-          "full_date": "2026-08-01",
-          "value": 25.0,
-          "opponent": "NY",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/30",
-          "full_date": "2026-07-30",
-          "value": 17.0,
-          "opponent": "GS",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 9.0,
-          "opponent": "LA",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 21.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 8.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        }
-      ],
-      "last10": [
-        {
-          "date": "08/01",
-          "full_date": "2026-08-01",
-          "value": 25.0,
-          "opponent": "NY",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/30",
-          "full_date": "2026-07-30",
-          "value": 17.0,
-          "opponent": "GS",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 9.0,
-          "opponent": "LA",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 21.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 8.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/14",
-          "full_date": "2026-07-14",
-          "value": 17.0,
-          "opponent": "MIN",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/11",
-          "full_date": "2026-07-11",
-          "value": 2.0,
-          "opponent": "LV",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/10",
-          "full_date": "2026-07-10",
-          "value": 9.0,
-          "opponent": "IND",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/08",
-          "full_date": "2026-07-08",
-          "value": 12.0,
-          "opponent": "CHI",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/03",
-          "full_date": "2026-07-03",
-          "value": 6.0,
-          "opponent": "SEA",
-          "team": "PHX",
-          "home": true
-        }
-      ],
-      "h2h": [
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 21.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 8.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "09/06",
-          "full_date": "2025-09-06",
-          "value": 9.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "08/06",
-          "full_date": "2025-08-06",
-          "value": 18.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "05/30",
-          "full_date": "2025-05-30",
-          "value": 13.0,
-          "opponent": "CON",
-          "team": "IND",
-          "home": true
-        },
-        {
-          "date": "08/15",
-          "full_date": "2019-08-15",
-          "value": 17.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": true
-        },
-        {
-          "date": "08/01",
-          "full_date": "2019-08-01",
-          "value": 20.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/13",
-          "full_date": "2019-07-13",
-          "value": 20.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "08/24",
-          "full_date": "2018-08-24",
-          "value": 23.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        },
-        {
-          "date": "07/13",
-          "full_date": "2018-07-13",
-          "value": 16.0,
-          "opponent": "CON",
-          "team": "PHX",
-          "home": false
-        }
-      ],
-      "last5_games_count": 5,
-      "last10_games_count": 10,
-      "h2h_games_count": 10,
-      "h2h_limit": 10,
-      "stats_available": true
-    },
-    {
-      "player": "Diamond Miller",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 11.5,
-      "bookmaker": "draftkings",
-      "bookmaker_label": "DraftKings",
-      "event_id": "19f38817b4595a67366159a1ef5433be",
-      "commence_time": "2026-08-07T23:30:00Z",
-      "home_team_name": "Connecticut Sun",
-      "away_team_name": "Phoenix Mercury",
-      "team": "CON",
-      "opponent": "PHX",
-      "home": true,
-      "game_id": "19f38817b4595a67366159a1ef5433be",
-      "game_date": "2026-08-07",
-      "game_datetime": "2026-08-07T23:30:00Z",
-      "position": "F",
-      "projection": 11.6,
-      "edge": 0.1,
-      "last5_avg": 13.8,
-      "last10_avg": 12.0,
-      "h2h_avg": 2.8,
-      "last5_over_pct": 80,
-      "last10_over_pct": 60,
-      "h2h_over_pct": 0,
-      "last5": [
-        {
-          "date": "08/02",
-          "full_date": "2026-08-02",
-          "value": 22.0,
-          "opponent": "DAL",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 14.0,
-          "opponent": "CHI",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/28",
-          "full_date": "2026-07-28",
-          "value": 12.0,
-          "opponent": "WSH",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/23",
-          "full_date": "2026-07-23",
-          "value": 15.0,
-          "opponent": "IND",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 6.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        }
-      ],
-      "last10": [
-        {
-          "date": "08/02",
-          "full_date": "2026-08-02",
-          "value": 22.0,
-          "opponent": "DAL",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 14.0,
-          "opponent": "CHI",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/28",
-          "full_date": "2026-07-28",
-          "value": 12.0,
-          "opponent": "WSH",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/23",
-          "full_date": "2026-07-23",
-          "value": 15.0,
-          "opponent": "IND",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 6.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 11.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/14",
-          "full_date": "2026-07-14",
-          "value": 8.0,
-          "opponent": "POR",
-          "team": "CON",
-          "home": true
-        },
-        {
-          "date": "07/10",
-          "full_date": "2026-07-10",
-          "value": 14.0,
-          "opponent": "GS",
-          "team": "CON",
-          "home": true
-        },
-        {
-          "date": "07/08",
-          "full_date": "2026-07-08",
-          "value": 13.0,
-          "opponent": "MIN",
-          "team": "CON",
-          "home": true
-        },
-        {
-          "date": "07/07",
-          "full_date": "2026-07-07",
-          "value": 5.0,
-          "opponent": "MIN",
-          "team": "CON",
-          "home": false
-        }
-      ],
-      "h2h": [
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 6.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 11.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "09/12",
-          "full_date": "2025-09-12",
-          "value": 4.0,
-          "opponent": "PHX",
-          "team": "DAL",
-          "home": true
-        },
-        {
-          "date": "07/16",
-          "full_date": "2025-07-16",
-          "value": 2.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": true
-        },
-        {
-          "date": "07/09",
-          "full_date": "2025-07-09",
-          "value": 0.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": false
-        },
-        {
-          "date": "06/04",
-          "full_date": "2025-06-04",
-          "value": 2.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": true
-        },
-        {
-          "date": "05/31",
-          "full_date": "2025-05-31",
-          "value": 0.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": false
-        },
-        {
-          "date": "09/26",
-          "full_date": "2024-09-26",
-          "value": 0.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": true
-        },
-        {
-          "date": "09/22",
-          "full_date": "2024-09-22",
-          "value": 0.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": true
-        },
-        {
-          "date": "08/29",
-          "full_date": "2024-08-29",
-          "value": 3.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": false
-        }
-      ],
-      "last5_games_count": 5,
-      "last10_games_count": 10,
-      "h2h_games_count": 10,
-      "h2h_limit": 10,
-      "stats_available": true
-    },
-    {
-      "player": "Diamond Miller",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 11.5,
-      "bookmaker": "fanduel",
-      "bookmaker_label": "FanDuel",
-      "event_id": "19f38817b4595a67366159a1ef5433be",
-      "commence_time": "2026-08-07T23:30:00Z",
-      "home_team_name": "Connecticut Sun",
-      "away_team_name": "Phoenix Mercury",
-      "team": "CON",
-      "opponent": "PHX",
-      "home": true,
-      "game_id": "19f38817b4595a67366159a1ef5433be",
-      "game_date": "2026-08-07",
-      "game_datetime": "2026-08-07T23:30:00Z",
-      "position": "F",
-      "projection": 11.6,
-      "edge": 0.1,
-      "last5_avg": 13.8,
-      "last10_avg": 12.0,
-      "h2h_avg": 2.8,
-      "last5_over_pct": 80,
-      "last10_over_pct": 60,
-      "h2h_over_pct": 0,
-      "last5": [
-        {
-          "date": "08/02",
-          "full_date": "2026-08-02",
-          "value": 22.0,
-          "opponent": "DAL",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 14.0,
-          "opponent": "CHI",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/28",
-          "full_date": "2026-07-28",
-          "value": 12.0,
-          "opponent": "WSH",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/23",
-          "full_date": "2026-07-23",
-          "value": 15.0,
-          "opponent": "IND",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 6.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        }
-      ],
-      "last10": [
-        {
-          "date": "08/02",
-          "full_date": "2026-08-02",
-          "value": 22.0,
-          "opponent": "DAL",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 14.0,
-          "opponent": "CHI",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/28",
-          "full_date": "2026-07-28",
-          "value": 12.0,
-          "opponent": "WSH",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/23",
-          "full_date": "2026-07-23",
-          "value": 15.0,
-          "opponent": "IND",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 6.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 11.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/14",
-          "full_date": "2026-07-14",
-          "value": 8.0,
-          "opponent": "POR",
-          "team": "CON",
-          "home": true
-        },
-        {
-          "date": "07/10",
-          "full_date": "2026-07-10",
-          "value": 14.0,
-          "opponent": "GS",
-          "team": "CON",
-          "home": true
-        },
-        {
-          "date": "07/08",
-          "full_date": "2026-07-08",
-          "value": 13.0,
-          "opponent": "MIN",
-          "team": "CON",
-          "home": true
-        },
-        {
-          "date": "07/07",
-          "full_date": "2026-07-07",
-          "value": 5.0,
-          "opponent": "MIN",
-          "team": "CON",
-          "home": false
-        }
-      ],
-      "h2h": [
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 6.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "07/18",
-          "full_date": "2026-07-18",
-          "value": 11.0,
-          "opponent": "PHX",
-          "team": "CON",
-          "home": false
-        },
-        {
-          "date": "09/12",
-          "full_date": "2025-09-12",
-          "value": 4.0,
-          "opponent": "PHX",
-          "team": "DAL",
-          "home": true
-        },
-        {
-          "date": "07/16",
-          "full_date": "2025-07-16",
-          "value": 2.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": true
-        },
-        {
-          "date": "07/09",
-          "full_date": "2025-07-09",
-          "value": 0.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": false
-        },
-        {
-          "date": "06/04",
-          "full_date": "2025-06-04",
-          "value": 2.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": true
-        },
-        {
-          "date": "05/31",
-          "full_date": "2025-05-31",
-          "value": 0.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": false
-        },
-        {
-          "date": "09/26",
-          "full_date": "2024-09-26",
-          "value": 0.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": true
-        },
-        {
-          "date": "09/22",
-          "full_date": "2024-09-22",
-          "value": 0.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": true
-        },
-        {
-          "date": "08/29",
-          "full_date": "2024-08-29",
-          "value": 3.0,
-          "opponent": "PHX",
-          "team": "MIN",
-          "home": false
-        }
-      ],
-      "last5_games_count": 5,
-      "last10_games_count": 10,
-      "h2h_games_count": 10,
-      "h2h_limit": 10,
-      "stats_available": true
-    },
-    {
-      "player": "Georgia Amoore",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 6.5,
+      "line": 7.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "0cc93c06f67e3eeac12f320fbf0a5d2f",
@@ -2333,13 +1381,13 @@
       "game_date": "2026-08-07",
       "game_datetime": "2026-08-07T23:30:00Z",
       "position": "G",
-      "projection": 7.1,
-      "edge": 0.6,
-      "last5_avg": 7.4,
-      "last10_avg": 6.5,
+      "projection": 5.6,
+      "edge": -1.9,
+      "last5_avg": 5.8,
+      "last10_avg": 5.1,
       "h2h_avg": 0.0,
-      "last5_over_pct": 80,
-      "last10_over_pct": 60,
+      "last5_over_pct": 20,
+      "last10_over_pct": 20,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -2353,7 +1401,7 @@
         {
           "date": "07/28",
           "full_date": "2026-07-28",
-          "value": 8.0,
+          "value": 11.0,
           "opponent": "CON",
           "team": "WSH",
           "home": true
@@ -2361,7 +1409,7 @@
         {
           "date": "07/22",
           "full_date": "2026-07-22",
-          "value": 10.0,
+          "value": 7.0,
           "opponent": "LV",
           "team": "WSH",
           "home": true
@@ -2369,7 +1417,7 @@
         {
           "date": "07/21",
           "full_date": "2026-07-21",
-          "value": 9.0,
+          "value": 3.0,
           "opponent": "GS",
           "team": "WSH",
           "home": false
@@ -2377,7 +1425,7 @@
         {
           "date": "07/19",
           "full_date": "2026-07-19",
-          "value": 8.0,
+          "value": 6.0,
           "opponent": "GS",
           "team": "WSH",
           "home": false
@@ -2395,7 +1443,7 @@
         {
           "date": "07/28",
           "full_date": "2026-07-28",
-          "value": 8.0,
+          "value": 11.0,
           "opponent": "CON",
           "team": "WSH",
           "home": true
@@ -2403,7 +1451,7 @@
         {
           "date": "07/22",
           "full_date": "2026-07-22",
-          "value": 10.0,
+          "value": 7.0,
           "opponent": "LV",
           "team": "WSH",
           "home": true
@@ -2411,7 +1459,7 @@
         {
           "date": "07/21",
           "full_date": "2026-07-21",
-          "value": 9.0,
+          "value": 3.0,
           "opponent": "GS",
           "team": "WSH",
           "home": false
@@ -2419,7 +1467,7 @@
         {
           "date": "07/19",
           "full_date": "2026-07-19",
-          "value": 8.0,
+          "value": 6.0,
           "opponent": "GS",
           "team": "WSH",
           "home": false
@@ -2427,7 +1475,7 @@
         {
           "date": "07/16",
           "full_date": "2026-07-16",
-          "value": 3.0,
+          "value": 1.0,
           "opponent": "POR",
           "team": "WSH",
           "home": true
@@ -2435,7 +1483,7 @@
         {
           "date": "07/14",
           "full_date": "2026-07-14",
-          "value": 7.0,
+          "value": 2.0,
           "opponent": "TOR",
           "team": "WSH",
           "home": false
@@ -2451,7 +1499,7 @@
         {
           "date": "07/06",
           "full_date": "2026-07-06",
-          "value": 3.0,
+          "value": 8.0,
           "opponent": "GS",
           "team": "WSH",
           "home": true
@@ -2459,7 +1507,7 @@
         {
           "date": "07/02",
           "full_date": "2026-07-02",
-          "value": 11.0,
+          "value": 7.0,
           "opponent": "ATL",
           "team": "WSH",
           "home": true
@@ -2473,12 +1521,964 @@
       "stats_available": true
     },
     {
+      "player": "DeWanna Bonner",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 10.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "19f38817b4595a67366159a1ef5433be",
+      "commence_time": "2026-08-07T23:30:00Z",
+      "home_team_name": "Connecticut Sun",
+      "away_team_name": "Phoenix Mercury",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": false,
+      "game_id": "19f38817b4595a67366159a1ef5433be",
+      "game_date": "2026-08-07",
+      "game_datetime": "2026-08-07T23:30:00Z",
+      "position": "F",
+      "projection": 15.1,
+      "edge": 4.6,
+      "last5_avg": 16.0,
+      "last10_avg": 12.6,
+      "h2h_avg": 16.5,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 80,
+      "last5": [
+        {
+          "date": "08/01",
+          "full_date": "2026-08-01",
+          "value": 25.0,
+          "opponent": "NY",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/30",
+          "full_date": "2026-07-30",
+          "value": 17.0,
+          "opponent": "GS",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/22",
+          "full_date": "2026-07-22",
+          "value": 9.0,
+          "opponent": "LA",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 21.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 8.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        }
+      ],
+      "last10": [
+        {
+          "date": "08/01",
+          "full_date": "2026-08-01",
+          "value": 25.0,
+          "opponent": "NY",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/30",
+          "full_date": "2026-07-30",
+          "value": 17.0,
+          "opponent": "GS",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/22",
+          "full_date": "2026-07-22",
+          "value": 9.0,
+          "opponent": "LA",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 21.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 8.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/14",
+          "full_date": "2026-07-14",
+          "value": 17.0,
+          "opponent": "MIN",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 2.0,
+          "opponent": "LV",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/10",
+          "full_date": "2026-07-10",
+          "value": 9.0,
+          "opponent": "IND",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 12.0,
+          "opponent": "CHI",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 6.0,
+          "opponent": "SEA",
+          "team": "PHX",
+          "home": true
+        }
+      ],
+      "h2h": [
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 21.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 8.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "09/06",
+          "full_date": "2025-09-06",
+          "value": 9.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "08/06",
+          "full_date": "2025-08-06",
+          "value": 18.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "05/30",
+          "full_date": "2025-05-30",
+          "value": 13.0,
+          "opponent": "CON",
+          "team": "IND",
+          "home": true
+        },
+        {
+          "date": "08/15",
+          "full_date": "2019-08-15",
+          "value": 17.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "08/01",
+          "full_date": "2019-08-01",
+          "value": 20.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/13",
+          "full_date": "2019-07-13",
+          "value": 20.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "08/24",
+          "full_date": "2018-08-24",
+          "value": 23.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/13",
+          "full_date": "2018-07-13",
+          "value": 16.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        }
+      ],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 10,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
+      "player": "DeWanna Bonner",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 10.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "19f38817b4595a67366159a1ef5433be",
+      "commence_time": "2026-08-07T23:30:00Z",
+      "home_team_name": "Connecticut Sun",
+      "away_team_name": "Phoenix Mercury",
+      "team": "PHX",
+      "opponent": "CON",
+      "home": false,
+      "game_id": "19f38817b4595a67366159a1ef5433be",
+      "game_date": "2026-08-07",
+      "game_datetime": "2026-08-07T23:30:00Z",
+      "position": "F",
+      "projection": 15.1,
+      "edge": 4.6,
+      "last5_avg": 16.0,
+      "last10_avg": 12.6,
+      "h2h_avg": 16.5,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 80,
+      "last5": [
+        {
+          "date": "08/01",
+          "full_date": "2026-08-01",
+          "value": 25.0,
+          "opponent": "NY",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/30",
+          "full_date": "2026-07-30",
+          "value": 17.0,
+          "opponent": "GS",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/22",
+          "full_date": "2026-07-22",
+          "value": 9.0,
+          "opponent": "LA",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 21.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 8.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        }
+      ],
+      "last10": [
+        {
+          "date": "08/01",
+          "full_date": "2026-08-01",
+          "value": 25.0,
+          "opponent": "NY",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/30",
+          "full_date": "2026-07-30",
+          "value": 17.0,
+          "opponent": "GS",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/22",
+          "full_date": "2026-07-22",
+          "value": 9.0,
+          "opponent": "LA",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 21.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 8.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/14",
+          "full_date": "2026-07-14",
+          "value": 17.0,
+          "opponent": "MIN",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 2.0,
+          "opponent": "LV",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/10",
+          "full_date": "2026-07-10",
+          "value": 9.0,
+          "opponent": "IND",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 12.0,
+          "opponent": "CHI",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/03",
+          "full_date": "2026-07-03",
+          "value": 6.0,
+          "opponent": "SEA",
+          "team": "PHX",
+          "home": true
+        }
+      ],
+      "h2h": [
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 21.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 8.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "09/06",
+          "full_date": "2025-09-06",
+          "value": 9.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "08/06",
+          "full_date": "2025-08-06",
+          "value": 18.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "05/30",
+          "full_date": "2025-05-30",
+          "value": 13.0,
+          "opponent": "CON",
+          "team": "IND",
+          "home": true
+        },
+        {
+          "date": "08/15",
+          "full_date": "2019-08-15",
+          "value": 17.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": true
+        },
+        {
+          "date": "08/01",
+          "full_date": "2019-08-01",
+          "value": 20.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/13",
+          "full_date": "2019-07-13",
+          "value": 20.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "08/24",
+          "full_date": "2018-08-24",
+          "value": 23.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        },
+        {
+          "date": "07/13",
+          "full_date": "2018-07-13",
+          "value": 16.0,
+          "opponent": "CON",
+          "team": "PHX",
+          "home": false
+        }
+      ],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 10,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
+      "player": "Diamond Miller",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "19f38817b4595a67366159a1ef5433be",
+      "commence_time": "2026-08-07T23:30:00Z",
+      "home_team_name": "Connecticut Sun",
+      "away_team_name": "Phoenix Mercury",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": true,
+      "game_id": "19f38817b4595a67366159a1ef5433be",
+      "game_date": "2026-08-07",
+      "game_datetime": "2026-08-07T23:30:00Z",
+      "position": "F",
+      "projection": 11.6,
+      "edge": 0.1,
+      "last5_avg": 13.8,
+      "last10_avg": 12.0,
+      "h2h_avg": 2.8,
+      "last5_over_pct": 80,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "08/02",
+          "full_date": "2026-08-02",
+          "value": 22.0,
+          "opponent": "DAL",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 14.0,
+          "opponent": "CHI",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/28",
+          "full_date": "2026-07-28",
+          "value": 12.0,
+          "opponent": "WSH",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/23",
+          "full_date": "2026-07-23",
+          "value": 15.0,
+          "opponent": "IND",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 6.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        }
+      ],
+      "last10": [
+        {
+          "date": "08/02",
+          "full_date": "2026-08-02",
+          "value": 22.0,
+          "opponent": "DAL",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 14.0,
+          "opponent": "CHI",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/28",
+          "full_date": "2026-07-28",
+          "value": 12.0,
+          "opponent": "WSH",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/23",
+          "full_date": "2026-07-23",
+          "value": 15.0,
+          "opponent": "IND",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 6.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 11.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/14",
+          "full_date": "2026-07-14",
+          "value": 8.0,
+          "opponent": "POR",
+          "team": "CON",
+          "home": true
+        },
+        {
+          "date": "07/10",
+          "full_date": "2026-07-10",
+          "value": 14.0,
+          "opponent": "GS",
+          "team": "CON",
+          "home": true
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 13.0,
+          "opponent": "MIN",
+          "team": "CON",
+          "home": true
+        },
+        {
+          "date": "07/07",
+          "full_date": "2026-07-07",
+          "value": 5.0,
+          "opponent": "MIN",
+          "team": "CON",
+          "home": false
+        }
+      ],
+      "h2h": [
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 6.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 11.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "09/12",
+          "full_date": "2025-09-12",
+          "value": 4.0,
+          "opponent": "PHX",
+          "team": "DAL",
+          "home": true
+        },
+        {
+          "date": "07/16",
+          "full_date": "2025-07-16",
+          "value": 2.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": true
+        },
+        {
+          "date": "07/09",
+          "full_date": "2025-07-09",
+          "value": 0.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": false
+        },
+        {
+          "date": "06/04",
+          "full_date": "2025-06-04",
+          "value": 2.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": true
+        },
+        {
+          "date": "05/31",
+          "full_date": "2025-05-31",
+          "value": 0.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": false
+        },
+        {
+          "date": "09/26",
+          "full_date": "2024-09-26",
+          "value": 0.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": true
+        },
+        {
+          "date": "09/22",
+          "full_date": "2024-09-22",
+          "value": 0.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": true
+        },
+        {
+          "date": "08/29",
+          "full_date": "2024-08-29",
+          "value": 3.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": false
+        }
+      ],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 10,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
+      "player": "Diamond Miller",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 11.5,
+      "bookmaker": "fanduel",
+      "bookmaker_label": "FanDuel",
+      "event_id": "19f38817b4595a67366159a1ef5433be",
+      "commence_time": "2026-08-07T23:30:00Z",
+      "home_team_name": "Connecticut Sun",
+      "away_team_name": "Phoenix Mercury",
+      "team": "CON",
+      "opponent": "PHX",
+      "home": true,
+      "game_id": "19f38817b4595a67366159a1ef5433be",
+      "game_date": "2026-08-07",
+      "game_datetime": "2026-08-07T23:30:00Z",
+      "position": "F",
+      "projection": 11.6,
+      "edge": 0.1,
+      "last5_avg": 13.8,
+      "last10_avg": 12.0,
+      "h2h_avg": 2.8,
+      "last5_over_pct": 80,
+      "last10_over_pct": 60,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "08/02",
+          "full_date": "2026-08-02",
+          "value": 22.0,
+          "opponent": "DAL",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 14.0,
+          "opponent": "CHI",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/28",
+          "full_date": "2026-07-28",
+          "value": 12.0,
+          "opponent": "WSH",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/23",
+          "full_date": "2026-07-23",
+          "value": 15.0,
+          "opponent": "IND",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 6.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        }
+      ],
+      "last10": [
+        {
+          "date": "08/02",
+          "full_date": "2026-08-02",
+          "value": 22.0,
+          "opponent": "DAL",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 14.0,
+          "opponent": "CHI",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/28",
+          "full_date": "2026-07-28",
+          "value": 12.0,
+          "opponent": "WSH",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/23",
+          "full_date": "2026-07-23",
+          "value": 15.0,
+          "opponent": "IND",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 6.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 11.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/14",
+          "full_date": "2026-07-14",
+          "value": 8.0,
+          "opponent": "POR",
+          "team": "CON",
+          "home": true
+        },
+        {
+          "date": "07/10",
+          "full_date": "2026-07-10",
+          "value": 14.0,
+          "opponent": "GS",
+          "team": "CON",
+          "home": true
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 13.0,
+          "opponent": "MIN",
+          "team": "CON",
+          "home": true
+        },
+        {
+          "date": "07/07",
+          "full_date": "2026-07-07",
+          "value": 5.0,
+          "opponent": "MIN",
+          "team": "CON",
+          "home": false
+        }
+      ],
+      "h2h": [
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 6.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "07/18",
+          "full_date": "2026-07-18",
+          "value": 11.0,
+          "opponent": "PHX",
+          "team": "CON",
+          "home": false
+        },
+        {
+          "date": "09/12",
+          "full_date": "2025-09-12",
+          "value": 4.0,
+          "opponent": "PHX",
+          "team": "DAL",
+          "home": true
+        },
+        {
+          "date": "07/16",
+          "full_date": "2025-07-16",
+          "value": 2.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": true
+        },
+        {
+          "date": "07/09",
+          "full_date": "2025-07-09",
+          "value": 0.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": false
+        },
+        {
+          "date": "06/04",
+          "full_date": "2025-06-04",
+          "value": 2.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": true
+        },
+        {
+          "date": "05/31",
+          "full_date": "2025-05-31",
+          "value": 0.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": false
+        },
+        {
+          "date": "09/26",
+          "full_date": "2024-09-26",
+          "value": 0.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": true
+        },
+        {
+          "date": "09/22",
+          "full_date": "2024-09-22",
+          "value": 0.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": true
+        },
+        {
+          "date": "08/29",
+          "full_date": "2024-08-29",
+          "value": 3.0,
+          "opponent": "PHX",
+          "team": "MIN",
+          "home": false
+        }
+      ],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 10,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
       "player": "Georgia Amoore",
       "market": "pts",
       "market_label": "Points",
       "line": 6.5,
-      "bookmaker": "fanduel",
-      "bookmaker_label": "FanDuel",
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
       "event_id": "0cc93c06f67e3eeac12f320fbf0a5d2f",
       "commence_time": "2026-08-07T23:30:00Z",
       "home_team_name": "Washington Mystics",
@@ -2947,7 +2947,7 @@
       "player": "Kahleah Copper",
       "market": "pts",
       "market_label": "Points",
-      "line": 21.5,
+      "line": 20.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "19f38817b4595a67366159a1ef5433be",
@@ -2962,13 +2962,13 @@
       "game_datetime": "2026-08-07T23:30:00Z",
       "position": "G",
       "projection": 18.9,
-      "edge": -2.6,
+      "edge": -1.6,
       "last5_avg": 19.0,
       "last10_avg": 19.8,
       "h2h_avg": 16.7,
-      "last5_over_pct": 40,
-      "last10_over_pct": 50,
-      "h2h_over_pct": 10,
+      "last5_over_pct": 60,
+      "last10_over_pct": 70,
+      "h2h_over_pct": 30,
       "last5": [
         {
           "date": "08/01",
@@ -3580,7 +3580,7 @@
       "player": "Kelsey Plum",
       "market": "pts",
       "market_label": "Points",
-      "line": 18.5,
+      "line": 17.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "19f38817b4595a67366159a1ef5433be",
@@ -3595,7 +3595,7 @@
       "game_datetime": "2026-08-07T23:30:00Z",
       "position": "G",
       "projection": 21.1,
-      "edge": 2.6,
+      "edge": 3.6,
       "last5_avg": 19.8,
       "last10_avg": 23.5,
       "h2h_avg": 0.0,
@@ -4054,163 +4054,6 @@
       "line": 6.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
-      "event_id": "0cc93c06f67e3eeac12f320fbf0a5d2f",
-      "commence_time": "2026-08-07T23:30:00Z",
-      "home_team_name": "Washington Mystics",
-      "away_team_name": "Atlanta Dream",
-      "team": "WSH",
-      "opponent": "",
-      "home": null,
-      "game_id": "0cc93c06f67e3eeac12f320fbf0a5d2f",
-      "game_date": "2026-08-07",
-      "game_datetime": "2026-08-07T23:30:00Z",
-      "position": "C",
-      "projection": 6.8,
-      "edge": 0.3,
-      "last5_avg": 6.8,
-      "last10_avg": 6.8,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 40,
-      "h2h_over_pct": 0,
-      "last5": [
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 3.0,
-          "opponent": "DAL",
-          "team": "WSH",
-          "home": true
-        },
-        {
-          "date": "07/28",
-          "full_date": "2026-07-28",
-          "value": 8.0,
-          "opponent": "CON",
-          "team": "WSH",
-          "home": true
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 13.0,
-          "opponent": "LV",
-          "team": "WSH",
-          "home": true
-        },
-        {
-          "date": "07/21",
-          "full_date": "2026-07-21",
-          "value": 4.0,
-          "opponent": "GS",
-          "team": "WSH",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 6.0,
-          "opponent": "GS",
-          "team": "WSH",
-          "home": false
-        }
-      ],
-      "last10": [
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 3.0,
-          "opponent": "DAL",
-          "team": "WSH",
-          "home": true
-        },
-        {
-          "date": "07/28",
-          "full_date": "2026-07-28",
-          "value": 8.0,
-          "opponent": "CON",
-          "team": "WSH",
-          "home": true
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 13.0,
-          "opponent": "LV",
-          "team": "WSH",
-          "home": true
-        },
-        {
-          "date": "07/21",
-          "full_date": "2026-07-21",
-          "value": 4.0,
-          "opponent": "GS",
-          "team": "WSH",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 6.0,
-          "opponent": "GS",
-          "team": "WSH",
-          "home": false
-        },
-        {
-          "date": "07/16",
-          "full_date": "2026-07-16",
-          "value": 6.0,
-          "opponent": "POR",
-          "team": "WSH",
-          "home": true
-        },
-        {
-          "date": "07/14",
-          "full_date": "2026-07-14",
-          "value": 6.0,
-          "opponent": "TOR",
-          "team": "WSH",
-          "home": false
-        },
-        {
-          "date": "07/12",
-          "full_date": "2026-07-12",
-          "value": 11.0,
-          "opponent": "SEA",
-          "team": "WSH",
-          "home": true
-        },
-        {
-          "date": "07/06",
-          "full_date": "2026-07-06",
-          "value": 7.0,
-          "opponent": "GS",
-          "team": "WSH",
-          "home": true
-        },
-        {
-          "date": "07/02",
-          "full_date": "2026-07-02",
-          "value": 4.0,
-          "opponent": "ATL",
-          "team": "WSH",
-          "home": true
-        }
-      ],
-      "h2h": [],
-      "last5_games_count": 5,
-      "last10_games_count": 10,
-      "h2h_games_count": 0,
-      "h2h_limit": 10,
-      "stats_available": true
-    },
-    {
-      "player": "Lauren Betts",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 6.5,
-      "bookmaker": "fanduel",
-      "bookmaker_label": "FanDuel",
       "event_id": "0cc93c06f67e3eeac12f320fbf0a5d2f",
       "commence_time": "2026-08-07T23:30:00Z",
       "home_team_name": "Washington Mystics",
@@ -5539,7 +5382,7 @@
       "player": "Rhyne Howard",
       "market": "pts",
       "market_label": "Points",
-      "line": 17.5,
+      "line": 16.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "0cc93c06f67e3eeac12f320fbf0a5d2f",
@@ -5554,7 +5397,7 @@
       "game_datetime": "2026-08-07T23:30:00Z",
       "position": "G",
       "projection": 10.7,
-      "edge": -6.8,
+      "edge": -5.8,
       "last5_avg": 9.4,
       "last10_avg": 13.0,
       "h2h_avg": 0.0,
@@ -6481,7 +6324,7 @@
       "player": "Alanna Smith",
       "market": "pts",
       "market_label": "Points",
-      "line": 7.5,
+      "line": 8.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -6496,12 +6339,12 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "F",
       "projection": 4.8,
-      "edge": -2.7,
+      "edge": -3.7,
       "last5_avg": 4.8,
       "last10_avg": 4.9,
       "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 30,
+      "last5_over_pct": 20,
+      "last10_over_pct": 20,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -6795,7 +6638,7 @@
       "player": "Arike Ogunbowale",
       "market": "pts",
       "market_label": "Points",
-      "line": 14.5,
+      "line": 15.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -6810,12 +6653,12 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "G",
       "projection": 21.1,
-      "edge": 6.6,
+      "edge": 5.6,
       "last5_avg": 22.4,
       "last10_avg": 18.7,
       "h2h_avg": 0.0,
-      "last5_over_pct": 100,
-      "last10_over_pct": 80,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -6952,7 +6795,7 @@
       "player": "Arike Ogunbowale",
       "market": "pts",
       "market_label": "Points",
-      "line": 14.5,
+      "line": 15.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -6967,12 +6810,12 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "G",
       "projection": 21.1,
-      "edge": 6.6,
+      "edge": 5.6,
       "last5_avg": 22.4,
       "last10_avg": 18.7,
       "h2h_avg": 0.0,
-      "last5_over_pct": 100,
-      "last10_over_pct": 80,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -7423,7 +7266,7 @@
       "player": "Cecilia Zandalasini",
       "market": "pts",
       "market_label": "Points",
-      "line": 6.5,
+      "line": 7.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -7438,12 +7281,12 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "F",
       "projection": 8.2,
-      "edge": 1.7,
+      "edge": 0.7,
       "last5_avg": 8.6,
       "last10_avg": 7.5,
       "h2h_avg": 0.0,
-      "last5_over_pct": 60,
-      "last10_over_pct": 50,
+      "last5_over_pct": 40,
+      "last10_over_pct": 40,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -8051,7 +7894,7 @@
       "player": "Janelle Salaun",
       "market": "pts",
       "market_label": "Points",
-      "line": 12.5,
+      "line": 11.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -8066,12 +7909,12 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "F",
       "projection": 12.4,
-      "edge": -0.1,
+      "edge": 0.9,
       "last5_avg": 12.2,
       "last10_avg": 12.7,
       "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 40,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -8208,7 +8051,7 @@
       "player": "Janelle Salaun",
       "market": "pts",
       "market_label": "Points",
-      "line": 12.5,
+      "line": 11.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -8223,12 +8066,12 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "F",
       "projection": 12.4,
-      "edge": -0.1,
+      "edge": 0.9,
       "last5_avg": 12.2,
       "last10_avg": 12.7,
       "h2h_avg": 0.0,
-      "last5_over_pct": 40,
-      "last10_over_pct": 40,
+      "last5_over_pct": 60,
+      "last10_over_pct": 50,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -8365,7 +8208,7 @@
       "player": "Jessica Shepard",
       "market": "pts",
       "market_label": "Points",
-      "line": 12.5,
+      "line": 13.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -8380,12 +8223,12 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "F",
       "projection": 13.5,
-      "edge": 1.0,
+      "edge": 0.0,
       "last5_avg": 12.8,
       "last10_avg": 14.9,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
-      "last10_over_pct": 70,
+      "last10_over_pct": 60,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -9150,7 +8993,7 @@
       "player": "Paige Bueckers",
       "market": "pts",
       "market_label": "Points",
-      "line": 18.5,
+      "line": 19.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -9165,7 +9008,7 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "G",
       "projection": 17.0,
-      "edge": -1.5,
+      "edge": -2.5,
       "last5_avg": 15.6,
       "last10_avg": 19.6,
       "h2h_avg": 0.0,
@@ -9464,7 +9307,7 @@
       "player": "Veronica Burton",
       "market": "pts",
       "market_label": "Points",
-      "line": 11.5,
+      "line": 12.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -9479,12 +9322,12 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "G",
       "projection": 11.6,
-      "edge": 0.1,
+      "edge": -0.9,
       "last5_avg": 11.8,
       "last10_avg": 11.1,
       "h2h_avg": 0.0,
-      "last5_over_pct": 60,
-      "last10_over_pct": 40,
+      "last5_over_pct": 40,
+      "last10_over_pct": 30,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -9621,7 +9464,7 @@
       "player": "Veronica Burton",
       "market": "pts",
       "market_label": "Points",
-      "line": 11.5,
+      "line": 12.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "1abfa68590506baafec863ada56d863d",
@@ -9636,12 +9479,12 @@
       "game_datetime": "2026-08-08T01:30:00Z",
       "position": "G",
       "projection": 11.6,
-      "edge": 0.1,
+      "edge": -0.9,
       "last5_avg": 11.8,
       "last10_avg": 11.1,
       "h2h_avg": 0.0,
-      "last5_over_pct": 60,
-      "last10_over_pct": 40,
+      "last5_over_pct": 40,
+      "last10_over_pct": 30,
       "h2h_over_pct": 0,
       "last5": [
         {
