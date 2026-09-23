@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T14:46-04:00",
+  "updated_at": "2026-09-23T19:19-04:00",
   "slate_date": "2026-09-23",
   "games": [
     {
@@ -486,7 +486,7 @@
       "player": "Angel Reese",
       "market": "pts",
       "market_label": "Points",
-      "line": 15.5,
+      "line": 16.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "85d75f352e66c9e1289edf8efecacc5e",
@@ -501,7 +501,7 @@
       "game_datetime": "2026-09-24T00:00:00Z",
       "position": "F",
       "projection": 15.3,
-      "edge": -0.2,
+      "edge": -1.2,
       "last5_avg": 14.8,
       "last10_avg": 16.2,
       "h2h_avg": 0.0,
@@ -630,163 +630,6 @@
           "opponent": "SEA",
           "team": "ATL",
           "home": false
-        }
-      ],
-      "h2h": [],
-      "last5_games_count": 5,
-      "last10_games_count": 10,
-      "h2h_games_count": 0,
-      "h2h_limit": 10,
-      "stats_available": true
-    },
-    {
-      "player": "Breanna Stewart",
-      "market": "pts",
-      "market_label": "Points",
-      "line": 18.5,
-      "bookmaker": "draftkings",
-      "bookmaker_label": "DraftKings",
-      "event_id": "85d75f352e66c9e1289edf8efecacc5e",
-      "commence_time": "2026-09-24T00:00:00Z",
-      "home_team_name": "New York Liberty",
-      "away_team_name": "Atlanta Dream",
-      "team": "NY",
-      "opponent": "",
-      "home": null,
-      "game_id": "85d75f352e66c9e1289edf8efecacc5e",
-      "game_date": "2026-09-23",
-      "game_datetime": "2026-09-24T00:00:00Z",
-      "position": "F",
-      "projection": 20.1,
-      "edge": 1.6,
-      "last5_avg": 19.0,
-      "last10_avg": 22.2,
-      "h2h_avg": 0.0,
-      "last5_over_pct": 60,
-      "last10_over_pct": 70,
-      "h2h_over_pct": 0,
-      "last5": [
-        {
-          "date": "08/01",
-          "full_date": "2026-08-01",
-          "value": 14.0,
-          "opponent": "PHX",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 26.0,
-          "opponent": "LV",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/29",
-          "full_date": "2026-07-29",
-          "value": 29.0,
-          "opponent": "LA",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/26",
-          "full_date": "2026-07-26",
-          "value": 6.0,
-          "opponent": "SPO",
-          "team": "COOP",
-          "home": true
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 20.0,
-          "opponent": "CHI",
-          "team": "NY",
-          "home": true
-        }
-      ],
-      "last10": [
-        {
-          "date": "08/01",
-          "full_date": "2026-08-01",
-          "value": 14.0,
-          "opponent": "PHX",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/31",
-          "full_date": "2026-07-31",
-          "value": 26.0,
-          "opponent": "LV",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/29",
-          "full_date": "2026-07-29",
-          "value": 29.0,
-          "opponent": "LA",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/26",
-          "full_date": "2026-07-26",
-          "value": 6.0,
-          "opponent": "SPO",
-          "team": "COOP",
-          "home": true
-        },
-        {
-          "date": "07/22",
-          "full_date": "2026-07-22",
-          "value": 20.0,
-          "opponent": "CHI",
-          "team": "NY",
-          "home": true
-        },
-        {
-          "date": "07/21",
-          "full_date": "2026-07-21",
-          "value": 33.0,
-          "opponent": "DAL",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/19",
-          "full_date": "2026-07-19",
-          "value": 26.0,
-          "opponent": "IND",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/12",
-          "full_date": "2026-07-12",
-          "value": 22.0,
-          "opponent": "TOR",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/11",
-          "full_date": "2026-07-11",
-          "value": 17.0,
-          "opponent": "MIN",
-          "team": "NY",
-          "home": false
-        },
-        {
-          "date": "07/08",
-          "full_date": "2026-07-08",
-          "value": 29.0,
-          "opponent": "DAL",
-          "team": "NY",
-          "home": true
         }
       ],
       "h2h": [],
@@ -1271,7 +1114,7 @@
       "player": "Jonquel Jones",
       "market": "pts",
       "market_label": "Points",
-      "line": 14.5,
+      "line": 15.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "85d75f352e66c9e1289edf8efecacc5e",
@@ -1286,12 +1129,12 @@
       "game_datetime": "2026-09-24T00:00:00Z",
       "position": "C",
       "projection": 13.8,
-      "edge": -0.7,
+      "edge": -1.7,
       "last5_avg": 13.8,
       "last10_avg": 13.8,
       "h2h_avg": 0.0,
       "last5_over_pct": 40,
-      "last10_over_pct": 40,
+      "last10_over_pct": 30,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -1899,7 +1742,7 @@
       "player": "Leonie Fiebich",
       "market": "pts",
       "market_label": "Points",
-      "line": 7.5,
+      "line": 8.5,
       "bookmaker": "fanduel",
       "bookmaker_label": "FanDuel",
       "event_id": "85d75f352e66c9e1289edf8efecacc5e",
@@ -1914,12 +1757,12 @@
       "game_datetime": "2026-09-24T00:00:00Z",
       "position": "F",
       "projection": 10.5,
-      "edge": 3.0,
+      "edge": 2.0,
       "last5_avg": 10.4,
       "last10_avg": 10.7,
       "h2h_avg": 0.0,
       "last5_over_pct": 60,
-      "last10_over_pct": 70,
+      "last10_over_pct": 60,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -2998,7 +2841,7 @@
       "player": "Sabrina Ionescu",
       "market": "pts",
       "market_label": "Points",
-      "line": 14.5,
+      "line": 15.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "85d75f352e66c9e1289edf8efecacc5e",
@@ -3013,12 +2856,12 @@
       "game_datetime": "2026-09-24T00:00:00Z",
       "position": "G",
       "projection": 23.0,
-      "edge": 8.5,
+      "edge": 7.5,
       "last5_avg": 23.8,
       "last10_avg": 21.5,
       "h2h_avg": 0.0,
-      "last5_over_pct": 100,
-      "last10_over_pct": 80,
+      "last5_over_pct": 80,
+      "last10_over_pct": 70,
       "h2h_over_pct": 0,
       "last5": [
         {
