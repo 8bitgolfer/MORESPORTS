@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T20:16:37+00:00",
+  "updated_at": "2026-10-20T00:00:01+00:00",
   "slate_date": "2026-10-19",
   "source": "The Odds API",
   "sportsbooks": [
@@ -12,7 +12,7 @@
       "player": "Allisha Gray",
       "market": "pts",
       "market_label": "Points",
-      "line": 15.5,
+      "line": 16.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9e644e7765968b5d5e3e42384573f6a4",
@@ -129,6 +129,18 @@
       "away_team_name": "Atlanta Dream"
     },
     {
+      "player": "Isobel Borlase",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 4.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "9e644e7765968b5d5e3e42384573f6a4",
+      "commence_time": "2026-10-20T00:10:00Z",
+      "home_team_name": "Golden State Valkyries",
+      "away_team_name": "Atlanta Dream"
+    },
+    {
       "player": "Jordin Canada",
       "market": "pts",
       "market_label": "Points",
@@ -180,7 +192,7 @@
       "player": "Kayla Thornton",
       "market": "pts",
       "market_label": "Points",
-      "line": 3.5,
+      "line": 4.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9e644e7765968b5d5e3e42384573f6a4",
@@ -228,7 +240,7 @@
       "player": "Naz Hillmon",
       "market": "pts",
       "market_label": "Points",
-      "line": 6.5,
+      "line": 5.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9e644e7765968b5d5e3e42384573f6a4",
@@ -288,7 +300,7 @@
       "player": "Veronica Burton",
       "market": "pts",
       "market_label": "Points",
-      "line": 10.5,
+      "line": 9.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9e644e7765968b5d5e3e42384573f6a4",

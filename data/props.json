@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:20-04:00",
+  "updated_at": "2026-10-19T20:03-04:00",
   "slate_date": "2026-10-19",
   "games": [
     {
@@ -15,7 +15,7 @@
       "player": "Allisha Gray",
       "market": "pts",
       "market_label": "Points",
-      "line": 15.5,
+      "line": 16.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9e644e7765968b5d5e3e42384573f6a4",
@@ -30,12 +30,12 @@
       "game_datetime": "2026-10-20T00:10:00Z",
       "position": "G",
       "projection": 21.2,
-      "edge": 5.7,
+      "edge": 4.7,
       "last5_avg": 21.4,
       "last10_avg": 20.8,
       "h2h_avg": 0.0,
-      "last5_over_pct": 100,
-      "last10_over_pct": 100,
+      "last5_over_pct": 80,
+      "last10_over_pct": 90,
       "h2h_over_pct": 0,
       "last5": [
         {
@@ -1582,6 +1582,163 @@
       "stats_available": true
     },
     {
+      "player": "Isobel Borlase",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 4.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "9e644e7765968b5d5e3e42384573f6a4",
+      "commence_time": "2026-10-20T00:10:00Z",
+      "home_team_name": "Golden State Valkyries",
+      "away_team_name": "Atlanta Dream",
+      "team": "ATL",
+      "opponent": "GSV",
+      "home": false,
+      "game_id": "9e644e7765968b5d5e3e42384573f6a4",
+      "game_date": "2026-10-19",
+      "game_datetime": "2026-10-20T00:10:00Z",
+      "position": "G",
+      "projection": 7.4,
+      "edge": 2.9,
+      "last5_avg": 8.2,
+      "last10_avg": 5.9,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 80,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 3.0,
+          "opponent": "SEA",
+          "team": "ATL",
+          "home": true
+        },
+        {
+          "date": "07/30",
+          "full_date": "2026-07-30",
+          "value": 10.0,
+          "opponent": "DAL",
+          "team": "ATL",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 8.0,
+          "opponent": "CHI",
+          "team": "ATL",
+          "home": true
+        },
+        {
+          "date": "07/17",
+          "full_date": "2026-07-17",
+          "value": 10.0,
+          "opponent": "TOR",
+          "team": "ATL",
+          "home": false
+        },
+        {
+          "date": "07/13",
+          "full_date": "2026-07-13",
+          "value": 10.0,
+          "opponent": "LA",
+          "team": "ATL",
+          "home": true
+        }
+      ],
+      "last10": [
+        {
+          "date": "07/31",
+          "full_date": "2026-07-31",
+          "value": 3.0,
+          "opponent": "SEA",
+          "team": "ATL",
+          "home": true
+        },
+        {
+          "date": "07/30",
+          "full_date": "2026-07-30",
+          "value": 10.0,
+          "opponent": "DAL",
+          "team": "ATL",
+          "home": false
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 8.0,
+          "opponent": "CHI",
+          "team": "ATL",
+          "home": true
+        },
+        {
+          "date": "07/17",
+          "full_date": "2026-07-17",
+          "value": 10.0,
+          "opponent": "TOR",
+          "team": "ATL",
+          "home": false
+        },
+        {
+          "date": "07/13",
+          "full_date": "2026-07-13",
+          "value": 10.0,
+          "opponent": "LA",
+          "team": "ATL",
+          "home": true
+        },
+        {
+          "date": "07/11",
+          "full_date": "2026-07-11",
+          "value": 4.0,
+          "opponent": "POR",
+          "team": "ATL",
+          "home": true
+        },
+        {
+          "date": "07/10",
+          "full_date": "2026-07-10",
+          "value": 4.0,
+          "opponent": "SEA",
+          "team": "ATL",
+          "home": true
+        },
+        {
+          "date": "07/04",
+          "full_date": "2026-07-04",
+          "value": 0.0,
+          "opponent": "GS",
+          "team": "ATL",
+          "home": true
+        },
+        {
+          "date": "07/02",
+          "full_date": "2026-07-02",
+          "value": 3.0,
+          "opponent": "WSH",
+          "team": "ATL",
+          "home": false
+        },
+        {
+          "date": "06/28",
+          "full_date": "2026-06-28",
+          "value": 7.0,
+          "opponent": "SEA",
+          "team": "ATL",
+          "home": false
+        }
+      ],
+      "h2h": [],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 0,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
       "player": "Jordin Canada",
       "market": "pts",
       "market_label": "Points",
@@ -2213,7 +2370,7 @@
       "player": "Kayla Thornton",
       "market": "pts",
       "market_label": "Points",
-      "line": 3.5,
+      "line": 4.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9e644e7765968b5d5e3e42384573f6a4",
@@ -2228,7 +2385,7 @@
       "game_datetime": "2026-10-20T00:10:00Z",
       "position": "F",
       "projection": 8.5,
-      "edge": 5.0,
+      "edge": 4.0,
       "last5_avg": 9.0,
       "last10_avg": 7.5,
       "h2h_avg": 0.0,
@@ -2841,7 +2998,7 @@
       "player": "Naz Hillmon",
       "market": "pts",
       "market_label": "Points",
-      "line": 6.5,
+      "line": 5.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9e644e7765968b5d5e3e42384573f6a4",
@@ -2856,7 +3013,7 @@
       "game_datetime": "2026-10-20T00:10:00Z",
       "position": "F",
       "projection": 10.9,
-      "edge": 4.4,
+      "edge": 5.4,
       "last5_avg": 11.8,
       "last10_avg": 9.1,
       "h2h_avg": 0.0,
@@ -3626,7 +3783,7 @@
       "player": "Veronica Burton",
       "market": "pts",
       "market_label": "Points",
-      "line": 10.5,
+      "line": 9.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "9e644e7765968b5d5e3e42384573f6a4",
@@ -3641,12 +3798,12 @@
       "game_datetime": "2026-10-20T00:10:00Z",
       "position": "G",
       "projection": 11.6,
-      "edge": 1.1,
+      "edge": 2.1,
       "last5_avg": 11.8,
       "last10_avg": 11.1,
       "h2h_avg": 0.0,
       "last5_over_pct": 80,
-      "last10_over_pct": 50,
+      "last10_over_pct": 60,
       "h2h_over_pct": 0,
       "last5": [
         {
