@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T20:12:19+00:00",
+  "updated_at": "2026-10-27T00:07:13+00:00",
   "slate_date": "2026-10-26",
   "source": "The Odds API",
   "sportsbooks": [
@@ -177,6 +177,18 @@
       "away_team_name": "Atlanta Dream"
     },
     {
+      "player": "Kiah Stokes",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 3.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "08bda2a9513ed888c66e834f88ddd65f",
+      "commence_time": "2026-10-27T00:10:00Z",
+      "home_team_name": "Golden State Valkyries",
+      "away_team_name": "Atlanta Dream"
+    },
+    {
       "player": "Naz Hillmon",
       "market": "pts",
       "market_label": "Points",
@@ -204,7 +216,7 @@
       "player": "Rhyne Howard",
       "market": "pts",
       "market_label": "Points",
-      "line": 15.5,
+      "line": 14.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "08bda2a9513ed888c66e834f88ddd65f",

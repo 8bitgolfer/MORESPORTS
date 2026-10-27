@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T16:15-04:00",
+  "updated_at": "2026-10-26T20:10-04:00",
   "slate_date": "2026-10-26",
   "games": [
     {
@@ -2210,6 +2210,163 @@
       "stats_available": true
     },
     {
+      "player": "Kiah Stokes",
+      "market": "pts",
+      "market_label": "Points",
+      "line": 3.5,
+      "bookmaker": "draftkings",
+      "bookmaker_label": "DraftKings",
+      "event_id": "08bda2a9513ed888c66e834f88ddd65f",
+      "commence_time": "2026-10-27T00:10:00Z",
+      "home_team_name": "Golden State Valkyries",
+      "away_team_name": "Atlanta Dream",
+      "team": "GS",
+      "opponent": "",
+      "home": null,
+      "game_id": "08bda2a9513ed888c66e834f88ddd65f",
+      "game_date": "2026-10-26",
+      "game_datetime": "2026-10-27T00:10:00Z",
+      "position": "C",
+      "projection": 3.7,
+      "edge": 0.2,
+      "last5_avg": 3.4,
+      "last10_avg": 4.2,
+      "h2h_avg": 0.0,
+      "last5_over_pct": 40,
+      "last10_over_pct": 50,
+      "h2h_over_pct": 0,
+      "last5": [
+        {
+          "date": "07/30",
+          "full_date": "2026-07-30",
+          "value": 2.0,
+          "opponent": "PHX",
+          "team": "GS",
+          "home": false
+        },
+        {
+          "date": "07/21",
+          "full_date": "2026-07-21",
+          "value": 3.0,
+          "opponent": "WSH",
+          "team": "GS",
+          "home": true
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 3.0,
+          "opponent": "WSH",
+          "team": "GS",
+          "home": true
+        },
+        {
+          "date": "07/16",
+          "full_date": "2026-07-16",
+          "value": 4.0,
+          "opponent": "IND",
+          "team": "GS",
+          "home": false
+        },
+        {
+          "date": "07/10",
+          "full_date": "2026-07-10",
+          "value": 5.0,
+          "opponent": "CON",
+          "team": "GS",
+          "home": false
+        }
+      ],
+      "last10": [
+        {
+          "date": "07/30",
+          "full_date": "2026-07-30",
+          "value": 2.0,
+          "opponent": "PHX",
+          "team": "GS",
+          "home": false
+        },
+        {
+          "date": "07/21",
+          "full_date": "2026-07-21",
+          "value": 3.0,
+          "opponent": "WSH",
+          "team": "GS",
+          "home": true
+        },
+        {
+          "date": "07/19",
+          "full_date": "2026-07-19",
+          "value": 3.0,
+          "opponent": "WSH",
+          "team": "GS",
+          "home": true
+        },
+        {
+          "date": "07/16",
+          "full_date": "2026-07-16",
+          "value": 4.0,
+          "opponent": "IND",
+          "team": "GS",
+          "home": false
+        },
+        {
+          "date": "07/10",
+          "full_date": "2026-07-10",
+          "value": 5.0,
+          "opponent": "CON",
+          "team": "GS",
+          "home": false
+        },
+        {
+          "date": "07/08",
+          "full_date": "2026-07-08",
+          "value": 0.0,
+          "opponent": "TOR",
+          "team": "GS",
+          "home": false
+        },
+        {
+          "date": "07/06",
+          "full_date": "2026-07-06",
+          "value": 6.0,
+          "opponent": "WSH",
+          "team": "GS",
+          "home": false
+        },
+        {
+          "date": "07/04",
+          "full_date": "2026-07-04",
+          "value": 5.0,
+          "opponent": "ATL",
+          "team": "GS",
+          "home": false
+        },
+        {
+          "date": "06/28",
+          "full_date": "2026-06-28",
+          "value": 1.0,
+          "opponent": "NY",
+          "team": "GS",
+          "home": true
+        },
+        {
+          "date": "06/27",
+          "full_date": "2026-06-27",
+          "value": 13.0,
+          "opponent": "ATL",
+          "team": "GS",
+          "home": true
+        }
+      ],
+      "h2h": [],
+      "last5_games_count": 5,
+      "last10_games_count": 10,
+      "h2h_games_count": 0,
+      "h2h_limit": 10,
+      "stats_available": true
+    },
+    {
       "player": "Naz Hillmon",
       "market": "pts",
       "market_label": "Points",
@@ -2527,7 +2684,7 @@
       "player": "Rhyne Howard",
       "market": "pts",
       "market_label": "Points",
-      "line": 15.5,
+      "line": 14.5,
       "bookmaker": "draftkings",
       "bookmaker_label": "DraftKings",
       "event_id": "08bda2a9513ed888c66e834f88ddd65f",
@@ -2542,7 +2699,7 @@
       "game_datetime": "2026-10-27T00:10:00Z",
       "position": "G",
       "projection": 10.7,
-      "edge": -4.8,
+      "edge": -3.8,
       "last5_avg": 9.4,
       "last10_avg": 13.0,
       "h2h_avg": 0.0,
